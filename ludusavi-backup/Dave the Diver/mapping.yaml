@@ -1,0 +1,42 @@
+---
+name: Dave the Diver
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T01:32:13.206548597Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_00_GD.sav:
+        hash: b2b6c00ae76b58f01b8914b141b0363c0f20ff6c
+        size: 356644
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_00_PZ.sav:
+        hash: 2a8553cbdb7c5aa9028140d57329b9a7db420be1
+        size: 644231
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_00_UO.sav:
+        hash: c018d59d1efc171a5430e2574b3a32768459c4a0
+        size: 601
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_00_UP.sav:
+        hash: c130ed98313343ecb63419358f185806dd5baf4e
+        size: 337
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_01_GD.sav:
+        hash: 39aa53be983521da2bc328fc4a1facfcdfbe7fcd
+        size: 363416
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_01_PZ.sav:
+        hash: 906d5169ac4c33b3d4763b76d1da1e03727c8de8
+        size: 644231
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_02_GD.sav:
+        hash: a7b51095a9591246e519708fc7cac3007fff5a5c
+        size: 355246
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_02_PZ.sav:
+        hash: 77995efe7c84b6693d3bf144e08d1ef00ae7b394
+        size: 644231
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/m_GameSave_00_GD.sav:
+        hash: a0fbc078809fea6394884ad170b635e97d4dbd0f
+        size: 323744
+      /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/m_GameSave_00_PZ.sav:
+        hash: a72c763d9ed0109e3a103dfe316dec7a0e08ca03
+        size: 617114
+    registry:
+      hash: ~
+    children: []

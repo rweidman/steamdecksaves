@@ -1,0 +1,15 @@
+---
+name: "There Is No Game: Wrong Dimension"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T01:32:13.895204138Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/steamapps/compatdata/1240210/pfx/drive_c/users/steamuser/AppData/LocalLow/DrawMeAPixel/Ting/76561198048379860/Global.dat:
+        hash: ed564c7eb23caaa5f0076f8e8820c36bb38fb374
+        size: 449
+    registry:
+      hash: ~
+    children: []

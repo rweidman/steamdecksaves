@@ -1,0 +1,114 @@
+---
+name: Persona 4 Golden
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T01:32:13.912728219Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0001.bin:
+        hash: 4dd6711d80df6559dd186727fb8c254efbd07db8
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0001.binslot:
+        hash: bb3062d553a98a03a863343a66e57baf93e13875
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0002.bin:
+        hash: 79b7629013efbfc487824454831376507d1999f3
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0002.binslot:
+        hash: 6277fca4bf3ceccb1dc7ce9a08e341410124e89f
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0003.bin:
+        hash: 715ea77cdff92fee4ebd3272e272f7a2414fe22b
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0003.binslot:
+        hash: e206b6e84fd6e7a678898ae5fb44d40e008bd293
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0004.bin:
+        hash: 8973e18bb0c36539be10f6bfdc94fe07a9a9b445
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0004.binslot:
+        hash: effd3cb5ac4faf073ae5e91eff0b69441c3a6a2f
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0005.bin:
+        hash: 70d21723ce7be8378c62e399aa3d1a44f61f597e
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0005.binslot:
+        hash: 2e6163620811def934d869a1ed96fcbadcaaa49f
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0006.bin:
+        hash: 11452a4135a96089f5133426e4f83891d8698dab
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0006.binslot:
+        hash: 24e2aa73cf3e4347fada195773081d789e30434b
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0007.bin:
+        hash: 0610367a37be444f04026b88137bf3879a87cb59
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0007.binslot:
+        hash: 1817c8005b27f8921fae1cbfffd19a92520b1323
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0008.bin:
+        hash: 2f5052c57158ab335bc89f3d986e3fe8fc936c30
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0008.binslot:
+        hash: f93b82ed6bc3901cb1e0ff909abbf2a49fba9156
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0009.bin:
+        hash: 143a90bba6205faed2475e12862749550cbf8428
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0009.binslot:
+        hash: 432916f57316b4c456e79226629b1ab2585f567d
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0010.bin:
+        hash: f7d5a14acdad037d94c507806a6eb212b4c2ab66
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0010.binslot:
+        hash: a83eb386b05fc7f432289eabae67b47f6741255d
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0011.bin:
+        hash: a6d17daa5edfb08ab3eb46dbafba68d7735729d3
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0011.binslot:
+        hash: 99f7f558dce8ddbfab7df47e868f7aff6d6bbf67
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0012.bin:
+        hash: 4b4e9fc399b1aaeecabe859dadcba7ae65dd14cf
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0012.binslot:
+        hash: ce0de1fafc585a81e10cee4fc1d7553e2d492f5a
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0013.bin:
+        hash: 72e41306635b10feee8753074c1c42b7f1d1cff9
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0013.binslot:
+        hash: cb145b37fae2ad0f28e4e8ae0d7cb3503858f924
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0014.bin:
+        hash: e7533b36fff1dff7836a1e175a5ccf18338d4a98
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0014.binslot:
+        hash: 86601a8fd8f4b51a35874d209cc776a49fb5189f
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0015.bin:
+        hash: 71a6d5bf5e375466f5fd3b03dfff6fd8e2a6bffe
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0015.binslot:
+        hash: 7123354b9d060fff8b034c89f75da25a932af72f
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0016.bin:
+        hash: 5a8b4fa02606597bfcb565dbe4bd83f2d29d8c4c
+        size: 217937
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/data0016.binslot:
+        hash: 56d9ccfbe777c537d0708149ee3c19b2cacd89f0
+        size: 884
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/system.bin:
+        hash: 35d251b8084b007904860ad5500319fe0d1c7131
+        size: 32768
+      /home/deck/.local/share/Steam/userdata/88114132/1113000/remote/system.binslot:
+        hash: 2bc349a67908b72678ac693af16fef12704adf0b
+        size: 884
+    registry:
+      hash: ~
+    children: []

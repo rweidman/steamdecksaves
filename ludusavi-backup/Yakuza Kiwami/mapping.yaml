@@ -1,0 +1,36 @@
+---
+name: Yakuza Kiwami
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T01:32:15.648437763Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/SaveData0000.clr:
+        hash: 83cae84e919784edd7278b759d5978f9800b7d20
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/SaveData0000.sav:
+        hash: de4e99b97d64ea8ca861b0e3179ee4d42e555091
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/SaveData0001.sav:
+        hash: db059e97b2f6d2ac32a74a941ddb4221d5d2d50d
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/SaveData0002.sav:
+        hash: 4e49db69ef3e2698e1c85f3949859b30d49a42d3
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/autosave0000.sav:
+        hash: e447eb318a9e91c9367e76c480bb3c02a25e1574
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/autosave0001.sav:
+        hash: 025614f7d1e1b7b10d9e877cfb576466198f8b2b
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/autosave0002.sav:
+        hash: 179a8b09ad9fab5ee2e61a56d5587d66bc291638
+        size: 136136
+      /home/deck/.local/share/Steam/userdata/88114132/834530/remote/system.sys:
+        hash: cae7070a8cf9a7eb2ae4a9d478bde98980250f98
+        size: 1536
+    registry:
+      hash: ~
+    children: []

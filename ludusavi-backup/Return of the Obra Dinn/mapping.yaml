@@ -1,0 +1,18 @@
+---
+name: Return of the Obra Dinn
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T01:32:14.649805504Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/steamapps/compatdata/653530/pfx/drive_c/users/steamuser/AppData/LocalLow/3909/ObraDinn/ObraDinnSave-P1.txt:
+        hash: 20c165880c879a72723d46ada182f1ae7098fbad
+        size: 24038
+      /home/deck/.local/share/Steam/steamapps/compatdata/653530/pfx/drive_c/users/steamuser/AppData/LocalLow/3909/ObraDinn/steam_autocloud.vdf:
+        hash: 9afb26a2a42b18a3955dc1027641bcc27d6fcf0a
+        size: 51
+    registry:
+      hash: ~
+    children: []

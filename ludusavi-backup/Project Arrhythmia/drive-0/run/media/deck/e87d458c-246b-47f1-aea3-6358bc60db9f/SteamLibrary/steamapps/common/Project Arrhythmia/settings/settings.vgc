@@ -1,0 +1,35 @@
+{
+    "Accessibility": {
+        "EffectsIntensity": 0,
+        "SkipMenuIntro": false
+    },
+    "Gameplay": {
+        "Vibration": true
+    },
+    "Audio": {
+        "VolMaster": 10,
+        "VolMusic": 8,
+        "VolEffects": 8,
+        "CheckpointSFX": true,
+        "PlayerSFX": true,
+        "MenuMusic": 0
+    },
+    "Video": {
+        "Resolution": 3,
+        "Fullscreen": true,
+        "FullscreenMode": 0,
+        "VSync": false,
+        "AntiAliasing": 0,
+        "MenuEffects": 1,
+        "UITheme": 8,
+        "Language": "english"
+    },
+    "StateOfGame": {
+        "LastViewedUpdate": "21.12.2",
+        "HasSeenTutorial": false,
+        "CurrentArcadeSortDirection": "ascending",
+        "CurrentArcadeSort": "creator_name",
+        "ArcadeDifficulty": 1,
+        "ArcadeGameSpeed": 2
+    }
+}
