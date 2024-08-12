@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-12T01:32:13.895204138Z"
+    when: "2024-08-12T02:47:14.840053406Z"
     os: linux
     files:
       /home/deck/.local/share/Steam/steamapps/compatdata/1240210/pfx/drive_c/users/steamuser/AppData/LocalLow/DrawMeAPixel/Ting/76561198048379860/Global.dat:

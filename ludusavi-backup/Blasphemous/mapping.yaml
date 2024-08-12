@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-12T01:32:11.872732459Z"
+    when: "2024-08-12T02:47:13.519587443Z"
     os: linux
     files:
       /home/deck/.config/unity3d/TheGameKitchen/Blasphemous/Savegames/76561198048379860/app_settings:

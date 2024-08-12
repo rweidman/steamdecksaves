@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-12T01:32:13.206548597Z"
+    when: "2024-08-12T02:47:12.362171582Z"
     os: linux
     files:
       /home/deck/.local/share/Steam/userdata/88114132/1868140/remote/GameSave_00_GD.sav:

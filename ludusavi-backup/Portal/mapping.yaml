@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-12T01:32:12.835422376Z"
+    when: "2024-08-12T02:47:13.913306597Z"
     os: linux
     files:
       /home/deck/.local/share/Steam/userdata/88114132/400/remote/cfg/config.cfg:
