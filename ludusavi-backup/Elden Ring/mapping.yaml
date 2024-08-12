@@ -4,11 +4,11 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-12T01:32:11.039507082Z"
+    when: "2024-08-12T02:00:10.060785375Z"
     os: linux
     files:
       /home/deck/.local/share/Steam/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/AppData/Roaming/EldenRing/76561198048379860/ER0000.sl2:
-        hash: 73e9290fa91e6a11bad2a27b16691e2dc0a63dc5
+        hash: d75b7e949939478a9411cb79a5e612528f61d8d6
         size: 28967888
       /home/deck/.local/share/Steam/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/AppData/Roaming/EldenRing/GraphicsConfig.xml:
         hash: a006fd30ce5cc6ec951dce09efdee81ff4020e9c
