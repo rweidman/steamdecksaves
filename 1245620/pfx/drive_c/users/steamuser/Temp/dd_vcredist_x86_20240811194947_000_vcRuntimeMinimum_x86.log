@@ -1,0 +1,337 @@
+1: 0 2: 1033 3: 1252 
+=== Logging started: 8/11/2024  7:49:48 ===
+Message type: 0, Argument: 1033, 1252
+Message type: 1, Argument: Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334
+Action 7:49:48: INSTALL. 
+Action start 7:49:48: INSTALL.
+1: 0 2: 1033 3: 1252 
+1: 0 2: 1033 3: 1252 
+=== Logging started: 8/11/2024  7:49:48 ===
+Message type: 0, Argument: 1033, 1252
+Message type: 1, Argument: Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334
+Action 7:49:48: INSTALL. 
+Action start 7:49:48: INSTALL.
+1: Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 2: {0D01A812-82A1-481F-8546-8E28E976F8DF} 
+Action 7:49:48: FindRelatedProducts. Searching for related applications
+Action start 7:49:48: FindRelatedProducts.
+Action ended 7:49:48: FindRelatedProducts. Return value 1.
+Action 7:49:48: LaunchConditions. Evaluating launch conditions
+Action start 7:49:48: LaunchConditions.
+Action ended 7:49:48: LaunchConditions. Return value 1.
+Action 7:49:48: ValidateProductID. 
+Action start 7:49:48: ValidateProductID.
+Action ended 7:49:48: ValidateProductID. Return value 1.
+Action 7:49:48: CostInitialize. Computing space requirements
+Action start 7:49:48: CostInitialize.
+Action ended 7:49:48: CostInitialize. Return value 1.
+Action 7:49:48: FileCost. Computing space requirements
+Action start 7:49:48: FileCost.
+Action ended 7:49:48: FileCost. Return value 1.
+Action 7:49:48: CostFinalize. Computing space requirements
+Action start 7:49:48: CostFinalize.
+Action ended 7:49:48: CostFinalize. Return value 1.
+Action 7:49:48: InstallValidate. Validating install
+Action start 7:49:48: InstallValidate.
+Action ended 7:49:48: InstallValidate. Return value 1.
+Action 7:49:48: InstallInitialize. 
+Action start 7:49:48: InstallInitialize.
+Action ended 7:49:48: InstallInitialize. Return value 1.
+Action 7:49:48: RemoveExistingProducts. Removing applications
+Action start 7:49:48: RemoveExistingProducts.
+Action ended 7:49:48: RemoveExistingProducts. Return value 1.
+Action 7:49:48: ProcessComponents. Updating component registration
+Action start 7:49:48: ProcessComponents.
+Action ended 7:49:48: ProcessComponents. Return value 1.
+Action 7:49:48: UnpublishFeatures. Unpublishing Product Features
+Action start 7:49:48: UnpublishFeatures.
+Action ended 7:49:48: UnpublishFeatures. Return value 1.
+Action 7:49:48: RemoveRegistryValues. Removing system registry values
+Action start 7:49:48: RemoveRegistryValues.
+Action ended 7:49:48: RemoveRegistryValues. Return value 1.
+Action 7:49:48: RemoveFiles. Removing files
+Action start 7:49:48: RemoveFiles.
+Action ended 7:49:48: RemoveFiles. Return value 1.
+Action 7:49:48: InstallFiles. Copying new files
+Action start 7:49:48: InstallFiles.
+Action ended 7:49:48: InstallFiles. Return value 1.
+Action 7:49:48: WriteRegistryValues. Writing system registry values
+Action start 7:49:48: WriteRegistryValues.
+Action ended 7:49:48: WriteRegistryValues. Return value 1.
+Action 7:49:48: RegisterUser. Registering user
+Action start 7:49:48: RegisterUser.
+Action ended 7:49:48: RegisterUser. Return value 1.
+Action 7:49:48: RegisterProduct. Registering product
+Action start 7:49:48: RegisterProduct.
+Action ended 7:49:48: RegisterProduct. Return value 1.
+Action 7:49:48: PublishFeatures. Publishing Product Features
+Action start 7:49:48: PublishFeatures.
+Action ended 7:49:48: PublishFeatures. Return value 1.
+Action 7:49:48: PublishProduct. Publishing product information
+Action start 7:49:48: PublishProduct.
+Action ended 7:49:48: PublishProduct. Return value 1.
+Action 7:49:48: InstallFinalize. 
+Action start 7:49:48: InstallFinalize.
+Action 7:49:48: ProcessComponents. Updating component registration
+Action start 7:49:48: ProcessComponents.
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {E3819B64-3C56-3DD7-921D-00B011AD31DE} 3: 02:\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86\Version 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {42F41217-AF8B-33D4-9CB3-FF5F696BECBB} 3:  
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {E8E39D3B-4F35-36D8-B892-4B28336FE041} 3: C:\windows\syswow64\vcruntime140.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {A2AA960C-FD3C-3A6D-BD6F-14933011AFB3} 3: C:\windows\syswow64\msvcp140.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {A2E7203F-60C2-3D7E-8A46-DB3D381A2CE6} 3: C:\windows\syswow64\msvcp140_1.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {BC0399EF-5E9D-3C7C-BFF5-5E9A95C96DAF} 3: C:\windows\syswow64\msvcp140_2.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {763CEC2D-A166-4806-9E55-7D0676C9B2C2} 3: C:\windows\syswow64\msvcp140_atomic_wait.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {A09E2159-AF75-436E-AA4D-25B6B0A11D60} 3: C:\windows\syswow64\msvcp140_codecvt_ids.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {9FC931F8-9ED1-3263-A0F1-8ADE330D0ECE} 3: C:\windows\syswow64\concrt140.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {0200CF79-B9A1-3BE4-955A-29FA9D4B1A5C} 3: C:\windows\syswow64\vccorlib140.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {240E5802-BDC9-3681-9267-7CA35F29EEBF} 3: C:\windows\syswow64\vcamp140.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {64DE6BFD-3D7C-36DF-9427-2DE6858F45CE} 3: C:\windows\syswow64\vcomp140.dll 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {C96DC6F1-894A-33E0-A8C1-3E9E7394FA28} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\SP 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {7ACE84BA-4FF6-351B-AE91-E198DDB852EE} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum\Install 
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 2: {7F616D2F-B149-3802-BE4C-0F971B293B6C} 3: -1:\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_x86,v14\Version 
+Action ended 7:49:48: ProcessComponents. Return value 1.
+Action 7:49:48: UnpublishFeatures. Unpublishing Product Features
+Action start 7:49:48: UnpublishFeatures.
+Action ended 7:49:48: UnpublishFeatures. Return value 1.
+Action 7:49:48: RemoveRegistryValues. Removing system registry values
+Action start 7:49:48: RemoveRegistryValues.
+Action ended 7:49:48: RemoveRegistryValues. Return value 1.
+Action 7:49:48: RemoveFiles. Removing files
+Action start 7:49:48: RemoveFiles.
+File: api-ms-win-core-console-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-datetime-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-debug-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-errorhandling-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-file-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-file-l1-2-0.dll, Directory: SystemFolder
+File: api-ms-win-core-file-l2-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-handle-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-heap-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-interlocked-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-libraryloader-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-localization-l1-2-0.dll, Directory: SystemFolder
+File: api-ms-win-core-memory-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-namedpipe-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-processenvironment-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-processthreads-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-processthreads-l1-1-1.dll, Directory: SystemFolder
+File: api-ms-win-core-profile-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-rtlsupport-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-string-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-synch-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-synch-l1-2-0.dll, Directory: SystemFolder
+File: api-ms-win-core-sysinfo-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-timezone-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-core-util-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-conio-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-convert-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-environment-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-filesystem-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-heap-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-locale-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-math-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-multibyte-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-private-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-process-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-runtime-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-stdio-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-string-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-time-l1-1-0.dll, Directory: SystemFolder
+File: api-ms-win-crt-utility-l1-1-0.dll, Directory: SystemFolder
+File: concrt140.dll, Directory: SystemFolder
+File: msvcp140.dll, Directory: SystemFolder
+File: msvcp140_1.dll, Directory: SystemFolder
+File: msvcp140_2.dll, Directory: SystemFolder
+File: msvcp140_atomic_wait.dll, Directory: SystemFolder
+File: msvcp140_codecvt_ids.dll, Directory: SystemFolder
+File: ucrtbase.dll, Directory: SystemFolder
+File: vcamp140.dll, Directory: SystemFolder
+File: vccorlib140.dll, Directory: SystemFolder
+File: vcomp140.dll, Directory: SystemFolder
+File: vcruntime140.dll, Directory: SystemFolder
+Action ended 7:49:48: RemoveFiles. Return value 1.
+Action 7:49:48: InstallFiles. Copying new files
+Action start 7:49:48: InstallFiles.
+File: api-ms-win-core-console-l1-1-0.dll,  Directory: SystemFolder,  Size: 12672
+File: api-ms-win-core-datetime-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-debug-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-errorhandling-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-file-l1-1-0.dll,  Directory: SystemFolder,  Size: 15752
+File: api-ms-win-core-file-l1-2-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-file-l2-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-handle-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-heap-l1-1-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-core-interlocked-l1-1-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-core-libraryloader-l1-1-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-core-localization-l1-2-0.dll,  Directory: SystemFolder,  Size: 14728
+File: api-ms-win-core-memory-l1-1-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-core-namedpipe-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-processenvironment-l1-1-0.dll,  Directory: SystemFolder,  Size: 13192
+File: api-ms-win-core-processthreads-l1-1-0.dll,  Directory: SystemFolder,  Size: 14216
+File: api-ms-win-core-processthreads-l1-1-1.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-core-profile-l1-1-0.dll,  Directory: SystemFolder,  Size: 11656
+File: api-ms-win-core-rtlsupport-l1-1-0.dll,  Directory: SystemFolder,  Size: 11656
+File: api-ms-win-core-string-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-synch-l1-1-0.dll,  Directory: SystemFolder,  Size: 14216
+File: api-ms-win-core-synch-l1-2-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-core-sysinfo-l1-1-0.dll,  Directory: SystemFolder,  Size: 13184
+File: api-ms-win-core-timezone-l1-1-0.dll,  Directory: SystemFolder,  Size: 12168
+File: api-ms-win-core-util-l1-1-0.dll,  Directory: SystemFolder,  Size: 12160
+File: api-ms-win-crt-conio-l1-1-0.dll,  Directory: SystemFolder,  Size: 13192
+File: api-ms-win-crt-convert-l1-1-0.dll,  Directory: SystemFolder,  Size: 16264
+File: api-ms-win-crt-environment-l1-1-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-crt-filesystem-l1-1-0.dll,  Directory: SystemFolder,  Size: 14216
+File: api-ms-win-crt-heap-l1-1-0.dll,  Directory: SystemFolder,  Size: 13192
+File: api-ms-win-crt-locale-l1-1-0.dll,  Directory: SystemFolder,  Size: 12680
+File: api-ms-win-crt-math-l1-1-0.dll,  Directory: SystemFolder,  Size: 22920
+File: api-ms-win-crt-multibyte-l1-1-0.dll,  Directory: SystemFolder,  Size: 20360
+File: api-ms-win-crt-private-l1-1-0.dll,  Directory: SystemFolder,  Size: 66952
+File: api-ms-win-crt-process-l1-1-0.dll,  Directory: SystemFolder,  Size: 13184
+File: api-ms-win-crt-runtime-l1-1-0.dll,  Directory: SystemFolder,  Size: 16768
+File: api-ms-win-crt-stdio-l1-1-0.dll,  Directory: SystemFolder,  Size: 18304
+File: api-ms-win-crt-string-l1-1-0.dll,  Directory: SystemFolder,  Size: 18312
+File: api-ms-win-crt-time-l1-1-0.dll,  Directory: SystemFolder,  Size: 14728
+File: api-ms-win-crt-utility-l1-1-0.dll,  Directory: SystemFolder,  Size: 12672
+File: concrt140.dll,  Directory: SystemFolder,  Size: 244104
+File: msvcp140.dll,  Directory: SystemFolder,  Size: 450944
+File: msvcp140_1.dll,  Directory: SystemFolder,  Size: 21384
+File: msvcp140_2.dll,  Directory: SystemFolder,  Size: 166792
+File: msvcp140_atomic_wait.dll,  Directory: SystemFolder,  Size: 39304
+File: msvcp140_codecvt_ids.dll,  Directory: SystemFolder,  Size: 18824
+File: ucrtbase.dll,  Directory: SystemFolder,  Size: 914824
+File: vcamp140.dll,  Directory: SystemFolder,  Size: 355200
+File: vccorlib140.dll,  Directory: SystemFolder,  Size: 267656
+File: vcomp140.dll,  Directory: SystemFolder,  Size: 150408
+File: vcruntime140.dll,  Directory: SystemFolder,  Size: 76168
+Action ended 7:49:49: InstallFiles. Return value 1.
+Action 7:49:49: WriteRegistryValues. Writing system registry values
+Action start 7:49:49: WriteRegistryValues.
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86, Name: Version, Value: v14.28.29334.00
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Name: SP, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: Install, Value: 
+Key: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_x86,v14, Name: Version, Value: 14.28.29334
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86, Name: Installed, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86, Name: Major, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86, Name: Minor, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86, Name: Bld, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X86, Name: Rbld, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Name: SPIndex, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: InstallerType, Value: MSI
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: SP, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: SPIndex, Value: 
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: SPName, Value: RTM
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: Version, Value: 14.28.29334
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Name: UpdateVersion, Value: 14.28.29334
+Key: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_x86,v14, Name: , Value: {0D01A812-82A1-481F-8546-8E28E976F8DF}
+Key: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_x86,v14, Name: DisplayName, Value: Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334
+Action ended 7:49:49: WriteRegistryValues. Return value 1.
+Action 7:49:49: RegisterUser. Registering user
+Action start 7:49:49: RegisterUser.
+1:  
+Action ended 7:49:49: RegisterUser. Return value 1.
+Action 7:49:49: RegisterProduct. Registering product
+Action start 7:49:49: RegisterProduct.
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 
+Action ended 7:49:49: RegisterProduct. Return value 1.
+Action 7:49:49: PublishFeatures. Publishing Product Features
+Action start 7:49:49: PublishFeatures.
+Feature: VC_Runtime_Minimum
+Feature: Provider
+Feature: Servicing_Key
+Action ended 7:49:49: PublishFeatures. Return value 1.
+Action 7:49:49: PublishProduct. Publishing product information
+Action start 7:49:49: PublishProduct.
+1: {0D01A812-82A1-481F-8546-8E28E976F8DF} 
+Action ended 7:49:49: PublishProduct. Return value 1.
+Action ended 7:49:49: InstallFinalize. Return value 1.
+Action ended 7:49:49: INSTALL. Return value 1.
+1: Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 2: {0D01A812-82A1-481F-8546-8E28E976F8DF} 3: 1 
+Property(S): UpgradeCode = {65E5BD06-6392-3027-8C26-853107D3CF1A}
+Property(S): TARGETDIR = C:\
+Property(S): SystemFolder = C:\windows\syswow64\
+Property(S): SourceDir = C:\ProgramData\Package Cache\{0D01A812-82A1-481F-8546-8E28E976F8DF}v14.28.29334\packages\vcRuntimeMinimum_x86\
+Property(S): ALLUSERS = 1
+Property(S): FILESINUSETEXT = The following applications should be closed before continuing the install:
+Property(S): INSTALLLEVEL = 2
+Property(S): LIMITUI = 1
+Property(S): REBOOT = ReallySuppress
+Property(S): REPAIR_REINSTALLMODE = pecmsu
+Property(S): ARPSYSTEMCOMPONENT = 1
+Property(S): LocProductName = Microsoft Visual C++ 2019 X86 Runtime
+Property(S): ProductCPU = x86
+Property(S): ProductEdition = RuntimeMinimum
+Property(S): ProductFamily = VC
+Property(S): RTM_ProductVersion = 14.28.29334
+Property(S): MsiLogging = voicewarmupx
+Property(S): Manufacturer = Microsoft Corporation
+Property(S): ProductCode = {0D01A812-82A1-481F-8546-8E28E976F8DF}
+Property(S): ProductLanguage = 1033
+Property(S): ProductName = Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334
+Property(S): ProductVersion = 14.28.29334
+Property(S): DirectoryTable100_x86 = DirectoryTable
+Property(S): SecureCustomProperties = IGNOREDEPENDENCIES;NEWERVCRUNTIMEVERSIONDETECTED;UPGRADEVCRUNTIME
+Property(S): AdminUser = 1
+Property(S): Privileged = 1
+Property(S): MsiRunningElevated = 1
+Property(S): CommonAppDataFolder = C:\ProgramData\
+Property(S): FavoritesFolder = C:\users\steamuser\Favorites\
+Property(S): FontsFolder = C:\windows\Fonts\
+Property(S): SendToFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(S): StartMenuFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Start Menu\
+Property(S): StartupFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\StartUp\
+Property(S): TemplateFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Templates\
+Property(S): DesktopFolder = C:\users\steamuser\Desktop\
+Property(S): ProgramMenuFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
+Property(S): AdminToolsFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(S): AppDataFolder = C:\users\steamuser\AppData\Roaming\
+Property(S): System16Folder = C:\windows\system32\
+Property(S): LocalAppDataFolder = C:\users\steamuser\AppData\Local\
+Property(S): MyPicturesFolder = C:\users\steamuser\Pictures\
+Property(S): PersonalFolder = C:\users\steamuser\Documents\
+Property(S): WindowsFolder = C:\windows\
+Property(S): PrintHoodFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(S): NetHoodFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(S): RecentFolder = C:\users\steamuser\AppData\Roaming\Microsoft\Windows\Recent\
+Property(S): PhysicalMemory = 14814
+Property(S): WindowsVolume = C:\
+Property(S): TempFolder = C:\users\steamuser\Temp\
+Property(S): VersionNT = 603
+Property(S): MsiNTProductType = 1
+Property(S): WindowsBuild = 9600
+Property(S): ServicePackLevel = 0
+Property(S): VersionMsi = 4.5
+Property(S): VersionDatabase = 400
+Property(S): Intel = 23
+Property(S): MsiAMD64 = 23
+Property(S): Msix64 = 23
+Property(S): VersionNT64 = 603
+Property(S): System64Folder = C:\windows\system32\
+Property(S): ProgramFiles64Folder = C:\Program Files\
+Property(S): ProgramFilesFolder = C:\Program Files (x86)\
+Property(S): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(S): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(S): ScreenX = 1280
+Property(S): ScreenY = 800
+Property(S): ColorBits = 32
+Property(S): UserSID = S-1-5-21-588913932-151339152-1000-1000
+Property(S): MsiNetAssemblySupport = 4.6.1590.0
+Property(S): UserLanguageID = 1033
+Property(S): SystemLanguageID = 1033
+Property(S): ProductState = -1
+Property(S): LogonUser = steamuser
+Property(S): ComputerName = STEAMDECK
+Property(S): UILevel = 2
+Property(S): PackageCode = {5952907C-F99D-4989-905F-BC4E9C664743}
+Property(S): DATABASE = C:\windows\Installer\7ae.msi
+Property(S): OriginalDatabase = C:\ProgramData\Package Cache\{0D01A812-82A1-481F-8546-8E28E976F8DF}v14.28.29334\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi
+Property(S): SOURCEDIR = C:\ProgramData\Package Cache\{0D01A812-82A1-481F-8546-8E28E976F8DF}v14.28.29334\packages\vcRuntimeMinimum_x86\
+Property(S): MSIFASTINSTALL = 7
+Property(S): NOVSUI = 1
+Property(S): ACTION = INSTALL
+Property(S): EXECUTEACTION = INSTALL
+Property(S): CostingComplete = 1
+Property(S): ROOTDRIVE = C:\
+Property(S): OutOfDiskSpace = 0
+Property(S): OutOfNoRbDiskSpace = 0
+1: 2 2: 0 
+1: 2 2: 1 
+Action ended 7:49:49: INSTALL. Return value 1.
