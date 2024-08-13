@@ -1,0 +1,14 @@
+8.0-103
+/run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/SteamLibrary/steamapps/common/Proton 8.0/dist/share/fonts/
+/run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/SteamLibrary/steamapps/common/Proton 8.0/dist/lib/
+/run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/SteamLibrary/steamapps/common/Proton 8.0/dist/lib64/
+/home/deck/.local/share/Steam
+1721176138.0
+1721176140.0
+1516738214.0
+/run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/SteamLibrary/steamapps/common/Proton 8.0/dist/share/default_pfx/
+1705700121.0
+False
+True
+d3dcompiler_*.dll,d3dcsx*.dll,d3dx*.dll,dx8vb.dll,x3daudio*.dll,xactengine*.dll,xapofx*.dll,xaudio*.dll,xinput*.dll,atl1*.dll,concrt1*.dll,msvcp1*.dll,msvcr1*.dll,vcamp1*.dll,vcomp1*.dll,vccorlib1*.dll,vcruntime1*.dll,ntdll.dll,vulkan-1.dll
+False
