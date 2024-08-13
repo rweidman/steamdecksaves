@@ -1,0 +1,18 @@
+---
+name: Muse Dash
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:13.544426204Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/steamapps/compatdata/774171/pfx/drive_c/users/steamuser/Local Settings/Application Data/Steam/MuseDash/76561198048379860MuseDashSaves.sav:
+        hash: 11fae039462f04ec8472eb5c36677113109f83c6
+        size: 121630
+      /home/deck/.local/share/Steam/steamapps/compatdata/774171/pfx/drive_c/users/steamuser/Local Settings/Application Data/Steam/MuseDash/steam_autocloud.vdf:
+        hash: 9afb26a2a42b18a3955dc1027641bcc27d6fcf0a
+        size: 51
+    registry:
+      hash: ~
+    children: []

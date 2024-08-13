@@ -1,0 +1,21 @@
+---
+name: Content Warning
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:13.906442393Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/steamapps/compatdata/2881650/pfx/drive_c/users/steamuser/AppData/LocalLow/Landfall Games/Content Warning/Saves/Save0.bin:
+        hash: f377adbbdb2eb5d4981afb0e52dc07b90dcf5692
+        size: 2360
+      /home/deck/.local/share/Steam/steamapps/compatdata/2881650/pfx/drive_c/users/steamuser/AppData/LocalLow/Landfall Games/Content Warning/Saves/metaData.m:
+        hash: 25f43eb0956098241e90411c09d2d3a55b90675e
+        size: 160
+      /home/deck/.local/share/Steam/steamapps/compatdata/2881650/pfx/drive_c/users/steamuser/AppData/LocalLow/Landfall Games/Content Warning/Saves/steam_autocloud.vdf:
+        hash: 9afb26a2a42b18a3955dc1027641bcc27d6fcf0a
+        size: 51
+    registry:
+      hash: ~
+    children: []

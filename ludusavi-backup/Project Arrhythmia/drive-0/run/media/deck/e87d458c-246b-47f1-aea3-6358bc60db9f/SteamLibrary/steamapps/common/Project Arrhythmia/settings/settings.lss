@@ -1,0 +1,31 @@
+{
+    "Gameplay": {
+        "Vibration": true,
+        "CurrentArcadePage": 0,
+        "CurrentArcadeSelection": 4,
+        "CurrentArcadeSortDirection": "ascending",
+        "CurrentArcadeSort": "date_downloaded",
+        "ArcadeDifficulty": 1,
+        "ArcadeGameSpeed": 2
+    },
+    "Audio": {
+        "VolMaster": 10,
+        "VolMusic": 8,
+        "VolEffects": 8,
+        "CheckpointSFX": true,
+        "PlayerSFX": true,
+        "MenuMusic": 0
+    },
+    "Video": {
+        "Resolution": {
+            "x": 1280.0,
+            "y": 720.0
+        },
+        "Fullscreen": false,
+        "VSync": false,
+        "AntiAliasing": 0,
+        "QualityLevel": 1,
+        "UITheme": 0,
+        "Language": 0
+    }
+}

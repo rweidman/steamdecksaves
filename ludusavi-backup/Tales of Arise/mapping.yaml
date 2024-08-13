@@ -1,0 +1,45 @@
+---
+name: Tales of Arise
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:16.253662359Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_000.sav:
+        hash: dfb621b1bdc7658da6da3476a32b99feaf4559a6
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_000.sav.backup:
+        hash: dfb621b1bdc7658da6da3476a32b99feaf4559a6
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_001.sav:
+        hash: 3e96557f50ca553b454c55f993adbe7e5081e6b2
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_001.sav.backup:
+        hash: 3e96557f50ca553b454c55f993adbe7e5081e6b2
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_002.sav:
+        hash: 44b5e549c967df96020e0795ea37b5be8a67f476
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_002.sav.backup:
+        hash: 44b5e549c967df96020e0795ea37b5be8a67f476
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_003.sav:
+        hash: b8dd6294c786257a9312e2e2e6b43f3b0fb7ed58
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SaveData_003.sav.backup:
+        hash: b8dd6294c786257a9312e2e2e6b43f3b0fb7ed58
+        size: 760856
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SystemSaveData.sav:
+        hash: fdfed814b89f570b043ff78dce87d3a4932be032
+        size: 4096
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/SaveData/SystemSaveData.sav.backup:
+        hash: fdfed814b89f570b043ff78dce87d3a4932be032
+        size: 4096
+      /home/deck/.local/share/Steam/steamapps/compatdata/740130/pfx/drive_c/users/steamuser/Local Settings/Application Data/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/88114132/steam_autocloud.vdf:
+        hash: 9afb26a2a42b18a3955dc1027641bcc27d6fcf0a
+        size: 51
+    registry:
+      hash: ~
+    children: []

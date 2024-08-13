@@ -1,0 +1,24 @@
+---
+name: Yakuza 0
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:17.107735300Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/userdata/88114132/638970/remote/SaveData0000.clr:
+        hash: 15bda4db799780b6ba390f6476e922b55b940894
+        size: 167720
+      /home/deck/.local/share/Steam/userdata/88114132/638970/remote/SaveData0000.sav:
+        hash: 4e9b101c86029a610faa70dc4b8c026d6f10f012
+        size: 167720
+      /home/deck/.local/share/Steam/userdata/88114132/638970/remote/SaveData0001.sav:
+        hash: a185b40811466071e3fce38db3c0d1414225ad29
+        size: 167720
+      /home/deck/.local/share/Steam/userdata/88114132/638970/remote/system.sys:
+        hash: 9b5841d187d49b93954d5f5f4cca908c8fd75a9e
+        size: 1536
+    registry:
+      hash: ~
+    children: []

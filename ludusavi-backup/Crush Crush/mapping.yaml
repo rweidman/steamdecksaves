@@ -1,0 +1,15 @@
+---
+name: Crush Crush
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:14.540470957Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/userdata/88114132/459820/remote/crushcrush.sav:
+        hash: 990836010af359abf5ff63939a9e1a33e1b30ee1
+        size: 6400
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,21 @@
+---
+name: Code Vein
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:13.297187966Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/steamapps/compatdata/678960/pfx/drive_c/users/steamuser/Local Settings/Application Data/CodeVein/Saved/SaveGames/88114132/GameData_Slot0v011.sav:
+        hash: dab76ad0cee9f8ee762e5fc3f402315a440d2bd7
+        size: 3175827
+      /home/deck/.local/share/Steam/steamapps/compatdata/678960/pfx/drive_c/users/steamuser/Local Settings/Application Data/CodeVein/Saved/SaveGames/88114132/GameData_Slot1v011.sav:
+        hash: 870fabcefd3f7b4c2f0d1431e5253f4a2f9b5ce7
+        size: 3545491
+      /home/deck/.local/share/Steam/steamapps/compatdata/678960/pfx/drive_c/users/steamuser/Local Settings/Application Data/CodeVein/Saved/SaveGames/88114132/steam_autocloud.vdf:
+        hash: 9afb26a2a42b18a3955dc1027641bcc27d6fcf0a
+        size: 51
+    registry:
+      hash: ~
+    children: []

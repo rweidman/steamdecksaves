@@ -1,0 +1,21 @@
+---
+name: Terraria
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-12T02:47:16.713733522Z"
+    os: linux
+    files:
+      /home/deck/.local/share/Steam/userdata/88114132/105600/remote/achievements-steam.dat:
+        hash: 416ecbd9b85e8ff2529fac821b14f22a99d6044b
+        size: 9520
+      /home/deck/.local/share/Steam/userdata/88114132/105600/remote/favorites.json:
+        hash: 7832941ee2d0b7bce2b47641fb2d230788a6d2ed
+        size: 20
+      /home/deck/.local/share/Steam/userdata/88114132/105600/remote/players/Garmanarnar.plr.bak:
+        hash: 093e1bb344d9c8a5f882cd4fa1377a2491c213a7
+        size: 3712
+    registry:
+      hash: ~
+    children: []
