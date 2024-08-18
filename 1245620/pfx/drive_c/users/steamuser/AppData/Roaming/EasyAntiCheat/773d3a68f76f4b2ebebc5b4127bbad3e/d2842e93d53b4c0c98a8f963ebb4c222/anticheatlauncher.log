@@ -1,59 +1,64 @@
-[04:26:49:846] [Windows] [EAC Launcher] [Info] Loaded the following settings .json file: 'E:\SteamLibrary\steamapps\common\ELDEN RING\Game\EasyAntiCheat\Settings.json'
-[04:26:49:846] [Windows] [EAC Launcher] [Info] Provided settings:
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - ProcessTitle: ELDEN RING™.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - ExecutablePath: eldenring.exe.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - ProductId: 773d3a68f76f4b2ebebc5b4127bbad3e.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - SandboxId: 3ef0b0eebdcd4673ba70c4cee0888bf0.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - DeploymentId: d2842e93d53b4c0c98a8f963ebb4c222.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - RequestedSplashScreen: EasyAntiCheat/SplashScreen.png.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - WaitForGameProcessExit: false.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - HideGUI: false.
-[04:26:49:846] [Windows] [EAC Launcher] [Info]  - HideBootstrapper: false.
-[04:26:50:353] [Windows] [EAC Launcher] [Info] Embedded resources successfully loaded.
-[04:26:50:368] [Windows] [EAC Launcher] [Info] Will use the icon extracted from the game executable.
-[04:26:51:747] [Windows] [EAC Launcher] [Info] Loader initializing with bootstrapper version 1.6.5.
-[04:26:51:816] [Windows] [EAC Launcher] [Info] Loader component initialized.
-[04:26:51:854] [Windows] [EAC Launcher] [Info] [Connection] Connecting to URL: https://modules-cdn.eac-prod.on.epicgames.com/modules/773d3a68f76f4b2ebebc5b4127bbad3e/d2842e93d53b4c0c98a8f963ebb4c222/linux64
-[04:26:51:876] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:878] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:879] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:880] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:883] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:884] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:888] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:889] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:896] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:898] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:905] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:906] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:913] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:915] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:935] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:935] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:935] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:976] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:988] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:51:988] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:057] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:057] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:065] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:070] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:111] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:111] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:111] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:112] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:112] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:134] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:134] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:139] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:139] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:139] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:139] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[04:26:52:139] [Windows] [EAC Launcher] [Info] [Connection] Connect result: No error (0) Response Code: 304 Destination IP: 108.156.172.114
-[04:26:52:139] [Windows] [EAC Launcher] [Info] No update needed.
-[04:26:52:139] [Windows] [EAC Launcher] [Info] Current progress: 100 (1/1).
-[04:26:52:180] [Windows] [EAC Launcher] [Info] Starting Wine module mapping, Wine version: 9.0.
-[04:26:53:664] [Windows] [EAC Launcher] [Info] Launcher finished with: 301, 'Easy Anti-Cheat successfully loaded in-game'.
-[04:26:53:664] [Windows] [EAC Launcher] [Info] Successfully initialized the Easy Anti-Cheat service, waiting for game window to become visible.
-[04:26:53:665] [Windows] [EAC Launcher] [Info] Unlocking the launch lock, allowing next game to launch to take place.
-[04:26:53:698] [Windows] [EAC Launcher] [Info] Downloaded 1 bytes in 1765 ms (0.00 KB/s)
+[13:03:45:559] [Windows] [EAC Launcher] [Info] Loaded the following settings .json file: 'E:\SteamLibrary\steamapps\common\ELDEN RING\Game\EasyAntiCheat\Settings.json'
+[13:03:45:559] [Windows] [EAC Launcher] [Info] Provided settings:
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - ProcessTitle: ELDEN RING™.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - ExecutablePath: eldenring.exe.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - ProductId: 773d3a68f76f4b2ebebc5b4127bbad3e.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - SandboxId: 3ef0b0eebdcd4673ba70c4cee0888bf0.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - DeploymentId: d2842e93d53b4c0c98a8f963ebb4c222.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - RequestedSplashScreen: EasyAntiCheat/SplashScreen.png.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - WaitForGameProcessExit: false.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - HideGUI: false.
+[13:03:45:559] [Windows] [EAC Launcher] [Info]  - HideBootstrapper: false.
+[13:03:46:124] [Windows] [EAC Launcher] [Info] Embedded resources successfully loaded.
+[13:03:46:138] [Windows] [EAC Launcher] [Info] Will use the icon extracted from the game executable.
+[13:03:47:095] [Windows] [EAC Launcher] [Info] Loader initializing with bootstrapper version 1.6.5.
+[13:03:47:172] [Windows] [EAC Launcher] [Info] Loader component initialized.
+[13:03:47:217] [Windows] [EAC Launcher] [Info] [Connection] Connecting to URL: https://modules-cdn.eac-prod.on.epicgames.com/modules/773d3a68f76f4b2ebebc5b4127bbad3e/d2842e93d53b4c0c98a8f963ebb4c222/linux64
+[13:03:47:239] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:241] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:242] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:244] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:247] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:248] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:252] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:253] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:261] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:262] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:277] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:279] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:294] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:295] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:311] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:312] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:344] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:345] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:409] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:410] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:538] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:571] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:571] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:769] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:770] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:772] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:970] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:47:977] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:277] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:282] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:287] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:681] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:681] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:681] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:681] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:681] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:993] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:993] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:993] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:993] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[13:03:48:993] [Windows] [EAC Launcher] [Info] [Connection] Connect result: No error (0) Response Code: 304 Destination IP: 18.160.102.97
+[13:03:48:993] [Windows] [EAC Launcher] [Info] No update needed.
+[13:03:48:993] [Windows] [EAC Launcher] [Info] Current progress: 100 (1/1).
+[13:03:49:032] [Windows] [EAC Launcher] [Info] Starting Wine module mapping, Wine version: 9.0.
+[13:03:50:612] [Windows] [EAC Launcher] [Info] Launcher finished with: 301, 'Easy Anti-Cheat successfully loaded in-game'.
+[13:03:50:612] [Windows] [EAC Launcher] [Info] Successfully initialized the Easy Anti-Cheat service, waiting for game window to become visible.
+[13:03:50:612] [Windows] [EAC Launcher] [Info] Unlocking the launch lock, allowing next game to launch to take place.
+[13:03:50:646] [Windows] [EAC Launcher] [Info] Downloaded 1 bytes in 2837 ms (0.00 KB/s)
