@@ -1,0 +1,54 @@
+[0170:0174][2024-09-01T05:47:37]i001: Burn v3.7.2829.0, Windows v6.3 (Build 9600: Service Pack 0), path: Z:\home\deck\.local\share\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2013\vcredist_x86.exe, cmdline: '/quiet /norestart -burn.unelevated BurnPipe.{1570B79B-9D9D-446E-96C0-FC3D036912D4} {D0FD1621-F5A9-49B8-A1AB-F35FF0D595A0} 356'
+[0170:0174][2024-09-01T05:47:37]i000: Setting string variable 'WixBundleLog' to value 'C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737.log'
+[0170:0174][2024-09-01T05:47:37]i000: Setting string variable 'WixBundleOriginalSource' to value 'Z:\home\deck\.local\share\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2013\vcredist_x86.exe'
+[0170:0174][2024-09-01T05:47:37]i000: Setting string variable 'WixBundleName' to value 'Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501'
+[0170:0174][2024-09-01T05:47:38]i100: Detect begin, 2 packages
+[0170:0174][2024-09-01T05:47:38]i101: Detected package: vcRuntimeMinimum_x86, state: Absent, cached: None
+[0170:0174][2024-09-01T05:47:38]i101: Detected package: vcRuntimeAdditional_x86, state: Absent, cached: None
+[0170:0174][2024-09-01T05:47:38]i052: Condition 'VersionNT >= v6.0 OR (VersionNT = v5.1 AND ServicePackLevel >= 2) OR (VersionNT = v5.2 AND ServicePackLevel >= 1)' evaluates to true.
+[0170:0174][2024-09-01T05:47:38]i199: Detect complete, result: 0x0
+[0170:0174][2024-09-01T05:47:38]i200: Plan begin, 2 packages, action: Install
+[0170:0174][2024-09-01T05:47:38]i000: Setting string variable 'WixBundleRollbackLog_vcRuntimeMinimum_x86' to value 'C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_0_vcRuntimeMinimum_x86_rollback.log'
+[0170:0174][2024-09-01T05:47:38]i000: Setting string variable 'WixBundleLog_vcRuntimeMinimum_x86' to value 'C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_0_vcRuntimeMinimum_x86.log'
+[0170:0174][2024-09-01T05:47:38]i000: Setting string variable 'WixBundleRollbackLog_vcRuntimeAdditional_x86' to value 'C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_1_vcRuntimeAdditional_x86_rollback.log'
+[0170:0174][2024-09-01T05:47:38]i000: Setting string variable 'WixBundleLog_vcRuntimeAdditional_x86' to value 'C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_1_vcRuntimeAdditional_x86.log'
+[0170:0174][2024-09-01T05:47:38]i201: Planned package: vcRuntimeMinimum_x86, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[0170:0174][2024-09-01T05:47:38]i201: Planned package: vcRuntimeAdditional_x86, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[0170:0174][2024-09-01T05:47:38]i299: Plan complete, result: 0x0
+[0170:0174][2024-09-01T05:47:38]i300: Apply begin
+[0164:0168][2024-09-01T05:47:38]i360: Creating a system restore point.
+[0164:0168][2024-09-01T05:47:38]i361: Created a system restore point.
+[0164:0168][2024-09-01T05:47:38]i370: Session begin, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{f65db027-aff3-4070-886a-0d87064aabb1}, options: 0x7, disable resume: No
+[0164:0168][2024-09-01T05:47:38]i000: Caching bundle from: 'C:\users\steamuser\Temp\{f65db027-aff3-4070-886a-0d87064aabb1}\.be\vcredist_x86.exe' to: 'C:\ProgramData\Package Cache\{f65db027-aff3-4070-886a-0d87064aabb1}\vcredist_x86.exe'
+[0164:0168][2024-09-01T05:47:38]i320: Registering bundle dependency provider: {f65db027-aff3-4070-886a-0d87064aabb1}, version: 12.0.30501.0
+[0164:0168][2024-09-01T05:47:38]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{f65db027-aff3-4070-886a-0d87064aabb1}, resume: Active, restart initiated: No, disable resume: No
+[0164:0190][2024-09-01T05:47:39]i305: Verified acquired payload: vcRuntimeMinimum_x86 at path: C:\ProgramData\Package Cache\.unverified\vcRuntimeMinimum_x86, moving to: C:\ProgramData\Package Cache\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi.
+[0164:0190][2024-09-01T05:47:39]i305: Verified acquired payload: cab54A5CABBE7274D8A22EB58060AAB7623 at path: C:\ProgramData\Package Cache\.unverified\cab54A5CABBE7274D8A22EB58060AAB7623, moving to: C:\ProgramData\Package Cache\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\packages\vcRuntimeMinimum_x86\cab1.cab.
+[0164:0190][2024-09-01T05:47:39]i305: Verified acquired payload: vcRuntimeAdditional_x86 at path: C:\ProgramData\Package Cache\.unverified\vcRuntimeAdditional_x86, moving to: C:\ProgramData\Package Cache\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi.
+[0164:0190][2024-09-01T05:47:39]i305: Verified acquired payload: cabB3E1576D1FEFBB979E13B1A5379E0B16 at path: C:\ProgramData\Package Cache\.unverified\cabB3E1576D1FEFBB979E13B1A5379E0B16, moving to: C:\ProgramData\Package Cache\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\packages\vcRuntimeAdditional_x86\cab1.cab.
+[0164:0168][2024-09-01T05:47:39]i301: Applying execute package: vcRuntimeMinimum_x86, action: Install, path: C:\ProgramData\Package Cache\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi, arguments: ' MSIFASTINSTALL="7" NOVSUI="1"'
+[0170:0174][2024-09-01T05:47:39]i319: Applied execute package: vcRuntimeMinimum_x86, result: 0x0, restart: None
+[0164:0168][2024-09-01T05:47:39]i325: Registering dependency: {f65db027-aff3-4070-886a-0d87064aabb1} on package provider: Microsoft.VS.VC_RuntimeMinimumVSU_x86,v12, package: vcRuntimeMinimum_x86
+[0164:0168][2024-09-01T05:47:39]i301: Applying execute package: vcRuntimeAdditional_x86, action: Install, path: C:\ProgramData\Package Cache\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi, arguments: ' MSIFASTINSTALL="7" NOVSUI="1"'
+[0170:0174][2024-09-01T05:47:40]i319: Applied execute package: vcRuntimeAdditional_x86, result: 0x0, restart: None
+[0164:0168][2024-09-01T05:47:40]i325: Registering dependency: {f65db027-aff3-4070-886a-0d87064aabb1} on package provider: Microsoft.VS.VC_RuntimeAdditionalVSU_x86,v12, package: vcRuntimeAdditional_x86
+[0164:0168][2024-09-01T05:47:40]i372: Session end, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{f65db027-aff3-4070-886a-0d87064aabb1}, resume: ARP, restart: None, disable resume: No
+[0164:0168][2024-09-01T05:47:40]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{f65db027-aff3-4070-886a-0d87064aabb1}, resume: ARP, restart initiated: No, disable resume: No
+[0170:0174][2024-09-01T05:47:40]i399: Apply complete, result: 0x0, restart: None, ba requested restart:  No
+[0170:0174][2024-09-01T05:47:40]i500: Shutting down, exit code: 0x0
+[0170:0174][2024-09-01T05:47:40]i410: Variable: VersionNT = 10.0.0.0
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleAction = 5
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleElevated = 1
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleInstalled = 0
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleLog = C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737.log
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleLog_vcRuntimeAdditional_x86 = C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_1_vcRuntimeAdditional_x86.log
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleLog_vcRuntimeMinimum_x86 = C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_0_vcRuntimeMinimum_x86.log
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleManufacturer = Microsoft Corporation
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleName = Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleOriginalSource = Z:\home\deck\.local\share\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2013\vcredist_x86.exe
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleProviderKey = {f65db027-aff3-4070-886a-0d87064aabb1}
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleRollbackLog_vcRuntimeAdditional_x86 = C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_1_vcRuntimeAdditional_x86_rollback.log
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleRollbackLog_vcRuntimeMinimum_x86 = C:\users\steamuser\Temp\dd_vcredist_x86_20240901054737_0_vcRuntimeMinimum_x86_rollback.log
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleTag = 
+[0170:0174][2024-09-01T05:47:40]i410: Variable: WixBundleVersion = 12.0.30501.0
+[0170:0174][2024-09-01T05:47:40]i007: Exit code: 0x0, restarting: No
