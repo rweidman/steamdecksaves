@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "WHIRLING F1 / GARTE MAIN",
+            "stringValue": "WHIRLING F1 ORB / dialogue home",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 343,
+            "intValue": 348,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
