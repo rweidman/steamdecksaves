@@ -643,13 +643,13 @@ WINE REGISTRY Version 2
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
 
-[Software\\Wine\\Fonts] 1725329678
-#time=1dafda70710f2d8
+[Software\\Wine\\Fonts] 1725329712
+#time=1dafda71ba39b4c
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1725329678
-#time=1dafda707181702
+[Software\\Wine\\Fonts\\External Fonts] 1725329712
+#time=1dafda71ba6044a
 "@Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
 "@Noto Fangsong KSS Vertical Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSVertical-Regular.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\noto-cjk\\NotoSansCJK-Regular.ttc"
@@ -760,7 +760,7 @@ WINE REGISTRY Version 2
 "Hack Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-BoldItalic.ttf"
 "Hack Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-Italic.ttf"
 "Hack Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-Regular.ttf"
-"Marlett (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\marlett.ttf"
+"Marlett (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\marlett.ttf"
 "Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
 "Noto Fangsong KSS Vertical Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSVertical-Regular.ttf"
 "Noto Looped Thai Black (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoLoopedThai-Black.ttf"
@@ -1458,12 +1458,11 @@ WINE REGISTRY Version 2
 "Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-SemiboldIt.otf"
 "SourceCodeVF (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Upright.otf"
 "SourceCodeVF Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Italic.otf"
-"Symbol (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
+"Symbol (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
 "Tahoma (TrueType)"="Z:\\builds\\proton\\proton\\build-dir\\dist\\dist\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
-"Twemoji"="Z:\\run\\host\\fonts\\twemoji\\twemoji.ttf"
-"Webdings (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
-"Wingdings (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
+"Tahoma Bold (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
+"Webdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
+"Wingdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
 
 [Software\\Wine\\Fonts\\Replacements] 1655928807
 #time=1d8867488d3240a

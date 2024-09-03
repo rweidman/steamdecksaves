@@ -61159,8 +61159,8 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%PUBLIC%\\Pictures"
 "CommonVideo"=str(2):"%PUBLIC%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1725329678
-#time=1dafda70718166c
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1725329712
+#time=1dafda71ba603be
 "@Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
 "@Noto Fangsong KSS Vertical Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSVertical-Regular.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\noto-cjk\\NotoSansCJK-Regular.ttc"
@@ -61272,7 +61272,7 @@ WINE REGISTRY Version 2
 "Hack Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-BoldItalic.ttf"
 "Hack Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-Italic.ttf"
 "Hack Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-Regular.ttf"
-"Marlett (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\marlett.ttf"
+"Marlett (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\marlett.ttf"
 "MS Sans Serif"="sserife.fon"
 "MS Serif"="serife.fon"
 "Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
@@ -61973,12 +61973,11 @@ WINE REGISTRY Version 2
 "Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-SemiboldIt.otf"
 "SourceCodeVF (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Upright.otf"
 "SourceCodeVF Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Italic.otf"
-"Symbol (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
+"Symbol (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
 "Tahoma (TrueType)"="Z:\\builds\\proton\\proton\\build-dir\\dist\\dist\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
-"Twemoji"="Z:\\run\\host\\fonts\\twemoji\\twemoji.ttf"
-"Webdings (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
-"Wingdings (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
+"Tahoma Bold (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
+"Webdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
+"Wingdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Group Policy] 1655928807
 #time=1d8867488d23806
@@ -64373,8 +64372,8 @@ WINE REGISTRY Version 2
 #time=1d8867488d3b096
 "MAPI"="1"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion] 1725329678
-#time=1dafda7071a4f54
+[Software\\Microsoft\\Windows NT\\CurrentVersion] 1725329712
+#time=1dafda71ba6a65c
 "CSDVersion"=""
 "CurrentBuild"="18363"
 "CurrentBuildNumber"="18363"
@@ -64419,8 +64418,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1655928807
 #time=1d8867488d2688a
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1725329678
-#time=1dafda7071815e0
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1725329712
+#time=1dafda71ba60404
 "@Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
 "@Noto Fangsong KSS Vertical Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSVertical-Regular.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\noto-cjk\\NotoSansCJK-Regular.ttc"
@@ -64536,7 +64535,7 @@ WINE REGISTRY Version 2
 "Hack Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-Italic.ttf"
 "Hack Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\Hack-Regular.ttf"
 "Malgun Gothic (TrueType)"="malgun.ttf"
-"Marlett (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\marlett.ttf"
+"Marlett (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\marlett.ttf"
 "Microsoft Sans Serif (TrueType)"="micross.ttf"
 "Microsoft YaHei (TrueType)"="msyh.ttf"
 "MS Gothic (TrueType)"="msgothic.ttc"
@@ -65242,13 +65241,12 @@ WINE REGISTRY Version 2
 "Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-SemiboldIt.otf"
 "SourceCodeVF (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Upright.otf"
 "SourceCodeVF Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Italic.otf"
-"Symbol (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
+"Symbol (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
 "Tahoma (TrueType)"="Z:\\builds\\proton\\proton\\build-dir\\dist\\dist\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
+"Tahoma Bold (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
 "Times New Roman (TrueType)"="times.ttf"
-"Twemoji"="Z:\\run\\host\\fonts\\twemoji\\twemoji.ttf"
-"Webdings (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
-"Wingdings (TrueType)"="Z:\\run\\media\\deck\\e87d458c-246b-47f1-aea3-6358bc60db9f\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
+"Webdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
+"Wingdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
 
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes] 1655928807
 #time=1d8867488d30e48
@@ -72183,19 +72181,19 @@ WINE REGISTRY Version 2
 @="Display adapters"
 "Class"="Display"
 
-[System\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000] 1725329679
-#time=1dafda707f0d66e
+[System\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000] 1725329713
+#time=1dafda71c59f310
 "DriverDate"="9-3-2024"
-"DriverDateData"=hex:fa,c6,f0,07,a7,fd,da,01
+"DriverDateData"=hex:d4,f2,59,1c,a7,fd,da,01
 "DriverDesc"="Wine Adapter"
 
-[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}] 1725329679
-#time=1dafda707f1777c
+[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}] 1725329713
+#time=1dafda71c5a33ca
 @="Monitors"
 "Class"="Monitor"
 
-[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}\\0000] 1725329679
-#time=1dafda707f1777c
+[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}\\0000] 1725329713
+#time=1dafda71c5a33ca
 
 [System\\CurrentControlSet\\Control\\Class\\{4d36e978-e325-11ce-bfc1-08002be10318}] 1655928807
 #time=1d8867488d20124
@@ -72305,104 +72303,104 @@ WINE REGISTRY Version 2
 #time=1dafda707f085ba
 "DeviceInstance"="PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}\\##?#pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{1ca05180-a699-450a-9a0c-de4fbe3ddd89}\\#] 1725329679
-#time=1dafda707f08b50
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}\\##?#pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{1ca05180-a699-450a-9a0c-de4fbe3ddd89}\\#] 1725329713
+#time=1dafda71c59e6c2
 "SymbolicLink"="\\\\?\\pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{1ca05180-a699-450a-9a0c-de4fbe3ddd89}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_0000&pid_0000#0&winemouse&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}] 1655928809
 #time=1d886748a102a98
 "DeviceInstance"="HID\\VID_0000&PID_0000\\0&WINEMOUSE&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_0000&pid_0000#0&winemouse&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1725329678
-#time=1dafda7073c5874
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_0000&pid_0000#0&winemouse&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1725329712
+#time=1dafda71bbae45a
 "SymbolicLink"="\\\\?\\hid#vid_0000&pid_0000#0&winemouse&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}] 1725329678
 #time=1dafda7074ac288
 "DeviceInstance"="HID\\VID_28DE&PID_1205&MI_00\\768&123456789ABCDEF&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1725329678
-#time=1dafda7074ae6fa
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1725329712
+#time=1dafda71bc3ad9c
 "SymbolicLink"="\\\\?\\hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_0000&pid_0000#0&winemouse&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1655928809
 #time=1d886748a101620
 "DeviceInstance"="HID\\VID_0000&PID_0000\\0&WINEMOUSE&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_0000&pid_0000#0&winemouse&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329678
-#time=1dafda7073bdb92
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_0000&pid_0000#0&winemouse&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329712
+#time=1dafda71bba856e
 "SymbolicLink"="\\\\?\\hid#vid_0000&pid_0000#0&winemouse&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1725329679
 #time=1dafda707a5e1ae
 "DeviceInstance"="HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&1&1"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329679
-#time=1dafda707a5f1c6
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329713
+#time=1dafda71c2885fa
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_2808&pid_1015#0&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1725329678
 #time=1dafda7073f5f92
 "DeviceInstance"="HID\\VID_2808&PID_1015\\0&0000&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_2808&pid_1015#0&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329678
-#time=1dafda7073f6924
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_2808&pid_1015#0&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329712
+#time=1dafda71bbbbbdc
 "SymbolicLink"="\\\\?\\hid#vid_2808&pid_1015#0&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1725329678
 #time=1dafda7074aaee2
 "DeviceInstance"="HID\\VID_28DE&PID_1205&MI_00\\768&123456789ABCDEF&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329678
-#time=1dafda7074acd0a
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329712
+#time=1dafda71bc38b78
 "SymbolicLink"="\\\\?\\hid#vid_28de&pid_1205&mi_00#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_01#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1725329678
 #time=1dafda70744a7e0
 "DeviceInstance"="HID\\VID_28DE&PID_1205&MI_01\\768&123456789ABCDEF&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_01#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329678
-#time=1dafda70744b0fa
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_01#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329712
+#time=1dafda71bbd600e
 "SymbolicLink"="\\\\?\\hid#vid_28de&pid_1205&mi_01#768&123456789abcdef&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_02#768&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1725329678
 #time=1dafda70741c9da
 "DeviceInstance"="HID\\VID_28DE&PID_1205&MI_02\\768&0000&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_02#768&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329678
-#time=1dafda70741d38a
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&mi_02#768&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725329712
+#time=1dafda71bbc8c24
 "SymbolicLink"="\\\\?\\hid#vid_28de&pid_1205&mi_02#768&0000&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&0#{4d1e55b2-f16f-11cf-88cb-001111000031}] 1725329679
 #time=1dafda707a28ff4
 "DeviceInstance"="HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&1&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&0#{4d1e55b2-f16f-11cf-88cb-001111000031}\\#] 1725329679
-#time=1dafda707a29d46
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&0#{4d1e55b2-f16f-11cf-88cb-001111000031}\\#] 1725329713
+#time=1dafda71c2745a0
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&0#{4d1e55b2-f16f-11cf-88cb-001111000031}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&0300f837de280000ff11000001000000&2&2#{4d1e55b2-f16f-11cf-88cb-001111000031}] 1725329682
 #time=1dafda709b24eb0
 "DeviceInstance"="HID\\VID_045E&PID_028E&IG_00\\1&0300F837DE280000FF11000001000000&2&2"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&0300f837de280000ff11000001000000&2&2#{4d1e55b2-f16f-11cf-88cb-001111000031}\\#] 1725329682
-#time=1dafda709b25e14
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&0300f837de280000ff11000001000000&2&2#{4d1e55b2-f16f-11cf-88cb-001111000031}\\#] 1725329716
+#time=1dafda71de92232
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&0300f837de280000ff11000001000000&2&2#{4d1e55b2-f16f-11cf-88cb-001111000031}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}] 1725329679
 #time=1dafda707f07340
 "DeviceInstance"="PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}\\#] 1725329679
-#time=1dafda707f07908
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}\\#] 1725329713
+#time=1dafda71c59dc54
 "SymbolicLink"="\\\\?\\pci#ven_0000&dev_0000&subsys_00000000&rev_00#00000000#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#display#default_monitor#0000&0000#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}] 1725329679
 #time=1dafda707f16110
 "DeviceInstance"="DISPLAY\\DEFAULT_MONITOR\\0000&0000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#display#default_monitor#0000&0000#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}\\#] 1725329679
-#time=1dafda707f168a4
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#display#default_monitor#0000&0000#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}\\#] 1725329713
+#time=1dafda71c5a26e6
 "SymbolicLink"="\\\\?\\display#default_monitor#0000&0000#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
 
 [System\\CurrentControlSet\\Control\\hivelist] 1655928807
@@ -73012,41 +73010,41 @@ WINE REGISTRY Version 2
 #time=1d8867488e6a2be
 "CSDVersion"=dword:00000000
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000] 1725329679
-#time=1dafda707f1781c
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000] 1725329713
+#time=1dafda71c5a3460
 "Class"="Monitor"
 "ClassGUID"="{4D36E96E-E325-11CE-BFC1-08002BE10318}"
 "DeviceDesc"="Generic Non-PnP Monitor"
 "Driver"="{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000"
 "HardwareID"=str(7):"MONITOR\\Default_Monitor\0"
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Device Parameters] 1725329679
-#time=1dafda707f17416
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Device Parameters] 1725329713
+#time=1dafda71c5a30c8
 "BAD_EDID"=hex:
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0002] 1725329679
-#time=1dafda707f17c72
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0002] 1725329713
+#time=1dafda71c5a38c0
 @=hex(ffff0007):03,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0003] 1725329679
-#time=1dafda707f17f38
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0003] 1725329713
+#time=1dafda71c5a3b5e
 @=hex(ffff1003):00,00,00,00,00,00,00,00,00,05,00,00,20,03,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0004] 1725329679
-#time=1dafda707f181f4
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0004] 1725329713
+#time=1dafda71c5a3dd4
 @=hex(ffff1003):00,00,00,00,00,00,00,00,00,05,00,00,20,03,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0005] 1725329679
-#time=1dafda707f184c4
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0005] 1725329713
+#time=1dafda71c5a4054
 @=hex(ffff0012):5c,00,5c,00,2e,00,5c,00,44,00,49,00,53,00,50,00,4c,00,41,00,59,\
   00,31,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0001] 1725329679
-#time=1dafda707f16f34
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0001] 1725329713
+#time=1dafda71c5a2c68
 @=hex(ffff0008):f3,03,00,00,00,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0002] 1725329679
-#time=1dafda707f171fa
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0002] 1725329713
+#time=1dafda71c5a2ede
 @=hex(ffff0007):00,00,00,00
 
 [System\\CurrentControlSet\\Enum\\HID\\VID_0000&PID_0000\\0&WINEMOUSE&0&0] 1655928809
@@ -73197,8 +73195,8 @@ WINE REGISTRY Version 2
 #time=1dafda707f0ba12
 @=hex(ffff000d):00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 
-[System\\CurrentControlSet\\Enum\\PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1725329679
-#time=1dafda707f09302
+[System\\CurrentControlSet\\Enum\\PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1725329713
+#time=1dafda71c59eb0e
 @=hex(ffff0011):01,00,00,00
 
 [System\\CurrentControlSet\\Enum\\PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000\\Properties\\{60B193CB-5276-4D0F-96FC-F173ABAD3EC6}\\0002] 1725329679
