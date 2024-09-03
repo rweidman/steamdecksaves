@@ -732,9 +732,9 @@ WINE REGISTRY Version 2
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1725329949
-#time=1dafda7a921b65c
-"PID"=dword:0000fffe
+[Software\\Valve\\Steam\\ActiveProcess] 1725331308
+#time=1dafdaad2f6fff2
+"PID"=dword:00000020
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
@@ -907,11 +907,52 @@ WINE REGISTRY Version 2
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
 
-[Software\\Wine\\Drivers\\winepulse.drv] 1725329722
-#time=1dafda721ada5aa
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink] 1725331319
+#time=1dafdaad925c6ba
+"guid"=hex:d3,a2,ee,e5,2e,fb,78,44,a5,27,65,a8,51,63,ae,67
 
-[Software\\Wine\\Fonts] 1725329819
-#time=1dafda75b9c0658
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_1__sink] 1725331319
+#time=1dafdaad925a144
+"guid"=hex:39,99,0d,21,86,13,c4,42,8b,c5,ba,a8,10,d1,95,d2
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,filter-chain-sink] 1725331319
+#time=1dafdaad9255360
+"guid"=hex:1a,cf,e0,71,b4,af,ad,47,a1,a8,d9,d4,dc,db,f8,87
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,input.virtual-sink] 1725331319
+#time=1dafdaad92579e4
+"guid"=hex:ee,a7,51,46,40,ea,25,4e,ad,4a,7f,74,16,33,44,c3
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__source] 1725331319
+#time=1dafdaad92704f8
+"guid"=hex:c2,b9,d4,7a,96,48,4a,41,90,83,46,67,1b,96,58,e3
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink.monitor] 1725331319
+#time=1dafdaad926dce4
+"guid"=hex:6d,d0,6e,04,b6,4f,92,42,9d,06,3c,ea,28,72,65,bd
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_1__sink.monitor] 1725331319
+#time=1dafdaad926b67e
+"guid"=hex:f2,52,70,e1,23,18,8c,4a,b2,db,6b,36,29,be,28,55
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,filter-chain-sink.monitor] 1725331319
+#time=1dafdaad9262e84
+"guid"=hex:13,8e,99,a4,a6,2c,1b,4e,a4,24,93,92,84,72,50,90
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,filter-chain-source] 1725331319
+#time=1dafdaad926068e
+"guid"=hex:52,04,59,a6,25,cb,00,4c,95,d5,31,d9,dc,14,2f,27
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,input.virtual-sink.monitor] 1725331319
+#time=1dafdaad92656ac
+"guid"=hex:5a,e7,64,e8,0f,43,22,47,8b,8f,f4,e1,fb,81,53,bf
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,output.virtual-source] 1725331319
+#time=1dafdaad92685be
+"guid"=hex:68,8d,c1,3b,76,e6,e5,4b,ae,6d,7d,73,03,14,68,08
+
+[Software\\Wine\\Fonts] 1725331307
+#time=1dafdaad20f93b0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
