@@ -1,0 +1,30 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+
+[SourceDisksNames]
+99 = %DiskName%,"Nov2008_XAudio2_3_x64.cab",0,,-1
+
+[SourceDisksFiles]
+XAudio2_3.dll = 99
+XAPOFX1_2.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+XAudio2_3.dll
+XAPOFX1_2.dll
+
+[DllRegisterServer]
+%11%\XAudio2_3.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX Nov2008 XAudio"
+DiskName             = "DirectX Nov2008 XAudio cab"
+

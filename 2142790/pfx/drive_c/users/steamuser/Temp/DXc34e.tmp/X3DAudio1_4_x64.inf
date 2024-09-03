@@ -1,0 +1,31 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+Provider = %MSFT%
+Class = %ExceptionClassDesc%
+ClassGUID = {F5776D81-AE53-4935-8E84-B0B283D8BCEF}
+CatalogFile = X3DAudio1_4_x64.cat
+ComponentId = {BF7F2196-4D7C-4AC1-8B1E-41D3153E09E7}
+DriverVer = 05-30-2008, 5.3.1.0904
+
+[SourceDisksNames]
+99 = %DiskName%,"Jun2008_X3DAudio1_4_x64.cab",0,,-1
+
+[SourceDisksFiles]
+X3DAudio1_4.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+X3DAudio1_4.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX Jun2008 X3DAudio"
+DiskName             = "DirectX Jun2008 X3DAudio cab"
+

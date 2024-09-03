@@ -1,0 +1,25 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+
+[SourceDisksNames]
+99 = %DiskName%,"Mar2009_X3DAudio1_6_x64.cab",0,,-1
+
+[SourceDisksFiles]
+X3DAudio1_6.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+X3DAudio1_6.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX Mar2009 X3DAudio"
+DiskName             = "DirectX Mar2009 X3DAudio cab"
+

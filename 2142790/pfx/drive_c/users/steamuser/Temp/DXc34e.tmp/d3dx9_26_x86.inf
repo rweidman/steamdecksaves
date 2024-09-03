@@ -1,0 +1,38 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+Provider = %MSFT%
+Class = %ExceptionClassDesc%
+ClassGUID = {F5776D81-AE53-4935-8E84-B0B283D8BCEF}
+CatalogFile = d3dx9_26_x86.cat
+ComponentId = {35C7F60B-9A4B-4694-B7A6-19C18709FFC0}
+DriverVer = 05-26-2005, 5.3.1.0904
+
+[SourceDisksNames]
+99 = %DiskName%,"Jun2005_d3dx9_26_x86.cab",0,,-1
+
+[SourceDisksFiles]
+d3dx9_26.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+DirectX_SysWOW64 = 10,SysWOW64
+
+[x86_Install]
+CopyFiles = DirectX_System
+
+[x64_Install]
+CopyFiles = DirectX_SysWOW64
+
+[DirectX_System]
+d3dx9_26.dll
+
+[DirectX_SysWOW64]
+d3dx9_26.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX 9.0 Jun2005"
+DiskName             = "DirectX 9.0 Jun2005 cab"
+

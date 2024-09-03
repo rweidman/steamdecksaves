@@ -1,0 +1,28 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+
+[SourceDisksNames]
+99 = %DiskName%,"Mar2008_XAudio2_0_x64.cab",0,,-1
+
+[SourceDisksFiles]
+XAudio2_0.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+XAudio2_0.dll
+
+[DllRegisterServer]
+%11%\XAudio2_0.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX Mar2008 XAudio"
+DiskName             = "DirectX Mar2008 XAudio cab"
+

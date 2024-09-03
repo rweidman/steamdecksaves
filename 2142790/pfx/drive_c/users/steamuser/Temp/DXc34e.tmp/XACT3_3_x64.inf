@@ -1,0 +1,34 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+Provider = %MSFT%
+Class = %ExceptionClassDesc%
+ClassGUID = {F5776D81-AE53-4935-8E84-B0B283D8BCEF}
+CatalogFile = XACT3_3_x64.cat
+ComponentId = {0AFA3488-990E-4A89-84B4-DB514FFE1A1D}
+DriverVer = 10-27-2008, 5.3.1.0904
+
+[SourceDisksNames]
+99 = %DiskName%,"Nov2008_XACT3_3_x64.cab",0,,-1
+
+[SourceDisksFiles]
+xactengine3_3.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+xactengine3_3.dll
+
+[DllRegisterServer]
+%11%\xactengine3_3.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX 9.0 Nov2008 XACT"
+DiskName             = "DirectX 9.0 Nov2008 XACT cab"
+

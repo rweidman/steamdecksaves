@@ -1,0 +1,36 @@
+
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+Provider = %MSFT%
+Class = %ExceptionClassDesc%
+ClassGUID = {F5776D81-AE53-4935-8E84-B0B283D8BCEF}
+CatalogFile = XAudio2_2_x64.cat
+ComponentId = {BF7F2196-4D7C-4AC1-8B1E-41D3153E09E7}
+DriverVer = 07-31-2008, 5.3.1.0904
+
+[SourceDisksNames]
+99 = %DiskName%,"Aug2008_XAudio2_2_x64.cab",0,,-1
+
+[SourceDisksFiles]
+XAudio2_2.dll = 99
+XAPOFX1_1.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+XAudio2_2.dll
+XAPOFX1_1.dll
+
+[DllRegisterServer]
+%11%\XAudio2_2.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX Aug2008 XAudio"
+DiskName             = "DirectX Aug2008 XAudio cab"
+
