@@ -858,6 +858,10 @@ WINE REGISTRY Version 2
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.1.hdmi-stereo-extra2] 1725419315
+#time=1dafe77bb2b37bc
+"guid"=hex:38,eb,64,e0,6f,89,3e,46,b6,13,4d,bd,b0,3b,9b,44
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink] 1725191480
 #time=1dafc654318cadc
 "guid"=hex:08,11,35,d2,2b,7b,b8,43,9e,fa,54,97,0b,63,79,ca
@@ -877,6 +881,10 @@ WINE REGISTRY Version 2
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__source] 1725191480
 #time=1dafc65431a2f30
 "guid"=hex:b1,d7,79,11,b0,9c,87,4f,9e,d8,fb,58,0c,20,eb,db
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.1.hdmi-stereo-extra2.monitor] 1725419315
+#time=1dafe77bb2c6434
+"guid"=hex:82,0f,32,5f,16,aa,ac,45,ab,04,52,8b,b9,35,c5,c0
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink.monitor] 1725191480
 #time=1dafc65431a00f0
@@ -902,8 +910,8 @@ WINE REGISTRY Version 2
 #time=1dafc6543199908
 "guid"=hex:07,6d,ac,9c,00,39,d1,40,ab,55,a1,d2,67,64,86,8a
 
-[Software\\Wine\\Fonts] 1725191456
-#time=1dafc65348ef068
+[Software\\Wine\\Fonts] 1725419279
+#time=1dafe77a57515be
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
