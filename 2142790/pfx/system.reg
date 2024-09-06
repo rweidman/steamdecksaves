@@ -89703,8 +89703,8 @@ WINE REGISTRY Version 2
 #time=1dafe3c6a1febdc
 "DeviceInstance"="HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.1&0&0&1"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725456723
-#time=1dafeced3d1fc72
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1725588543
+#time=1db0001bef9e7ae
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.2&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1725331291
@@ -89899,8 +89899,8 @@ WINE REGISTRY Version 2
 #time=1dafe3c6a18a67e
 "DeviceInstance"="HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1725456723
-#time=1dafeced3cf2308
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1725588543
+#time=1db0001bef747c4
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.2&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1725331287
