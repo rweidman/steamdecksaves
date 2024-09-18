@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "YARD / CUNO",
+            "stringValue": "PLAZA / THE GARDENER",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 666,
+            "intValue": 773,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
