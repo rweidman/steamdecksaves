@@ -7,3 +7,569 @@ Direct3D:
     Vendor:   
     VRAM:     6101 MB
     Driver:   31.0.21902.5
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.694800 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+[LocalizationManager_Languages] SavedLanguage:English
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+I2.Loc.LocalizationManager:SelectStartupLanguage()
+I2.Loc.LocalizationManager:InitializeIfNeeded()
+I2.Loc.LocalizationManager:get_CurrentLanguageCode()
+LocalizationCustomSystem.LocalizationManager:OnEnable()
+
+[LocalizationManager_Languages] SysLanguage:English
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+I2.Loc.LocalizationManager:SelectStartupLanguage()
+I2.Loc.LocalizationManager:InitializeIfNeeded()
+I2.Loc.LocalizationManager:get_CurrentLanguageCode()
+LocalizationCustomSystem.LocalizationManager:OnEnable()
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 7057.
+Total: 4.622700 ms (FindLiveObjects: 0.380800 ms CreateObjectMapping: 0.187900 ms MarkObjects: 4.033700 ms  DeleteObjects: 0.019600 ms)
+
+Loading profile 1 MEDIUM
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FontSizeProfiles.LayoutProfileChanger:LoadProfile(Int32)
+FontSizeProfiles.LayoutProfileChanger:Start()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+PreInitialize:Update()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ReadGameSettings: True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<ReadGameSettingsCoR>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+StartupLanguage = English
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadGameData>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Amount of Save Games: 2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CacheSaveGamesInit>d__53:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadGameData total time: 0.2147293
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadGameData>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Init: Move to next scene
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<WaitAndStartTheGame>d__13:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 1.061000 ms
+InControl (version 1.8.3 build 9361)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.InControlManager:OnEnable()
+
+INITIALIZE ACHIEVEMENTS:  NONE
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Achievements:Initialize()
+GogGalaxyManager:Awake()
+
+Selected keyboard layout: QWERTY
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KeyboardLayoutBindings:SetKeyboardLayout(KeyboardLayout)
+CrossPlatformInputManager:CreateDefaultBindings(String, KeyboardLayout, Boolean)
+CrossPlatformInputManager:Awake()
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+Attached native device with handle 1:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
+Location ID: XInput::1
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+Attached native device with handle 2:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
+Location ID: XInput::2
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+PlayIntroSequence - start
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+IntroSystem.<PlayIntroSequence>d__19:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+IntroSystem.IntroManager:Start()
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 21955.
+Total: 141.667800 ms (FindLiveObjects: 1.512500 ms CreateObjectMapping: 2.183900 ms MarkObjects: 137.886800 ms  DeleteObjects: 0.083100 ms)
+
+[AreaManager] LoadAreas
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.AreaManager:LoadAreas()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+<StreamVideo>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+PlayIntroSequence - end
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+IntroSystem.<PlayIntroSequence>d__19:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The 'Play on Awake' checkbox in the Audio Source for Sound Group 'authority-scene', Variation 'ambient' is checked. This is not used in Master Audio and can lead to buggy behavior. Make sure to uncheck it before hitting Play next time. To play ambient sounds, use an EventSounds component and activate the Start event to play a Sound Group of your choice.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+DarkTonic.MasterAudio.SoundGroupVariation:Awake()
+
+[GameModeController] Hardcore Mode off
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameModeController:HardcoreModeOn(Boolean)
+GameModeController:Awake()
+
+Build Number:94f782a7
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BuildIdDisplay:Awake()
+
+NotSupportedException: To marshal a managed method, please add an attribute named 'MonoPInvokeCallback' to the method definition. The method we're attempting to marshal is: SteamManager::SteamAPIDebugTextHook
+  at Steamworks.SteamClient.SetWarningMessageHook (Steamworks.SteamAPIWarningMessageHook_t pFunction) [0x00000] in <00000000000000000000000000000000>:0 
+  at SteamManager.OnEnable () [0x00000] in <00000000000000000000000000000000>:0 
+
+[AmplifyTexture] Initializing collections took 0.001755714 sec
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AmplifyTextureManager:InitializeCollections()
+AmplifyTextureManager:Awake()
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 3)
+SAME KEYBOARD LAYOUT SELECTED. BAIL OUT
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+CrossPlatformInputManager:CreateDefaultBindings(String, KeyboardLayout, Boolean)
+KeyboardMappingOption:OnChange()
+
+[SunBehaviour] Toggled shadows ON
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SunBehaviour:OnRenderingQualityChanged(Int32)
+PixelCrushers.UnloadSceneDelegate:Invoke(Int32)
+ShaderGraphicsOption:OnChange()
+
+[DisplayModeOption] onChange FullScreenWindow
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DisplayModeOption:OnChange()
+
+[AreaManager] LoadAreasCoR finished
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.<LoadAreasCoR>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#00FFFF>DialogueBundle is not yet ready - we need to wait until DialogBundle is ready.
+ Extending Loading</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.ApplicationManager:OnStartCompleted()
+IntroSystem.IntroManager:OnLoadCompleted()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+Sunshine.<LoadAreasCoR>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+INITIALIZE ACHIEVEMENTS:  STEAM
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Achievements:Initialize()
+SteamAchievements:Start()
+
+Loading profile 1 MEDIUM
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FontSizeProfiles.LayoutProfileChanger:LoadProfile(Int32)
+LayoutProfileConfiguration:Start()
+
+[UnregisterEscapeKeyListener]
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.Credits:HideCredits()
+
+[LocalizationSettingsOption] Main language set to: English
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+LocalizationCustomSystem.LocalizationSettingsOption:Start()
+
+[LocalizationSettingsOption] Switchable language set to: English
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+[ResolutionSwitcher] Apply
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ResolutionSwitcher:Apply(String)
+ResolutionSwitcher:Activate()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+TMPro.TMP_Dropdown:SetValue(Int32, Boolean)
+ResolutionSwitcher:Start()
+
+[ResolutionSwitcher] Resolution change from 1280 800 FullScreenWindow to 1280 800 FullScreenWindow
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ResolutionSwitcher:SetResolution(Int32, Int32, FullScreenMode)
+ResolutionSwitcher:Apply(String)
+ResolutionSwitcher:Activate()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+TMPro.TMP_Dropdown:SetValue(Int32, Boolean)
+ResolutionSwitcher:Start()
+
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 66246.
+Total: 316.610500 ms (FindLiveObjects: 5.605500 ms CreateObjectMapping: 3.291400 ms MarkObjects: 307.205600 ms  DeleteObjects: 0.506900 ms)
+
+<color=#00FFFF>Loading Build Bundle</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DialogueBundleLoader:LoadBuildBundle()
+<Start>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#00FFFF>Successfully loaded Build Bundle</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DialogueBundleLoader:LoadDone(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+System.Action`1:Invoke(T)
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 1.463600 ms
+LOADING Scenes/Church-int took 685.9226 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+
+Unloading 14368 unused Assets to reduce memory usage. Loaded Objects now: 56590.
+Total: 706.516900 ms (FindLiveObjects: 6.142300 ms CreateObjectMapping: 3.379900 ms MarkObjects: 689.891000 ms  DeleteObjects: 7.102800 ms)
+
+LOADING Scenes/Whirling-int-f1 took 1292.145 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Whirling-int-f2 took 215.0211 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Martinaise-ext took 2746.983 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Doomed-commerce-int-f2 took 102.869 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Doomed-commerce-int-f1 took 85.72388 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Doomed-commerce-int-s1 took 113.5616 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Kiosque-int took 99.61128 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Capeside-apartments-int took 86.56693 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Whirling-int-f3 took 79.95033 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Whirling-int-f3-antechamber took 71.01822 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Capeside-coalchamber-int took 60.85205 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Secretary-int took 66.64658 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Pawnshop-int took 84.22279 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Cunos-shack-int took 65.87029 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Capeside-smoker-int took 83.47321 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Sea-fortress-int took 82.29256 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Tent-int took 70.04929 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Second-home-int took 65.5632 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/FV-house-int took 86.38573 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Instigators-lair-int took 180.6564 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Union-container-int took 63.39264 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Union-boss-int took 116.5257 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Capeside-wcw-int took 66.01143 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Crypto-garys-apt-int took 66.06674 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Dream-2 took 83.38737 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/FV-shack-int took 66.4978 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Feld-int took 66.79916 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Dream-3-ext took 102.6764 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Dream-3-int took 66.33377 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/Commustudent-int took 726.8391 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOADING Scenes/CollageMode took 3323.988 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CleanCacheAndUpdateSources took 16.72745 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+GCCollect took 193.4338 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+TOTAL SCENE LOADING took 0m 11s
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAllScenes>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 36 Unused Serialized files (Serialized files now loaded: 4)
+Scene Loading Scenes/Lobby took 393.4479 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 321289.
+Total: 763.222300 ms (FindLiveObjects: 19.850000 ms CreateObjectMapping: 19.789200 ms MarkObjects: 723.102700 ms  DeleteObjects: 0.479600 ms)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 135 shaders 14961 combinations 3.912s
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321230.
+Total: 768.708700 ms (FindLiveObjects: 26.212400 ms CreateObjectMapping: 21.950200 ms MarkObjects: 720.034200 ms  DeleteObjects: 0.510700 ms)
+
