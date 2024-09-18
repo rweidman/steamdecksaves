@@ -1453,3 +1453,23 @@ InControl.Logger:LogInfo(String)
 InControl.NativeInputDeviceManager:Update(UInt64, Single)
 InControl.InputManager:UpdateInternal()
 
+[PersistentDataManager.GetRawData] Memory stream took 7786 KB
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SunshinePersistentFileManager.GetZipBytes] Memory stream took 867 KB (CAPACITY: 4096 KB)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveCoR GCCollect took 218.2617 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
