@@ -2296,3 +2296,5 @@ InControl.Logger:LogInfo(String)
 InControl.NativeInputDeviceManager:Update(UInt64, Single)
 InControl.InputManager:UpdateInternal()
 
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
