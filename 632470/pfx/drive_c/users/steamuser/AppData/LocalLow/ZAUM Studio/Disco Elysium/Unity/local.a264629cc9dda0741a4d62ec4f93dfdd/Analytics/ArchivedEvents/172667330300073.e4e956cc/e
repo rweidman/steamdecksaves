@@ -1,0 +1,4 @@
+(s)|{"appid":"local.a264629cc9dda0741a4d62ec4f93dfdd","userid":"18c223593f96f8a4d8bc4b496dfff276","sessionid":4759840498143319626,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2020.3.12f1","sdk_rev":"b3b2c6512326","session_count":2,"localprojectid":"a264629cc9dda0741a4d62ec4f93dfdd","build_guid":"4df3736b7e112d343a4f932a5b189bb0","deviceid":"23d3dea46f106ecf3ee0ec39223ff0de518bf2cb","identity_token":"18c223593f96f8a4d8bc4b496dfff276"}
+(g)|2
+{"type":"analytics.appRunning.v1","msg":{"duration":43200,"local_time_offset":21600000,"ts":1726673303970,"t_since_start":43203001351}}
+{"type":"analytics.custom.v1","msg":{"custom_params":{"currentRealTimeMinutes":633,"totalRealTimeMinutes":20504,"currentGameTimeMinutes":476,"totalGameTimeMinutes":10094,"currentDay":1,"currentDayMinutes":956,"currentMoney":60,"totalMoney":3460,"totalXP":290},"ts":1726673428126,"t_since_start":43327156795,"name":"playerStatusOnQuit"}}

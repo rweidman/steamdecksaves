@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "KINEEMA ORB / halogen watermarks",
+            "stringValue": "JAM / TOMMY",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 914,
+            "intValue": 948,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
