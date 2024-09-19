@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "YARD / TRASH",
+            "stringValue": "INVENTORY / LEDGER OF FAILURE",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 854,
+            "intValue": 863,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
