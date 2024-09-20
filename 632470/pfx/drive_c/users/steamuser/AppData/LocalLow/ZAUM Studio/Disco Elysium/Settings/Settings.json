@@ -169,7 +169,7 @@
             "intValue": 0,
             "stringValue": null,
             "floatValue": 0.0,
-            "boolValue": false,
+            "boolValue": true,
             "type": "BOOL"
         }
     },
@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "WHIRLING F1 / GORACY KUBEK",
+            "stringValue": "WHIRLING F1 / STEEL DOOR",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 1180,
+            "intValue": 1401,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
