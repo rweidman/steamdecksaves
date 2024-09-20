@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "CONTAINERYARD / RICH GUY CONTAINER DOOR",
+            "stringValue": "CONTAINERYARD / EASY-LEO",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 2201,
+            "intValue": 2259,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
