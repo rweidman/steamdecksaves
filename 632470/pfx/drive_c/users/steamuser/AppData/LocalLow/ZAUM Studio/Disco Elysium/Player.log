@@ -28400,3 +28400,421 @@ PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transf
 PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
 PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandSetTriggerAnimation:Start()
 
+Expensive FindSpecifier invocation for object: file_cabinet in the scene: Secretary-int. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandSetTriggerAnimation:Start()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Martinaise-ext took 589.8438 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 141 shaders 17864 combinations 0.094s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Orb Template.GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+Sunshine.MovementCommand:Process(Component, Sector)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-39.1, 12.4, -123.3)] can not reach newPosition: (-41.0, 43.5, -80.1).</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
+FortressOccident.Party:SetDestination(MovementCommand, Int32)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Expensive FindSpecifier invocation for object: harbor_lift_camera in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandFocusCamera:Start()
+
+Expensive FindSpecifier invocation for object: light-bent-container_animation in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
