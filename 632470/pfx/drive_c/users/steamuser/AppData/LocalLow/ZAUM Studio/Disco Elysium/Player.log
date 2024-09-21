@@ -28931,3 +28931,80 @@ InControl.Logger:LogInfo(String)
 InControl.NativeInputDeviceManager:Update(UInt64, Single)
 InControl.InputManager:UpdateInternal()
 
+[PersistentDataManager.GetRawData] Memory stream took 8247 KB
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SunshinePersistentFileManager.GetZipBytes] Memory stream took 987 KB (CAPACITY: 4096 KB)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveCoR GCCollect took 414.0625 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Sort current list
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.InventoryManager:Update()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueManager:StartConversation(String)
+Sunshine.InventoryTooltip:<PrimeConversation>b__62_0()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+Sunshine.InventoryTooltip:Update()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+Attached native device with handle 23:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
+Location ID: XInput::1
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
