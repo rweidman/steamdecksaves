@@ -29310,3 +29310,54 @@ UnityEngine.Debug:Log(Object)
 <CloseGameSettingsCoR>d__21:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
+<RI.Hid> Failed to start reading input report:
+Access denied.
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Detached native device with handle 23:
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+Attached native device with handle 24:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
+Location ID: XInput::1
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Detached native device with handle 24:
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
