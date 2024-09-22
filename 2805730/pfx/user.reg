@@ -254,6 +254,9 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1721062921
 #time=1dad6d8b62ff0de
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1726946933
+#time=1db0c5c7e662538
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1721062913
 #time=1dad6d8b1445bd2
 "Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
@@ -637,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1721062915
 #time=1dad6d8b2236aa2
 
-[Software\\Valve\\Steam] 1721062921
-#time=1dad6d8b5e3d564
+[Software\\Valve\\Steam] 1726946935
+#time=1db0c5c7f828254
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
@@ -701,8 +704,8 @@ WINE REGISTRY Version 2
 #time=1dad6d8b2448660
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1721062921
-#time=1dad6d8b5e39f36
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1726946935
+#time=1db0c5c7f827502
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1721062915
 #time=1dad6d8b244af14
@@ -794,8 +797,8 @@ WINE REGISTRY Version 2
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
 
-[Software\\Wine\\Fonts] 1723422444
-#time=1daec4e6779cde4
+[Software\\Wine\\Fonts] 1726946938
+#time=1db0c5c81819e8c
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 

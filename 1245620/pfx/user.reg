@@ -307,6 +307,9 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1721062921
 #time=1dad6d8b62ff0de
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1726928819
+#time=1db0c32519087b2
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1721062913
 #time=1dad6d8b1445bd2
 "Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
@@ -694,14 +697,14 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1721062915
 #time=1dad6d8b2236aa2
 
-[Software\\Valve\\Steam] 1723422481
-#time=1daec4e7d814d38
+[Software\\Valve\\Steam] 1726928821
+#time=1db0c3252ba4402
 "language"="english"
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1723422481
-#time=1daec4e7d6b05c8
+[Software\\Valve\\Steam\\ActiveProcess] 1726947705
+#time=1db0c5e4aab903c
 "PID"=dword:00000020
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
@@ -765,8 +768,8 @@ WINE REGISTRY Version 2
 #time=1dad6d8b2448660
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1721062921
-#time=1dad6d8b5e39f36
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1726928821
+#time=1db0c3252ba37be
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1721062915
 #time=1dad6d8b244af14
@@ -910,8 +913,8 @@ WINE REGISTRY Version 2
 #time=1daec4e940912ac
 "guid"=hex:0c,f2,9f,79,01,a2,c0,4f,a5,d0,a5,68,ee,54,85,ee
 
-[Software\\Wine\\Fonts] 1725118300
-#time=1dafbbadfebc78e
+[Software\\Wine\\Fonts] 1726947704
+#time=1db0c5e49b3657e
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 

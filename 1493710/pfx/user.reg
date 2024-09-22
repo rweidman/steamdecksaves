@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1713555384
 #time=1da9290dd27bb9a
 
-[Software\\Valve\\Steam] 1725117856
-#time=1dafbb9d78cf7d0
+[Software\\Valve\\Steam] 1726928922
+#time=1db0c328ec2661e
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
@@ -704,8 +704,8 @@ WINE REGISTRY Version 2
 #time=1da9290dd46a564
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1725117856
-#time=1dafbb9d78ce100
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1726928922
+#time=1db0c328ec24e68
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1713555384
 #time=1da9290dd46ce72
@@ -765,8 +765,8 @@ WINE REGISTRY Version 2
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
 "RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
 
-[Software\\Wine\\DllOverrides] 1713555384
-#time=1da9290dd466522
+[Software\\Wine\\DllOverrides] 1726928919
+#time=1db0c328d58847a
 "api-ms-win-crt-conio-l1-1-0"="native,builtin"
 "api-ms-win-crt-heap-l1-1-0"="native,builtin"
 "api-ms-win-crt-locale-l1-1-0"="native,builtin"
@@ -784,7 +784,10 @@ WINE REGISTRY Version 2
 "msvcp110"="native,builtin"
 "msvcp120"="native,builtin"
 "msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
 "msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
 "msvcr100"="native,builtin"
 "msvcr110"="native,builtin"
 "msvcr120"="native,builtin"
@@ -796,9 +799,10 @@ WINE REGISTRY Version 2
 "vcomp120"="native,builtin"
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
 
-[Software\\Wine\\Fonts] 1725117860
-#time=1dafbb9d9b4fb3e
+[Software\\Wine\\Fonts] 1726928925
+#time=1db0c3290ed98f0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 

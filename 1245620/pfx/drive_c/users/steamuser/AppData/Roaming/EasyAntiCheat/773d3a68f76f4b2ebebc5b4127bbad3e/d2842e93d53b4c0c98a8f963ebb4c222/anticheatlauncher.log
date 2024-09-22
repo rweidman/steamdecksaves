@@ -1,72 +1,267 @@
-[15:31:42:273] [Windows] [EAC Launcher] [Info] Loaded the following settings .json file: 'E:\SteamLibrary\steamapps\common\ELDEN RING\Game\EasyAntiCheat\Settings.json'
-[15:31:42:273] [Windows] [EAC Launcher] [Info] Provided settings:
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - ProcessTitle: ELDEN RING™.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - ExecutablePath: eldenring.exe.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - ProductId: 773d3a68f76f4b2ebebc5b4127bbad3e.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - SandboxId: 3ef0b0eebdcd4673ba70c4cee0888bf0.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - DeploymentId: d2842e93d53b4c0c98a8f963ebb4c222.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - RequestedSplashScreen: EasyAntiCheat/SplashScreen.png.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - WaitForGameProcessExit: false.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - HideGUI: false.
-[15:31:42:273] [Windows] [EAC Launcher] [Info]  - HideBootstrapper: false.
-[15:31:42:761] [Windows] [EAC Launcher] [Info] Embedded resources successfully loaded.
-[15:31:42:772] [Windows] [EAC Launcher] [Info] Will use the icon extracted from the game executable.
-[15:31:43:644] [Windows] [EAC Launcher] [Info] Loader initializing with bootstrapper version 1.6.5.
-[15:31:43:705] [Windows] [EAC Launcher] [Info] Loader component initialized.
-[15:31:43:738] [Windows] [EAC Launcher] [Info] [Connection] Connecting to URL: https://modules-cdn.eac-prod.on.epicgames.com/modules/773d3a68f76f4b2ebebc5b4127bbad3e/d2842e93d53b4c0c98a8f963ebb4c222/linux64
-[15:31:43:761] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:763] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:764] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:765] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:769] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:770] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:774] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:775] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:778] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:780] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:783] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:785] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:792] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:793] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:801] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:802] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:810] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:811] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:818] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:820] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:828] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:829] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:836] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:838] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:845] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:847] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:862] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:863] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:885] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:885] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:895] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:930] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:931] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:966] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:43:969] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:087] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:224] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:225] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:227] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:273] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:274] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:274] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:274] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:274] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:586] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:586] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:586] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:586] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
-[15:31:44:586] [Windows] [EAC Launcher] [Info] [Connection] Connect result: No error (0) Response Code: 304 Destination IP: 108.156.172.114
-[15:31:44:586] [Windows] [EAC Launcher] [Info] No update needed.
-[15:31:44:586] [Windows] [EAC Launcher] [Info] Current progress: 100 (1/1).
-[15:31:44:628] [Windows] [EAC Launcher] [Info] Starting Wine module mapping, Wine version: 9.0.
-[15:31:46:204] [Windows] [EAC Launcher] [Info] Launcher finished with: 301, 'Easy Anti-Cheat successfully loaded in-game'.
-[15:31:46:204] [Windows] [EAC Launcher] [Info] Successfully initialized the Easy Anti-Cheat service, waiting for game window to become visible.
-[15:31:46:205] [Windows] [EAC Launcher] [Info] Unlocking the launch lock, allowing next game to launch to take place.
-[15:31:46:238] [Windows] [EAC Launcher] [Info] Downloaded 1 bytes in 1798 ms (0.00 KB/s)
+[19:41:45:954] [Windows] [EAC Launcher] [Info] Loaded the following settings .json file: 'E:\SteamLibrary\steamapps\common\ELDEN RING\Game\EasyAntiCheat\Settings.json'
+[19:41:45:954] [Windows] [EAC Launcher] [Info] Provided settings:
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - ProcessTitle: ELDEN RING™.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - ExecutablePath: eldenring.exe.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - ProductId: 773d3a68f76f4b2ebebc5b4127bbad3e.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - SandboxId: 3ef0b0eebdcd4673ba70c4cee0888bf0.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - DeploymentId: d2842e93d53b4c0c98a8f963ebb4c222.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - RequestedSplashScreen: EasyAntiCheat/SplashScreen.png.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - WaitForGameProcessExit: false.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - HideGUI: false.
+[19:41:45:954] [Windows] [EAC Launcher] [Info]  - HideBootstrapper: false.
+[19:41:46:481] [Windows] [EAC Launcher] [Info] Embedded resources successfully loaded.
+[19:41:46:570] [Windows] [EAC Launcher] [Info] Will use the icon extracted from the game executable.
+[19:41:47:638] [Windows] [EAC Launcher] [Info] Loader initializing with bootstrapper version 1.6.5.
+[19:41:47:646] [Windows] [EAC Launcher] [Info] Loader component initialized.
+[19:41:47:663] [Windows] [EAC Launcher] [Info] [Connection] Connecting to URL: https://modules-cdn.eac-prod.on.epicgames.com/modules/773d3a68f76f4b2ebebc5b4127bbad3e/d2842e93d53b4c0c98a8f963ebb4c222/linux64
+[19:41:47:687] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:689] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:690] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:691] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:695] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:696] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:699] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:700] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:703] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:705] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:712] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:713] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:720] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:722] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:737] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:738] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:754] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:755] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:770] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:772] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:800] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:800] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:803] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:804] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:846] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:995] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:47:999] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:000] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:095] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:100] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:109] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:201] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:201] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:201] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:201] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:201] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[19:41:48:303] [Windows] [EAC Launcher] [Info] Current progress: 0 (32160/7841688).
+[19:41:48:303] [Windows] [EAC Launcher] [Info] Current progress: 0 (32160/7841688).
+[19:41:48:307] [Windows] [EAC Launcher] [Info] Current progress: 0 (32160/7841688).
+[19:41:48:307] [Windows] [EAC Launcher] [Info] Current progress: 0 (32160/7841688).
+[19:41:48:352] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:352] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:356] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:356] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:360] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:360] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:364] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:364] [Windows] [EAC Launcher] [Info] Current progress: 0 (64928/7841688).
+[19:41:48:368] [Windows] [EAC Launcher] [Info] Current progress: 1 (81312/7841688).
+[19:41:48:368] [Windows] [EAC Launcher] [Info] Current progress: 1 (81312/7841688).
+[19:41:48:372] [Windows] [EAC Launcher] [Info] Current progress: 1 (81312/7841688).
+[19:41:48:372] [Windows] [EAC Launcher] [Info] Current progress: 1 (81312/7841688).
+[19:41:48:376] [Windows] [EAC Launcher] [Info] Current progress: 1 (81312/7841688).
+[19:41:48:376] [Windows] [EAC Launcher] [Info] Current progress: 1 (81312/7841688).
+[19:41:48:380] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:380] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:384] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:384] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:388] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:388] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:392] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:392] [Windows] [EAC Launcher] [Info] Current progress: 1 (97696/7841688).
+[19:41:48:396] [Windows] [EAC Launcher] [Info] Current progress: 1 (114080/7841688).
+[19:41:48:396] [Windows] [EAC Launcher] [Info] Current progress: 1 (114080/7841688).
+[19:41:48:400] [Windows] [EAC Launcher] [Info] Current progress: 1 (114080/7841688).
+[19:41:48:400] [Windows] [EAC Launcher] [Info] Current progress: 1 (114080/7841688).
+[19:41:48:408] [Windows] [EAC Launcher] [Info] Current progress: 1 (130464/7841688).
+[19:41:48:408] [Windows] [EAC Launcher] [Info] Current progress: 1 (130464/7841688).
+[19:41:48:412] [Windows] [EAC Launcher] [Info] Current progress: 1 (146848/7841688).
+[19:41:48:412] [Windows] [EAC Launcher] [Info] Current progress: 1 (146848/7841688).
+[19:41:48:416] [Windows] [EAC Launcher] [Info] Current progress: 1 (146848/7841688).
+[19:41:48:416] [Windows] [EAC Launcher] [Info] Current progress: 1 (146848/7841688).
+[19:41:48:416] [Windows] [EAC Launcher] [Info] Current progress: 2 (163232/7841688).
+[19:41:48:416] [Windows] [EAC Launcher] [Info] Current progress: 2 (163232/7841688).
+[19:41:48:420] [Windows] [EAC Launcher] [Info] Current progress: 2 (163232/7841688).
+[19:41:48:420] [Windows] [EAC Launcher] [Info] Current progress: 2 (163232/7841688).
+[19:41:48:420] [Windows] [EAC Launcher] [Info] Current progress: 2 (163232/7841688).
+[19:41:48:420] [Windows] [EAC Launcher] [Info] Current progress: 2 (163232/7841688).
+[19:41:48:425] [Windows] [EAC Launcher] [Info] Current progress: 2 (179616/7841688).
+[19:41:48:425] [Windows] [EAC Launcher] [Info] Current progress: 2 (179616/7841688).
+[19:41:48:429] [Windows] [EAC Launcher] [Info] Current progress: 2 (196000/7841688).
+[19:41:48:429] [Windows] [EAC Launcher] [Info] Current progress: 2 (196000/7841688).
+[19:41:48:434] [Windows] [EAC Launcher] [Info] Current progress: 2 (212384/7841688).
+[19:41:48:434] [Windows] [EAC Launcher] [Info] Current progress: 2 (212384/7841688).
+[19:41:48:438] [Windows] [EAC Launcher] [Info] Current progress: 2 (228768/7841688).
+[19:41:48:438] [Windows] [EAC Launcher] [Info] Current progress: 2 (228768/7841688).
+[19:41:48:441] [Windows] [EAC Launcher] [Info] Current progress: 3 (245152/7841688).
+[19:41:48:441] [Windows] [EAC Launcher] [Info] Current progress: 3 (245152/7841688).
+[19:41:48:442] [Windows] [EAC Launcher] [Info] Current progress: 3 (261536/7841688).
+[19:41:48:442] [Windows] [EAC Launcher] [Info] Current progress: 3 (261536/7841688).
+[19:41:48:446] [Windows] [EAC Launcher] [Info] Current progress: 3 (261536/7841688).
+[19:41:48:446] [Windows] [EAC Launcher] [Info] Current progress: 3 (261536/7841688).
+[19:41:48:446] [Windows] [EAC Launcher] [Info] Current progress: 3 (277920/7841688).
+[19:41:48:446] [Windows] [EAC Launcher] [Info] Current progress: 3 (277920/7841688).
+[19:41:48:447] [Windows] [EAC Launcher] [Info] Current progress: 3 (277920/7841688).
+[19:41:48:447] [Windows] [EAC Launcher] [Info] Current progress: 3 (277920/7841688).
+[19:41:48:450] [Windows] [EAC Launcher] [Info] Current progress: 3 (294304/7841688).
+[19:41:48:450] [Windows] [EAC Launcher] [Info] Current progress: 3 (294304/7841688).
+[19:41:48:455] [Windows] [EAC Launcher] [Info] Current progress: 4 (343456/7841688).
+[19:41:48:455] [Windows] [EAC Launcher] [Info] Current progress: 4 (343456/7841688).
+[19:41:48:459] [Windows] [EAC Launcher] [Info] Current progress: 4 (359840/7841688).
+[19:41:48:459] [Windows] [EAC Launcher] [Info] Current progress: 4 (359840/7841688).
+[19:41:48:459] [Windows] [EAC Launcher] [Info] Current progress: 4 (359840/7841688).
+[19:41:48:459] [Windows] [EAC Launcher] [Info] Current progress: 4 (359840/7841688).
+[19:41:48:463] [Windows] [EAC Launcher] [Info] Current progress: 5 (408992/7841688).
+[19:41:48:463] [Windows] [EAC Launcher] [Info] Current progress: 5 (408992/7841688).
+[19:41:48:468] [Windows] [EAC Launcher] [Info] Current progress: 5 (441760/7841688).
+[19:41:48:468] [Windows] [EAC Launcher] [Info] Current progress: 5 (441760/7841688).
+[19:41:48:472] [Windows] [EAC Launcher] [Info] Current progress: 6 (490912/7841688).
+[19:41:48:472] [Windows] [EAC Launcher] [Info] Current progress: 6 (490912/7841688).
+[19:41:48:475] [Windows] [EAC Launcher] [Info] Current progress: 6 (523680/7841688).
+[19:41:48:475] [Windows] [EAC Launcher] [Info] Current progress: 6 (523680/7841688).
+[19:41:48:481] [Windows] [EAC Launcher] [Info] Current progress: 7 (572832/7841688).
+[19:41:48:481] [Windows] [EAC Launcher] [Info] Current progress: 7 (572832/7841688).
+[19:41:48:485] [Windows] [EAC Launcher] [Info] Current progress: 8 (638368/7841688).
+[19:41:48:485] [Windows] [EAC Launcher] [Info] Current progress: 8 (638368/7841688).
+[19:41:48:489] [Windows] [EAC Launcher] [Info] Current progress: 9 (720288/7841688).
+[19:41:48:489] [Windows] [EAC Launcher] [Info] Current progress: 9 (720288/7841688).
+[19:41:48:494] [Windows] [EAC Launcher] [Info] Current progress: 10 (785824/7841688).
+[19:41:48:494] [Windows] [EAC Launcher] [Info] Current progress: 10 (785824/7841688).
+[19:41:48:499] [Windows] [EAC Launcher] [Info] Current progress: 11 (884128/7841688).
+[19:41:48:499] [Windows] [EAC Launcher] [Info] Current progress: 11 (884128/7841688).
+[19:41:48:503] [Windows] [EAC Launcher] [Info] Current progress: 12 (998816/7841688).
+[19:41:48:503] [Windows] [EAC Launcher] [Info] Current progress: 12 (998816/7841688).
+[19:41:48:507] [Windows] [EAC Launcher] [Info] Current progress: 12 (1015200/7841688).
+[19:41:48:507] [Windows] [EAC Launcher] [Info] Current progress: 12 (1015200/7841688).
+[19:41:48:512] [Windows] [EAC Launcher] [Info] Current progress: 14 (1146272/7841688).
+[19:41:48:512] [Windows] [EAC Launcher] [Info] Current progress: 14 (1146272/7841688).
+[19:41:48:516] [Windows] [EAC Launcher] [Info] Current progress: 16 (1260960/7841688).
+[19:41:48:516] [Windows] [EAC Launcher] [Info] Current progress: 16 (1260960/7841688).
+[19:41:48:520] [Windows] [EAC Launcher] [Info] Current progress: 17 (1392032/7841688).
+[19:41:48:520] [Windows] [EAC Launcher] [Info] Current progress: 17 (1392032/7841688).
+[19:41:48:523] [Windows] [EAC Launcher] [Info] Current progress: 19 (1523104/7841688).
+[19:41:48:523] [Windows] [EAC Launcher] [Info] Current progress: 19 (1523104/7841688).
+[19:41:48:526] [Windows] [EAC Launcher] [Info] Current progress: 21 (1654176/7841688).
+[19:41:48:526] [Windows] [EAC Launcher] [Info] Current progress: 21 (1654176/7841688).
+[19:41:48:530] [Windows] [EAC Launcher] [Info] Current progress: 22 (1752480/7841688).
+[19:41:48:530] [Windows] [EAC Launcher] [Info] Current progress: 22 (1752480/7841688).
+[19:41:48:533] [Windows] [EAC Launcher] [Info] Current progress: 23 (1867168/7841688).
+[19:41:48:533] [Windows] [EAC Launcher] [Info] Current progress: 23 (1867168/7841688).
+[19:41:48:535] [Windows] [EAC Launcher] [Info] Current progress: 25 (1998240/7841688).
+[19:41:48:535] [Windows] [EAC Launcher] [Info] Current progress: 25 (1998240/7841688).
+[19:41:48:540] [Windows] [EAC Launcher] [Info] Current progress: 26 (2096544/7841688).
+[19:41:48:540] [Windows] [EAC Launcher] [Info] Current progress: 26 (2096544/7841688).
+[19:41:48:543] [Windows] [EAC Launcher] [Info] Current progress: 28 (2244000/7841688).
+[19:41:48:543] [Windows] [EAC Launcher] [Info] Current progress: 28 (2244000/7841688).
+[19:41:48:551] [Windows] [EAC Launcher] [Info] Current progress: 31 (2473376/7841688).
+[19:41:48:551] [Windows] [EAC Launcher] [Info] Current progress: 31 (2473376/7841688).
+[19:41:48:552] [Windows] [EAC Launcher] [Info] Current progress: 31 (2506144/7841688).
+[19:41:48:552] [Windows] [EAC Launcher] [Info] Current progress: 31 (2506144/7841688).
+[19:41:48:556] [Windows] [EAC Launcher] [Info] Current progress: 35 (2751904/7841688).
+[19:41:48:556] [Windows] [EAC Launcher] [Info] Current progress: 35 (2751904/7841688).
+[19:41:48:559] [Windows] [EAC Launcher] [Info] Current progress: 35 (2801056/7841688).
+[19:41:48:559] [Windows] [EAC Launcher] [Info] Current progress: 35 (2801056/7841688).
+[19:41:48:562] [Windows] [EAC Launcher] [Info] Current progress: 37 (2948512/7841688).
+[19:41:48:562] [Windows] [EAC Launcher] [Info] Current progress: 37 (2948512/7841688).
+[19:41:48:565] [Windows] [EAC Launcher] [Info] Current progress: 39 (3128736/7841688).
+[19:41:48:565] [Windows] [EAC Launcher] [Info] Current progress: 39 (3128736/7841688).
+[19:41:48:568] [Windows] [EAC Launcher] [Info] Current progress: 40 (3145120/7841688).
+[19:41:48:568] [Windows] [EAC Launcher] [Info] Current progress: 40 (3145120/7841688).
+[19:41:48:571] [Windows] [EAC Launcher] [Info] Current progress: 43 (3440032/7841688).
+[19:41:48:571] [Windows] [EAC Launcher] [Info] Current progress: 43 (3440032/7841688).
+[19:41:48:574] [Windows] [EAC Launcher] [Info] Current progress: 45 (3554720/7841688).
+[19:41:48:574] [Windows] [EAC Launcher] [Info] Current progress: 45 (3554720/7841688).
+[19:41:48:578] [Windows] [EAC Launcher] [Info] Current progress: 45 (3603872/7841688).
+[19:41:48:578] [Windows] [EAC Launcher] [Info] Current progress: 45 (3603872/7841688).
+[19:41:48:708] [Windows] [EAC Launcher] [Info] Current progress: 46 (3620256/7841688).
+[19:41:48:709] [Windows] [EAC Launcher] [Info] Current progress: 46 (3620256/7841688).
+[19:41:48:711] [Windows] [EAC Launcher] [Info] Current progress: 47 (3718560/7841688).
+[19:41:48:711] [Windows] [EAC Launcher] [Info] Current progress: 47 (3718560/7841688).
+[19:41:48:714] [Windows] [EAC Launcher] [Info] Current progress: 49 (3866016/7841688).
+[19:41:48:714] [Windows] [EAC Launcher] [Info] Current progress: 49 (3866016/7841688).
+[19:41:48:714] [Windows] [EAC Launcher] [Info] Current progress: 49 (3898784/7841688).
+[19:41:48:714] [Windows] [EAC Launcher] [Info] Current progress: 49 (3898784/7841688).
+[19:41:48:718] [Windows] [EAC Launcher] [Info] Current progress: 50 (3931552/7841688).
+[19:41:48:718] [Windows] [EAC Launcher] [Info] Current progress: 50 (3931552/7841688).
+[19:41:48:720] [Windows] [EAC Launcher] [Info] Current progress: 52 (4111776/7841688).
+[19:41:48:720] [Windows] [EAC Launcher] [Info] Current progress: 52 (4111776/7841688).
+[19:41:48:724] [Windows] [EAC Launcher] [Info] Current progress: 53 (4177312/7841688).
+[19:41:48:724] [Windows] [EAC Launcher] [Info] Current progress: 53 (4177312/7841688).
+[19:41:48:727] [Windows] [EAC Launcher] [Info] Current progress: 53 (4210080/7841688).
+[19:41:48:727] [Windows] [EAC Launcher] [Info] Current progress: 53 (4210080/7841688).
+[19:41:48:731] [Windows] [EAC Launcher] [Info] Current progress: 56 (4406688/7841688).
+[19:41:48:731] [Windows] [EAC Launcher] [Info] Current progress: 56 (4406688/7841688).
+[19:41:48:735] [Windows] [EAC Launcher] [Info] Current progress: 57 (4472224/7841688).
+[19:41:48:735] [Windows] [EAC Launcher] [Info] Current progress: 57 (4472224/7841688).
+[19:41:48:740] [Windows] [EAC Launcher] [Info] Current progress: 58 (4619680/7841688).
+[19:41:48:740] [Windows] [EAC Launcher] [Info] Current progress: 58 (4619680/7841688).
+[19:41:48:742] [Windows] [EAC Launcher] [Info] Current progress: 60 (4750752/7841688).
+[19:41:48:742] [Windows] [EAC Launcher] [Info] Current progress: 60 (4750752/7841688).
+[19:41:48:742] [Windows] [EAC Launcher] [Info] Current progress: 61 (4799904/7841688).
+[19:41:48:742] [Windows] [EAC Launcher] [Info] Current progress: 61 (4799904/7841688).
+[19:41:48:745] [Windows] [EAC Launcher] [Info] Current progress: 63 (4947360/7841688).
+[19:41:48:745] [Windows] [EAC Launcher] [Info] Current progress: 63 (4947360/7841688).
+[19:41:48:747] [Windows] [EAC Launcher] [Info] Current progress: 64 (5062048/7841688).
+[19:41:48:747] [Windows] [EAC Launcher] [Info] Current progress: 64 (5062048/7841688).
+[19:41:48:749] [Windows] [EAC Launcher] [Info] Current progress: 64 (5078432/7841688).
+[19:41:48:749] [Windows] [EAC Launcher] [Info] Current progress: 64 (5078432/7841688).
+[19:41:48:749] [Windows] [EAC Launcher] [Info] Current progress: 65 (5143968/7841688).
+[19:41:48:749] [Windows] [EAC Launcher] [Info] Current progress: 65 (5143968/7841688).
+[19:41:48:758] [Windows] [EAC Launcher] [Info] Current progress: 67 (5275040/7841688).
+[19:41:48:758] [Windows] [EAC Launcher] [Info] Current progress: 67 (5275040/7841688).
+[19:41:48:767] [Windows] [EAC Launcher] [Info] Current progress: 70 (5520800/7841688).
+[19:41:48:767] [Windows] [EAC Launcher] [Info] Current progress: 70 (5520800/7841688).
+[19:41:48:769] [Windows] [EAC Launcher] [Info] Current progress: 71 (5569952/7841688).
+[19:41:48:769] [Windows] [EAC Launcher] [Info] Current progress: 71 (5569952/7841688).
+[19:41:48:772] [Windows] [EAC Launcher] [Info] Current progress: 73 (5782944/7841688).
+[19:41:48:772] [Windows] [EAC Launcher] [Info] Current progress: 73 (5782944/7841688).
+[19:41:48:774] [Windows] [EAC Launcher] [Info] Current progress: 74 (5848480/7841688).
+[19:41:48:774] [Windows] [EAC Launcher] [Info] Current progress: 74 (5848480/7841688).
+[19:41:48:778] [Windows] [EAC Launcher] [Info] Current progress: 76 (6012320/7841688).
+[19:41:48:778] [Windows] [EAC Launcher] [Info] Current progress: 76 (6012320/7841688).
+[19:41:48:780] [Windows] [EAC Launcher] [Info] Current progress: 78 (6159776/7841688).
+[19:41:48:780] [Windows] [EAC Launcher] [Info] Current progress: 78 (6159776/7841688).
+[19:41:48:783] [Windows] [EAC Launcher] [Info] Current progress: 80 (6290848/7841688).
+[19:41:48:783] [Windows] [EAC Launcher] [Info] Current progress: 80 (6290848/7841688).
+[19:41:48:789] [Windows] [EAC Launcher] [Info] Current progress: 81 (6356384/7841688).
+[19:41:48:789] [Windows] [EAC Launcher] [Info] Current progress: 81 (6356384/7841688).
+[19:41:48:794] [Windows] [EAC Launcher] [Info] Current progress: 82 (6438304/7841688).
+[19:41:48:794] [Windows] [EAC Launcher] [Info] Current progress: 82 (6438304/7841688).
+[19:41:48:797] [Windows] [EAC Launcher] [Info] Current progress: 84 (6618528/7841688).
+[19:41:48:797] [Windows] [EAC Launcher] [Info] Current progress: 84 (6618528/7841688).
+[19:41:48:799] [Windows] [EAC Launcher] [Info] Current progress: 86 (6815136/7841688).
+[19:41:48:799] [Windows] [EAC Launcher] [Info] Current progress: 86 (6815136/7841688).
+[19:41:48:804] [Windows] [EAC Launcher] [Info] Current progress: 87 (6880672/7841688).
+[19:41:48:804] [Windows] [EAC Launcher] [Info] Current progress: 87 (6880672/7841688).
+[19:41:48:814] [Windows] [EAC Launcher] [Info] Current progress: 90 (7077280/7841688).
+[19:41:48:814] [Windows] [EAC Launcher] [Info] Current progress: 90 (7077280/7841688).
+[19:41:48:816] [Windows] [EAC Launcher] [Info] Current progress: 91 (7175584/7841688).
+[19:41:48:816] [Windows] [EAC Launcher] [Info] Current progress: 91 (7175584/7841688).
+[19:41:48:819] [Windows] [EAC Launcher] [Info] Current progress: 92 (7257504/7841688).
+[19:41:48:819] [Windows] [EAC Launcher] [Info] Current progress: 92 (7257504/7841688).
+[19:41:48:822] [Windows] [EAC Launcher] [Info] Current progress: 93 (7355808/7841688).
+[19:41:48:822] [Windows] [EAC Launcher] [Info] Current progress: 93 (7355808/7841688).
+[19:41:48:824] [Windows] [EAC Launcher] [Info] Current progress: 95 (7454112/7841688).
+[19:41:48:824] [Windows] [EAC Launcher] [Info] Current progress: 95 (7454112/7841688).
+[19:41:48:827] [Windows] [EAC Launcher] [Info] Current progress: 97 (7634336/7841688).
+[19:41:48:827] [Windows] [EAC Launcher] [Info] Current progress: 97 (7634336/7841688).
+[19:41:48:829] [Windows] [EAC Launcher] [Info] Current progress: 98 (7732640/7841688).
+[19:41:48:829] [Windows] [EAC Launcher] [Info] Current progress: 98 (7732640/7841688).
+[19:41:48:832] [Windows] [EAC Launcher] [Info] Current progress: 100 (7841688/7841688).
+[19:41:48:832] [Windows] [EAC Launcher] [Info] Current progress: 100 (7841688/7841688).
+[19:41:48:832] [Windows] [EAC Launcher] [Info] Current progress: 100 (7841688/7841688).
+[19:41:48:832] [Windows] [EAC Launcher] [Info] Current progress: 100 (7841688/7841688).
+[19:41:48:832] [Windows] [EAC Launcher] [Info] [Connection] Connect result: No error (0) Response Code: 200 Destination IP: 108.156.172.101
+[19:41:48:835] [Windows] [EAC Launcher] [Info] Current progress: 100 (1/1).
+[19:41:48:871] [Windows] [EAC Launcher] [Info] Starting Wine module mapping, Wine version: 9.0.
+[19:41:50:565] [Windows] [EAC Launcher] [Info] Launcher finished with: 301, 'Easy Anti-Cheat successfully loaded in-game'.
+[19:41:50:565] [Windows] [EAC Launcher] [Info] Successfully initialized the Easy Anti-Cheat service, waiting for game window to become visible.
+[19:41:50:565] [Windows] [EAC Launcher] [Info] Unlocking the launch lock, allowing next game to launch to take place.
+[19:41:50:599] [Windows] [EAC Launcher] [Info] Downloaded 7841688 bytes in 2253 ms (3398.98 KB/s)
