@@ -741,13 +741,13 @@ WINE REGISTRY Version 2
 [Software\\Wine\\Drivers\\winepulse.drv] 1726953242
 #time=1db0c6b2eb83a94
 
-[Software\\Wine\\Fonts] 1726980742
-#time=1db0cab35edfbba
+[Software\\Wine\\Fonts] 1728009271
+#time=1db1605f0f3ccba
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1726980742
-#time=1db0cab35f0aad6
+[Software\\Wine\\Fonts\\External Fonts] 1728009271
+#time=1db1605f0f644a4
 "@Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
 "@Noto Fangsong KSS Vertical Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSVertical-Regular.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\noto-cjk\\NotoSansCJK-Regular.ttc"
