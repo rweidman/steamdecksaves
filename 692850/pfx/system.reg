@@ -73392,8 +73392,8 @@ WINE REGISTRY Version 2
 @="Imaging devices"
 "Class"="Image"
 
-[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}] 1728102600
-#time=1db16df3dd5cf36
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}] 1728137391
+#time=1db17303ea728c8
 @="Human Interface Devices"
 "Class"="HIDClass"
 
@@ -73813,6 +73813,22 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0103] 1728102600
 #time=1db16df3dd5cf36
 
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0104] 1728137391
+#time=1db17303e9e606c
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0105] 1728137391
+#time=1db17303e9ff382
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0106] 1728137391
+#time=1db17303ea5a3cc
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0107] 1728137391
+#time=1db17303ea728c8
+
 [System\\CurrentControlSet\\Control\\ComputerName\\ComputerName] 1726953049
 #time=1db0c6abbc51e26
 "ComputerName"="STEAMDECK"
@@ -73926,6 +73942,14 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&9#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1727201653
 #time=1db0ead8f8d2886
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&9#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&2&11#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1728137391
+#time=1db17303ea93e9c
+"DeviceInstance"="HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&11"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&2&11#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1728137391
+#time=1db17303ea94914
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&2&11#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&3&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1728009263
 #time=1db1605ec67914a
@@ -74158,6 +74182,14 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&8#{4d1e55b2-f16f-11cf-88cb-001111000031}\\#] 1727201653
 #time=1db0ead8f84c2cc
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&1&8#{4d1e55b2-f16f-11cf-88cb-001111000031}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&2&10#{4d1e55b2-f16f-11cf-88cb-001111000031}] 1728137391
+#time=1db17303ea1b1ea
+"DeviceInstance"="HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&10"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&2&10#{4d1e55b2-f16f-11cf-88cb-001111000031}\\#] 1728137391
+#time=1db17303ea1c3d8
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&2&10#{4d1e55b2-f16f-11cf-88cb-001111000031}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000031}\\##?#hid#vid_045e&pid_028e&ig_00#1&030079f6de280000ff11000001000000&3&0#{4d1e55b2-f16f-11cf-88cb-001111000031}] 1728009263
 #time=1db1605ec5d4082
@@ -75113,6 +75145,26 @@ WINE REGISTRY Version 2
 #time=1db0ed9816eeb46
 @=hex(ffff0006):40,00,00,00
 
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&10] 1728137391
+#time=1db17303ea0052a
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0105"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&10\\Properties\\{BC62E415-F4FE-405C-8EDA-636FB59F0898}\\0002] 1728137391
+#time=1db17303ea007aa
+@=hex(ffff0006):0f,00,00,00
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&11] 1728137391
+#time=1db17303ea73a2a
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0107"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&11\\Properties\\{BC62E415-F4FE-405C-8EDA-636FB59F0898}\\0002] 1728137391
+#time=1db17303ea73caa
+@=hex(ffff0006):10,00,00,00
+
 [System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&3&0] 1728009263
 #time=1db1605ec5bc39c
 "Class"="HIDClass"
@@ -75819,6 +75871,32 @@ WINE REGISTRY Version 2
 
 [System\\CurrentControlSet\\Enum\\SDLJOY\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&1&9\\Device Parameters] 1727201653
 #time=1db0ead8f8a5a98
+
+[System\\CurrentControlSet\\Enum\\SDLJOY\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&10] 1728137391
+#time=1db17303e9e221e
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"SDLJOY\0"
+"DeviceDesc"="Wine SDL HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0104"
+"HardwareID"=str(7):"SDLJOY\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\SDLJOY\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&10\\Device Parameters] 1728137391
+#time=1db17303e9c8c06
+
+[System\\CurrentControlSet\\Enum\\SDLJOY\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&11] 1728137391
+#time=1db17303ea5724e
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"SDLJOY\0"
+"DeviceDesc"="Wine SDL HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0106"
+"HardwareID"=str(7):"SDLJOY\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\SDLJOY\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&2&11\\Device Parameters] 1728137391
+#time=1db17303ea48064
 
 [System\\CurrentControlSet\\Enum\\SDLJOY\\VID_045E&PID_028E&IG_00\\1&030079F6DE280000FF11000001000000&3&0] 1728009263
 #time=1db1605ec5ab704
