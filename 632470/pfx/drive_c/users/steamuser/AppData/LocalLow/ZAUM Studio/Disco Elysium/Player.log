@@ -582,3 +582,391 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321226.
 Total: 750.651000 ms (FindLiveObjects: 19.900700 ms CreateObjectMapping: 19.618800 ms MarkObjects: 710.658500 ms  DeleteObjects: 0.471900 ms)
 
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Detached native device with handle 1:
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+IsTaskActive("TASK.find_a_way_inside_apt_building"): task does not exist (or tasks not yet initialized if 0 == 0)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.Journal.JournalModel:IsTaskActive(String)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Language.Lua.LuaMethodFunction:InvokeMethod(LuaValue[])
+System.Diagnostics.Tracing.Transformer`1:Invoke(ValueType)
+Language.Lua.PrimaryExpr:Evaluate(LuaTable)
+Language.Lua.Operation:InfixBinaryOperation(Term, String, Term, LuaTable)
+Language.Lua.Operation:Evaluate(LuaTable)
+Language.Lua.LuaInterpreterExtensions:EvaluateAll(List`1, LuaTable)
+Language.Lua.Chunk:Execute(Boolean&)
+Language.Lua.Chunk:Execute()
+Language.Lua.LuaInterpreter:Interpreter(String, LuaTable)
+PixelCrushers.DialogueSystem.Lua:RunRaw(String, Boolean, Boolean)
+PixelCrushers.DialogueSystem.Lua:Run(String)
+FortressOccident.BasicEntity:get_PrerequisitesMet()
+FortressOccident.BasicEntity:UpdateCache()
+SceneLoadingManager:SetObjects()
+FortressOccident.SceneTransitionManager:SetActive(Scene, Boolean)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
+<LoadCoR>d__59:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+IsTaskActive("TASK.find_a_way_inside_apt_building"): task does not exist (or tasks not yet initialized if 0 == 0)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.Journal.JournalModel:IsTaskActive(String)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Language.Lua.LuaMethodFunction:InvokeMethod(LuaValue[])
+System.Diagnostics.Tracing.Transformer`1:Invoke(ValueType)
+Language.Lua.PrimaryExpr:Evaluate(LuaTable)
+Language.Lua.Operation:InfixBinaryOperation(Term, String, Term, LuaTable)
+Language.Lua.Operation:Evaluate(LuaTable)
+Language.Lua.LuaInterpreterExtensions:EvaluateAll(List`1, LuaTable)
+Language.Lua.Chunk:Execute(Boolean&)
+Language.Lua.Chunk:Execute()
+Language.Lua.LuaInterpreter:Interpreter(String, LuaTable)
+PixelCrushers.DialogueSystem.Lua:RunRaw(String, Boolean, Boolean)
+PixelCrushers.DialogueSystem.Lua:Run(String)
+FortressOccident.BasicEntity:get_PrerequisitesMet()
+FortressOccident.BasicEntity:UpdateCache()
+SceneLoadingManager:SetObjects()
+FortressOccident.SceneTransitionManager:SetActive(Scene, Boolean)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
+<LoadCoR>d__59:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Scene Loading Scenes/Martinaise-ext took 1523.987 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
+<LoadCoR>d__59:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LoadCoR GCCollect took 190.4297 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadCoR>d__59:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d0 -> priority: 1 
+  Thread -> id: 2d4 -> priority: 1 
+[AmplifyTexture] Resized cache for screen resolution 1280x720 => 4096x2048 (450 pages, 43 MB, Compressed, Adaptive)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AmplifyTextureCamera:InternalInitialize(EditorRuntimeProperties)
+AmplifyTextureManager:InternalUpdate()
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 137 shaders 14967 combinations 0.078s
+[GameModeController] Hardcore Mode off
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameModeController:HardcoreModeOn(Boolean)
+GameModePersister:Deserialize(GameModeState)
+SunshinePersistenceLoadDataManager:LoadDataAfterLoadingArea()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Reset
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ModusMullen:Start()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Whirling-int-f1 took 259.1553 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.517s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Martinaise-ext took 568.4204 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.075s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+Expensive FindSpecifier invocation for object: Kineema in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
