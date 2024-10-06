@@ -7,6 +7,41 @@ WINE REGISTRY Version 2
 #time=1dae9a4af5f6a80
 @=""
 
+[Console] 1728184914
+#time=1db179ee4c62a4c
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
 [Control Panel\\Accessibility\\AudioDescription] 1723129645
 #time=1dae9a4adb68024
 "Locale"=dword:00000000
@@ -227,6 +262,10 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Protected Storage System Provider] 1723129648
 #time=1dae9a4af5f6b84
 
+[Software\\Microsoft\\SQMClient] 1728184969
+#time=1db179f0533b60a
+"UserId"="{A22260F0-42D2-405F-9E42-36F2C189012A}"
+
 [Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1723129651
 #time=1dae9a4b0f7836e
 
@@ -236,6 +275,15 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1723129651
 #time=1dae9a4b0f78648
 
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1728184918
+#time=1db179ee7233672
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1728184918
+#time=1db179ee72338ca
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1728184918
+#time=1db179ee7233a96
+
 [Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1723129651
 #time=1dae9a4b0f78f12
 
@@ -244,6 +292,15 @@ WINE REGISTRY Version 2
 
 [Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1723129651
 #time=1dae9a4b0f791d8
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1728184918
+#time=1db179ee719e040
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1728184918
+#time=1db179ee719e1bc
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1728184918
+#time=1db179ee719e324
 
 [Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1723129651
 #time=1dae9a4b0f79a84
@@ -318,8 +375,9 @@ WINE REGISTRY Version 2
 "{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
 "{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1723129648
-#time=1dae9a4af43be98
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1728184987
+#time=1db179f1005189e
+"ProxyEnable"=dword:00000000
 "User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1723129648
@@ -625,6 +683,10 @@ WINE REGISTRY Version 2
 "WindowFrame"="0 0 0"
 "WindowText"="0 0 0"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1728184918
+#time=1db179ee7191c64
+"State"=dword:00023c00
+
 [Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1723129648
 #time=1dae9a4af5f935c
 "ProgId"="ftp"
@@ -640,17 +702,24 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1723129648
 #time=1dae9a4af5da5ec
 
-[Software\\Valve\\Steam] 1723129651
-#time=1dae9a4b0d13718
+[Software\\Valve\\Steam] 1728184980
+#time=1db179f0bea4b08
+"language"="english"
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1723129648
-#time=1dae9a4af6a099a
-"PID"=dword:0000fffe
+[Software\\Valve\\Steam\\ActiveProcess] 1728184980
+#time=1db179f0be59766
+"PID"=dword:00000020
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Valve\\Steam\\Apps\\990080] 1728184980
+#time=1db179f0bea4fa4
+"Installed"=dword:00000001
+"Running"=dword:00000001
+"Updating"=dword:00000000
 
 [Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1723129648
 #time=1dae9a4af69d8ee
@@ -704,8 +773,8 @@ WINE REGISTRY Version 2
 #time=1dae9a4af6954aa
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1723129651
-#time=1dae9a4b0d12426
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1728184913
+#time=1db179ee413a674
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1723129648
 #time=1dae9a4af69626a
@@ -760,13 +829,16 @@ WINE REGISTRY Version 2
 #time=1dae9a4af69dfba
 "atiadlxx"="builtin"
 
+[Software\\Wine\\Crypto\\RSA\\steamuser] 1728184987
+#time=1db179f0fd1a2fc
+
 [Software\\Wine\\Debug] 1723129648
 #time=1dae9a4af5e49c0
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
 "RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
 
-[Software\\Wine\\DllOverrides] 1723129648
-#time=1dae9a4af693ec0
+[Software\\Wine\\DllOverrides] 1728184908
+#time=1db179ee0faa712
 "api-ms-win-crt-conio-l1-1-0"="native,builtin"
 "api-ms-win-crt-heap-l1-1-0"="native,builtin"
 "api-ms-win-crt-locale-l1-1-0"="native,builtin"
@@ -784,7 +856,10 @@ WINE REGISTRY Version 2
 "msvcp110"="native,builtin"
 "msvcp120"="native,builtin"
 "msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
 "msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
 "msvcr100"="native,builtin"
 "msvcr110"="native,builtin"
 "msvcr120"="native,builtin"
@@ -796,9 +871,62 @@ WINE REGISTRY Version 2
 "vcomp120"="native,builtin"
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
 
-[Software\\Wine\\Fonts] 1725419353
-#time=1dafe77d1b42cdc
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.1.hdmi-stereo-extra2] 1728184995
+#time=1db179f151d2ec0
+"guid"=hex:5f,2b,18,f9,5a,1d,e1,4f,b6,22,2b,cc,bb,c1,e2,0c
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink] 1728184995
+#time=1db179f151d03be
+"guid"=hex:79,10,48,59,1e,43,8e,45,b6,41,30,55,01,23,b9,83
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_1__sink] 1728184995
+#time=1db179f151cd812
+"guid"=hex:b8,9b,69,17,26,7e,e1,40,a1,81,6b,37,23,78,5f,a1
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,filter-chain-sink] 1728184995
+#time=1db179f151c6ba2
+"guid"=hex:28,84,ce,6f,5b,48,e3,4a,97,1c,b9,f5,64,a1,3a,be
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,input.virtual-sink] 1728184995
+#time=1db179f151ca4fa
+"guid"=hex:4a,d9,8c,f2,a9,27,a3,46,a7,b3,df,c7,d7,67,ff,45
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__source] 1728184995
+#time=1db179f151ea30e
+"guid"=hex:35,59,af,ff,d9,19,f7,4c,b7,b4,b0,1a,71,d2,71,13
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.1.hdmi-stereo-extra2.monitor] 1728184995
+#time=1db179f151ed0ae
+"guid"=hex:6d,07,b2,1a,31,38,bc,4b,85,00,01,78,b8,c4,d2,19
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink.monitor] 1728184995
+#time=1db179f151e6f9c
+"guid"=hex:73,1b,38,d8,12,e7,86,4d,b9,77,7b,1a,31,d0,6b,0a
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_1__sink.monitor] 1728184995
+#time=1db179f151e418e
+"guid"=hex:8e,71,4b,1f,7b,81,71,4e,87,6c,9d,e2,47,db,ae,24
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,filter-chain-sink.monitor] 1728184995
+#time=1db179f151da88c
+"guid"=hex:bf,16,28,15,2c,ae,5e,4e,98,9a,94,dd,56,b3,a2,e0
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,filter-chain-source] 1728184995
+#time=1db179f151d790c
+"guid"=hex:f2,dc,8e,8d,e0,3d,40,41,ac,07,02,73,13,d5,2c,18
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,input.virtual-sink.monitor] 1728184995
+#time=1db179f151ddb68
+"guid"=hex:ec,c4,80,9b,37,b7,17,4b,89,74,1a,18,3d,cc,18,9f
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,output.virtual-source] 1728184995
+#time=1db179f151e0dea
+"guid"=hex:46,e7,b7,0b,67,01,de,49,98,be,ef,5c,d8,99,8b,fb
+
+[Software\\Wine\\Fonts] 1728184978
+#time=1db179f0a9cf520
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 

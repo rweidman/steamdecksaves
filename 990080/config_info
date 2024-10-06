@@ -3,13 +3,13 @@
 /run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/steamapps/common/Proton - Experimental/files/lib/
 /run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/steamapps/common/Proton - Experimental/files/lib64/
 /home/deck/.local/share/Steam
-1721176138.0
-1721176140.0
+1726683644.0
+1726683650.0
 1516738214.0
 /run/media/deck/e87d458c-246b-47f1-aea3-6358bc60db9f/steamapps/common/Proton - Experimental/files/share/default_pfx/
-1725117797.5374756
+1726928858.9580173
 False
 True
-d3dcompiler_*.dll,d3dcsx*.dll,d3dx*.dll,dx8vb.dll,x3daudio*.dll,xactengine*.dll,xapofx*.dll,xaudio*.dll,xinput*.dll,atl*.dll,concrt*.dll,msvcp*.dll,msvcr*.dll,msvcm*.dll,vcamp1*.dll,vcomp1*.dll,vccorlib1*.dll,vcruntime1*.dll,ntdll.dll,vulkan-1.dll,ir50_32.dll
+d3dcompiler_*.dll,d3dcsx*.dll,d3dx*.dll,dx8vb.dll,x3daudio*.dll,xactengine*.dll,xapofx*.dll,xaudio*.dll,xinput*.dll,atl1*.dll,atl.dll,concrt*.dll,msvcp1*.dll,msvcrt*.dll,msvcp7*.dll,msvcp6*.dll,msvcp_win.dll,msvcr1*.dll,msvcrt*.dll,msvcr7*.dll,vcamp1*.dll,vcomp1*.dll,vccorlib1*.dll,vcruntime1*.dll,ntdll.dll,vulkan-1.dll,ir50_32.dll
 True
 False

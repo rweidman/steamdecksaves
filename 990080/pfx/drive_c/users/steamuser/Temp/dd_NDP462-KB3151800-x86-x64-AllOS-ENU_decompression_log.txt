@@ -1,0 +1,17 @@
+[10/5/2024, 21:22:18] === Logging started: 2024/10/05 21:22:18 ===
+[10/5/2024, 21:22:18] Executable: Z:\home\deck\.local\share\Steam\steamapps\common\Steamworks Shared\_CommonRedist\DotNet\4.6\NDP462-KB3151800-x86-x64-AllOS-ENU.exe v4.6.1590.0
+[10/5/2024, 21:22:18] --- logging level: standard ---
+[10/5/2024, 21:22:18] Successfully bound to the ClusApi.dll
+[10/5/2024, 21:22:18] Cluster drive map: ''
+[10/5/2024, 21:22:19] Considering drive: 'C:\'...
+[10/5/2024, 21:22:19] Considering drive: 'D:\'...
+[10/5/2024, 21:22:19] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
+[10/5/2024, 21:22:19] Considering drive: 'E:\'...
+[10/5/2024, 21:22:19] Considering drive: 'Z:\'...
+[10/5/2024, 21:22:19] Drive 'E:\' has been selected as the largest fixed drive
+[10/5/2024, 21:22:19] Directory 'E:\aaf6c15b5cfa48f5a1da9b\' has been selected for file extraction
+[10/5/2024, 21:22:19] Extracting files to: E:\aaf6c15b5cfa48f5a1da9b\
+[10/5/2024, 21:22:47] Extraction took 28.842 seconds
+[10/5/2024, 21:22:47] Executing command line: 'E:\aaf6c15b5cfa48f5a1da9b\\Setup.exe  /q /norestart /x86 /x64 /redist'
+[10/5/2024, 21:22:52] Exiting with result code: 0x0
+[10/5/2024, 21:22:52] === Logging stopped: 2024/10/05 21:22:52 ===
