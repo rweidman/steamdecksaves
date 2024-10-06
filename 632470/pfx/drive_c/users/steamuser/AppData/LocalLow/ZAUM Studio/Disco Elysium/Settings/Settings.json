@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "WHIRLING F2 / TEQUILA DOOR",
+            "stringValue": "WHIRLING F2 / KLAASJE DOOR",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 3840,
+            "intValue": 3969,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
