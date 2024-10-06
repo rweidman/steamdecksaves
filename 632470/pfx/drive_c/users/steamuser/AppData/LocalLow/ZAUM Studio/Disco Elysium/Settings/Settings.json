@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "PAWNSHOP / ROY",
+            "stringValue": "WHIRLING F2 / TEQUILA DOOR",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 3720,
+            "intValue": 3840,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
