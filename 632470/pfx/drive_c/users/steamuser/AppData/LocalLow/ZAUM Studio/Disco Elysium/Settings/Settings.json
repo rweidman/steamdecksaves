@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "WHIRLING / LENA INTRO",
+            "stringValue": "WHIRLING F1 / HARDIE",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 4007,
+            "intValue": 4027,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
