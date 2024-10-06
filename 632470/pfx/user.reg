@@ -307,6 +307,9 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1721062921
 #time=1dad6d8b62ff0de
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1728189663
+#time=1db17a9f3698e8a
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1721062913
 #time=1dad6d8b1445bd2
 "Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
@@ -694,14 +697,14 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1721062915
 #time=1dad6d8b2236aa2
 
-[Software\\Valve\\Steam] 1725191458
-#time=1dafc653591ee2a
+[Software\\Valve\\Steam] 1728189669
+#time=1db17a9f6a23304
 "language"="english"
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1725191458
-#time=1dafc65358d70c0
+[Software\\Valve\\Steam\\ActiveProcess] 1728189676
+#time=1db17a9fac7bdb4
 "PID"=dword:00000020
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
@@ -765,8 +768,8 @@ WINE REGISTRY Version 2
 #time=1dad6d8b2448660
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1721062921
-#time=1dad6d8b5e39f36
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1728189669
+#time=1db17a9f6a20b4a
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1721062915
 #time=1dad6d8b244af14
@@ -910,8 +913,8 @@ WINE REGISTRY Version 2
 #time=1dafc6543199908
 "guid"=hex:07,6d,ac,9c,00,39,d1,40,ab,55,a1,d2,67,64,86,8a
 
-[Software\\Wine\\Fonts] 1726890333
-#time=1db0bd8b6305454
+[Software\\Wine\\Fonts] 1728189674
+#time=1db17a9f97e7a7e
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
@@ -1735,8 +1738,8 @@ WINE REGISTRY Version 2
 #time=1dad6d8b2257cac
 "ShowCrashDialog"=dword:00000000
 
-[Software\\ZAUM Studio\\Disco Elysium] 1726890339
-#time=1db0bd8b9eb8c62
+[Software\\ZAUM Studio\\Disco Elysium] 1728189679
+#time=1db17a9fcf7bd82
 "BindingsDefault_h1511096668"=hex:51,6b,6c,4f,52,41,49,41,66,77,41,41,41,41,56,\
   51,59,58,56,7a,5a,51,63,41,41,41,41,42,41,41,41,41,61,51,41,41,41,41,45,41,\
   41,41,42,6c,41,41,41,41,41,51,41,41,41,47,63,41,41,41,41,42,41,41,41,41,61,\
@@ -2040,7 +2043,7 @@ WINE REGISTRY Version 2
 "Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
 "Screenmanager Fullscreen mode_h3630240806"=dword:00000001
 "Screenmanager Resolution Height Default_h1380706816"=dword:00000438
-"Screenmanager Resolution Height_h2627697771"=dword:00000320
+"Screenmanager Resolution Height_h2627697771"=dword:000002d0
 "Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
 "Screenmanager Resolution Use Native_h1405027254"=dword:00000001
 "Screenmanager Resolution Width Default_h680557497"=dword:00000780
@@ -2048,9 +2051,9 @@ WINE REGISTRY Version 2
 "Screenmanager Stereo 3D_h1665754519"=dword:00000001
 "unity.cloud_userid_h2665564582"=hex:31,38,63,32,32,33,35,39,33,66,39,36,66,38,\
   61,34,64,38,62,63,34,62,34,39,36,64,66,66,66,32,37,36,00
-"unity.player_session_count_h922449978"=hex:33,00
-"unity.player_sessionid_h1351336811"=hex:36,34,33,38,38,31,36,36,33,36,38,34,\
-  30,36,30,30,33,35,35,00
+"unity.player_session_count_h922449978"=hex:34,00
+"unity.player_sessionid_h1351336811"=hex:31,34,30,30,39,34,39,38,36,32,35,39,\
+  37,37,33,30,34,35,36,00
 "UnitySelectMonitor_h17969598"=dword:00000000
 
 [Volatile Environment] 1724903362
