@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "FRITTE / FRITTE CLERK",
+            "stringValue": "FRITTE / KNICK-KNACKS STAND",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -377,7 +377,7 @@
     },
     "GAME_STATS": {
         "alcohol_usage": {
-            "intValue": 0,
+            "intValue": 1,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 5299,
+            "intValue": 5328,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
