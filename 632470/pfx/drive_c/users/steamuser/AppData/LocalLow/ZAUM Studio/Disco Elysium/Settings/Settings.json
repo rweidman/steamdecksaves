@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "WHIRLING F1 / HARDIE",
+            "stringValue": "PLAZA ORB / rain shivers",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 4027,
+            "intValue": 4120,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
