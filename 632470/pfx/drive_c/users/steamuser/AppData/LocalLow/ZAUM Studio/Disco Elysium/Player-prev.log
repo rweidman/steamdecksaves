@@ -11,7 +11,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.589700 ms
+UnloadTime: 0.649200 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
 [LocalizationManager_Languages] SavedLanguage:English
 UnityEngine.Logger:Log(LogType, Object)
@@ -31,7 +31,7 @@ LocalizationCustomSystem.LocalizationManager:OnEnable()
 
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 7057.
-Total: 4.033600 ms (FindLiveObjects: 0.359300 ms CreateObjectMapping: 0.152400 ms MarkObjects: 3.500000 ms  DeleteObjects: 0.021000 ms)
+Total: 5.046900 ms (FindLiveObjects: 0.382800 ms CreateObjectMapping: 0.194100 ms MarkObjects: 4.448500 ms  DeleteObjects: 0.020700 ms)
 
 Loading profile 1 MEDIUM
 UnityEngine.Logger:Log(LogType, Object)
@@ -64,13 +64,13 @@ UnityEngine.Debug:Log(Object)
 <LoadGameData>d__18:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Amount of Save Games: 10
+Amount of Save Games: 11
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <CacheSaveGamesInit>d__53:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LoadGameData total time: 0.2158967
+LoadGameData total time: 0.2278227
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadGameData>d__18:MoveNext()
@@ -83,7 +83,7 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 0.920400 ms
+UnloadTime: 1.010400 ms
 InControl (version 1.8.3 build 9361)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -119,7 +119,71 @@ Attached native device with handle 1:
 Name: XInput Controller
 Driver Type: XInput
 TransportType: Unknown
+Location ID: XInput::1
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+Attached native device with handle 2:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
 Location ID: XInput::2
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
+UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
+
+Attached native device with handle 3:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
+Location ID: XInput::3
 Serial Number: 
 Vendor ID: 0xffff
 Product ID: 0x0
@@ -145,7 +209,7 @@ IntroSystem.IntroManager:Start()
 
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 21955.
-Total: 157.637100 ms (FindLiveObjects: 1.429500 ms CreateObjectMapping: 2.233300 ms MarkObjects: 153.868600 ms  DeleteObjects: 0.104300 ms)
+Total: 145.536100 ms (FindLiveObjects: 2.018400 ms CreateObjectMapping: 2.601900 ms MarkObjects: 140.797200 ms  DeleteObjects: 0.116800 ms)
 
 [AreaManager] LoadAreas
 UnityEngine.Logger:Log(LogType, Object)
@@ -183,7 +247,7 @@ NotSupportedException: To marshal a managed method, please add an attribute name
   at Steamworks.SteamClient.SetWarningMessageHook (Steamworks.SteamAPIWarningMessageHook_t pFunction) [0x00000] in <00000000000000000000000000000000>:0 
   at SteamManager.OnEnable () [0x00000] in <00000000000000000000000000000000>:0 
 
-[AmplifyTexture] Initializing collections took 0.001339912 sec
+[AmplifyTexture] Initializing collections took 0.001852989 sec
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 AmplifyTextureManager:InitializeCollections()
@@ -252,32 +316,9 @@ LocalizationCustomSystem.LocalizationSettingsOption:Start()
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 
-[ResolutionSwitcher] Apply
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-ResolutionSwitcher:Apply(String)
-ResolutionSwitcher:Activate()
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent`1:Invoke(T0)
-TMPro.TMP_Dropdown:SetValue(Int32, Boolean)
-ResolutionSwitcher:Start()
 
-[ResolutionSwitcher] Resolution change from 1280 800 FullScreenWindow to 1280 800 FullScreenWindow
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-ResolutionSwitcher:SetResolution(Int32, Int32, FullScreenMode)
-ResolutionSwitcher:Apply(String)
-ResolutionSwitcher:Activate()
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent`1:Invoke(T0)
-TMPro.TMP_Dropdown:SetValue(Int32, Boolean)
-ResolutionSwitcher:Start()
-
-
-Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 66242.
-Total: 319.076400 ms (FindLiveObjects: 5.396900 ms CreateObjectMapping: 3.196100 ms MarkObjects: 309.919100 ms  DeleteObjects: 0.563300 ms)
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 66241.
+Total: 320.421200 ms (FindLiveObjects: 5.683100 ms CreateObjectMapping: 3.336400 ms MarkObjects: 310.919500 ms  DeleteObjects: 0.481000 ms)
 
 <color=#00FFFF>Loading Build Bundle</color>
 UnityEngine.Logger:Log(LogType, Object)
@@ -300,8 +341,8 @@ System.Action`1:Invoke(T)
 UnityEngine.AsyncOperation:InvokeCompletionEvent()
 
 Unloading 8 Unused Serialized files (Serialized files now loaded: 4)
-UnloadTime: 1.403700 ms
-LOADING Scenes/Church-int took 755.3692 ms
+UnloadTime: 1.332900 ms
+LOADING Scenes/Church-int took 716.0206 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
@@ -309,214 +350,214 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 
 Unloading 14368 unused Assets to reduce memory usage. Loaded Objects now: 56586.
-Total: 690.675400 ms (FindLiveObjects: 5.780400 ms CreateObjectMapping: 3.240800 ms MarkObjects: 675.112100 ms  DeleteObjects: 6.541300 ms)
+Total: 692.874800 ms (FindLiveObjects: 5.850000 ms CreateObjectMapping: 3.330000 ms MarkObjects: 677.036800 ms  DeleteObjects: 6.657000 ms)
 
-LOADING Scenes/Whirling-int-f1 took 1228.644 ms
+LOADING Scenes/Whirling-int-f1 took 1285.923 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Whirling-int-f2 took 214.7636 ms
+LOADING Scenes/Whirling-int-f2 took 214.6091 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Martinaise-ext took 2172.312 ms
+LOADING Scenes/Martinaise-ext took 2246.361 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Doomed-commerce-int-f2 took 93.91785 ms
+LOADING Scenes/Doomed-commerce-int-f2 took 102.4437 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Doomed-commerce-int-f1 took 82.53479 ms
+LOADING Scenes/Doomed-commerce-int-f1 took 82.80945 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Doomed-commerce-int-s1 took 117.2485 ms
+LOADING Scenes/Doomed-commerce-int-s1 took 117.0654 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Kiosque-int took 99.08295 ms
+LOADING Scenes/Kiosque-int took 115.8447 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-apartments-int took 83.46367 ms
+LOADING Scenes/Capeside-apartments-int took 100.174 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Whirling-int-f3 took 82.91817 ms
+LOADING Scenes/Whirling-int-f3 took 82.87811 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Whirling-int-f3-antechamber took 49.45755 ms
+LOADING Scenes/Whirling-int-f3-antechamber took 68.74847 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-coalchamber-int took 66.89835 ms
+LOADING Scenes/Capeside-coalchamber-int took 67.68417 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Secretary-int took 69.14139 ms
+LOADING Scenes/Secretary-int took 62.25014 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Pawnshop-int took 82.69119 ms
+LOADING Scenes/Pawnshop-int took 83.27484 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Cunos-shack-int took 63.98773 ms
+LOADING Scenes/Cunos-shack-int took 66.20407 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-smoker-int took 66.56647 ms
+LOADING Scenes/Capeside-smoker-int took 66.55884 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Sea-fortress-int took 83.14896 ms
+LOADING Scenes/Sea-fortress-int took 83.18138 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Tent-int took 66.64658 ms
+LOADING Scenes/Tent-int took 66.6008 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Second-home-int took 66.03813 ms
+LOADING Scenes/Second-home-int took 67.68227 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/FV-house-int took 71.13838 ms
+LOADING Scenes/FV-house-int took 82.03506 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Instigators-lair-int took 112.3714 ms
+LOADING Scenes/Instigators-lair-int took 201.5438 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Union-container-int took 48.666 ms
+LOADING Scenes/Union-container-int took 64.48555 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Union-boss-int took 100.8091 ms
+LOADING Scenes/Union-boss-int took 133.7605 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-wcw-int took 65.80734 ms
+LOADING Scenes/Capeside-wcw-int took 65.32097 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Crypto-garys-apt-int took 49.52812 ms
+LOADING Scenes/Crypto-garys-apt-int took 49.53575 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Dream-2 took 83.65631 ms
+LOADING Scenes/Dream-2 took 86.61842 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/FV-shack-int took 66.63322 ms
+LOADING Scenes/FV-shack-int took 62.95395 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Feld-int took 66.32805 ms
+LOADING Scenes/Feld-int took 66.04958 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Dream-3-ext took 101.8124 ms
+LOADING Scenes/Dream-3-ext took 102.7145 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Dream-3-int took 65.83214 ms
+LOADING Scenes/Dream-3-int took 64.95476 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Commustudent-int took 610.7731 ms
+LOADING Scenes/Commustudent-int took 727.7832 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/CollageMode took 2541.349 ms
+LOADING Scenes/CollageMode took 3194.244 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-CleanCacheAndUpdateSources took 65.47546 ms
+CleanCacheAndUpdateSources took 18.40591 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-GCCollect took 182.8918 ms
+GCCollect took 184.7706 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-TOTAL SCENE LOADING took 0m 9s
+TOTAL SCENE LOADING took 0m 10s
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 36 Unused Serialized files (Serialized files now loaded: 4)
-Scene Loading Scenes/Lobby took 325.8171 ms
+Scene Loading Scenes/Lobby took 372.282 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -524,7 +565,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 
 Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 321285.
-Total: 757.486100 ms (FindLiveObjects: 19.446400 ms CreateObjectMapping: 19.630600 ms MarkObjects: 717.933600 ms  DeleteObjects: 0.474600 ms)
+Total: 765.562000 ms (FindLiveObjects: 20.312500 ms CreateObjectMapping: 19.515300 ms MarkObjects: 725.277500 ms  DeleteObjects: 0.455800 ms)
 
 WARNING!  Shaders Prewarmed!
 UnityEngine.Logger:Log(LogType, Object)
@@ -535,22 +576,21 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 135 shaders 14961 combinations 3.848s
+Shader warmup: 135 shaders 14961 combinations 4.060s
 Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321229.
-Total: 752.333900 ms (FindLiveObjects: 19.521000 ms CreateObjectMapping: 20.955000 ms MarkObjects: 711.366400 ms  DeleteObjects: 0.490500 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321226.
+Total: 750.651000 ms (FindLiveObjects: 19.900700 ms CreateObjectMapping: 19.618800 ms MarkObjects: 710.658500 ms  DeleteObjects: 0.471900 ms)
 
-Start thumbnail coroutine
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Detached native device with handle 1:
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-Sunshine.Views.SaveLoadController:PrepareView(SAVE_LOAD_MODE)
-Sunshine.Views.LoadView:SwitchToView(ViewType)
-Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent:Invoke()
-NavigationManager:HandleNavigationInput()
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
 
 IsTaskActive("TASK.find_a_way_inside_apt_building"): task does not exist (or tasks not yet initialized if 0 == 0)
 UnityEngine.Logger:Log(LogType, Object)
@@ -610,7 +650,7 @@ SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
 <LoadCoR>d__59:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Scene Loading Scenes/Martinaise-ext took 1295.334 ms
+Scene Loading Scenes/Martinaise-ext took 1523.987 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -621,16 +661,16 @@ SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
 <LoadCoR>d__59:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LoadCoR GCCollect took 189.106 ms
+LoadCoR GCCollect took 190.4297 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadCoR>d__59:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2a4 -> priority: 1 
-  Thread -> id: 2a8 -> priority: 1 
-[AmplifyTexture] Resized cache for screen resolution 1280x800 => 4096x2048 (450 pages, 43 MB, Compressed, Adaptive)
+  Thread -> id: 2d0 -> priority: 1 
+  Thread -> id: 2d4 -> priority: 1 
+[AmplifyTexture] Resized cache for screen resolution 1280x720 => 4096x2048 (450 pages, 43 MB, Compressed, Adaptive)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 AmplifyTextureCamera:InternalInitialize(EditorRuntimeProperties)
@@ -662,31 +702,11 @@ UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 ModusMullen:Start()
 
-Container lever.GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-Container lever.GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-Container lever.GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
 OpenGameSettingsCoR:  True
@@ -703,170 +723,10 @@ PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, 
 PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
 FortressOccident.BasicEntity:SendActivationEvent(Boolean)
 FortressOccident.GameEntity:set_IsActive(Boolean)
-OrbUiElement:Interact(ClickEventData)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (-48.1, 11.3, -104.2)] can not reach newPosition: (-48.0, 11.3, -106.1).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
 
 CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
@@ -874,22 +734,50 @@ UnityEngine.Debug:Log(Object)
 <CloseGameSettingsCoR>d__21:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+OpenGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
 Interacting via cache
@@ -931,7 +819,7 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Scene Loading Scenes/Secretary-int took 92.28516 ms
+Scene Loading Scenes/Whirling-int-f1 took 259.1553 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -950,34 +838,7 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 142 shaders 17865 combinations 0.587s
-Interacting via cache
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-Scene Loading Scenes/Martinaise-ext took 566.9556 ms
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
-FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
-FortressOccident.<Activate>d__6:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-WARNING!  Shaders Prewarmed!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-ShaderWarmupper:Warmup()
-System.Action:Invoke()
-Voidforge.PrioritizedActionList:Invoke()
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Shader warmup: 142 shaders 17865 combinations 0.112s
+Shader warmup: 142 shaders 17865 combinations 0.517s
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1017,7 +878,7 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Scene Loading Scenes/Secretary-int took 84.83887 ms
+Scene Loading Scenes/Martinaise-ext took 568.4204 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -1036,7 +897,7 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 142 shaders 17865 combinations 0.093s
+Shader warmup: 142 shaders 17865 combinations 0.075s
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1063,13 +924,45 @@ System.Action`2:Invoke(T1, T2)
 FortressOccident.Character:set_movementStatus(MovementStatus)
 FortressOccident.Character:LateUpdate()
 
-Expensive FindSpecifier invocation for object: file_cabinet in the scene: Secretary-int. Please add SequencerUsedObject component to this object
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+Expensive FindSpecifier invocation for object: Kineema in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogWarning(Object)
 PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
 PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
 PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandSetTriggerAnimation:Start()
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
 
 CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
@@ -1077,13 +970,20 @@ UnityEngine.Debug:Log(Object)
 <CloseGameSettingsCoR>d__21:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: file_cabinet in the scene: Secretary-int. Please add SequencerUsedObject component to this object
+Expensive FindSpecifier invocation for object: Kineema in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogWarning(Object)
 PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
 PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
 PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandSetTriggerAnimation:Start()
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+Sunshine.GameController:TryMoveToTarget()
+CharacterAnalogueControl:FixedUpdate()
 
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
@@ -1092,7 +992,14 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Scene Loading Scenes/Martinaise-ext took 564.8193 ms
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Pawnshop-int took 95.58105 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -1111,7 +1018,7 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 142 shaders 17865 combinations 0.096s
+Shader warmup: 142 shaders 17865 combinations 0.105s
 <color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1158,162 +1065,29 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Scene Loading Scenes/Secretary-int took 86.91406 ms
+OpenGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+<OpenGameSettingsCoR>d__20:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
-FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
-FortressOccident.<Activate>d__6:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
 
-WARNING!  Shaders Prewarmed!
+CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-ShaderWarmupper:Warmup()
-System.Action:Invoke()
-Voidforge.PrioritizedActionList:Invoke()
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Shader warmup: 142 shaders 17865 combinations 0.104s
-Orb Template.GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-Sunshine.MovementCommand:Process(Component, Sector)
-Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
-FortressOccident.GameEntity:Interact(ClickEventData)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
-FortressOccident.GameEntity:Interact(ClickEventData)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.1)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Failed to create agent because it is not close enough to the NavMesh
-Sunshine.<Validate>d__41:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[ line 1110408]
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.1)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -8.0)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -7.9)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -7.9)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.5, 0.4, -7.9)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.6, 0.4, -7.9)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-<color=#FFEB04>SetDestination failed: Character [Kim Kitsuragi, position: (3.6, 0.4, -7.9)] can not reach newPosition: (1.8, 31.4, 36.2).</color>
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+<CloseGameSettingsCoR>d__21:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Interacting via cache
@@ -1348,41 +1122,44 @@ UnityEngine.Debug:Log(Object)
 <CloseGameSettingsCoR>d__21:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Telephone.GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-File_cabinet.GetInteractionLocation(): couldn't find a valid path!
+OpenGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
 
-secretary-stairs-door-jam.GetInteractionLocation(): couldn't find a valid path!
+CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-secretary-stairs-door-jam.GetInteractionLocation(): couldn't find a valid path!
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+Sunshine.GameController:TryMoveToTarget()
+CharacterAnalogueControl:FixedUpdate()
 
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
@@ -1391,7 +1168,7 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Scene Loading Scenes/Martinaise-ext took 557.251 ms
+Scene Loading Scenes/Martinaise-ext took 587.5244 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -1410,23 +1187,204 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 142 shaders 17865 combinations 0.075s
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+Shader warmup: 142 shaders 17865 combinations 0.077s
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
+Scene Loading Scenes/Whirling-int-f1 took 108.5205 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.089s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[PersistentDataManager.GetRawData] Memory stream took 8250 KB
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SunshinePersistentFileManager.GetZipBytes] Memory stream took 992 KB (CAPACITY: 4096 KB)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveCoR GCCollect took 285.4004 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Whirling-int-f2 took 171.6309 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.093s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Scene Loading Scenes/Martinaise-ext took 600.5859 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+Sunshine.<PerformActions>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.094s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Whirling-int-f2 took 127.4414 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.092s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
 Interacting via cache
@@ -1461,6 +1419,183 @@ Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
 System.Action`2:Invoke(T1, T2)
 FortressOccident.Character:set_movementStatus(MovementStatus)
 FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Scene Loading Scenes/Dream-2 took 32.22656 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+Sunshine.<PerformActions>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.124s
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueManager:StartConversation(String)
+Sunshine.<PerformActions>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Scene Loading Scenes/Whirling-int-f2 took 59.32617 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+Sunshine.<PerformActions>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.GameObject:AddComponent()
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Language.Lua.LuaMethodFunction:InvokeMethod(LuaValue[])
+System.Diagnostics.Tracing.Transformer`1:Invoke(ValueType)
+Language.Lua.PrimaryExpr:Evaluate(LuaTable)
+Language.Lua.ExprStmt:Execute(LuaTable, Boolean&)
+Language.Lua.Chunk:Execute(Boolean&)
+Language.Lua.Chunk:Execute()
+Language.Lua.LuaInterpreter:Interpreter(String, LuaTable)
+PixelCrushers.DialogueSystem.Lua:RunRaw(String, Boolean, Boolean)
+PixelCrushers.DialogueSystem.Lua:Run(String)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandLuaRun:Start()
+
+Singleton.ChangeArea
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.<PerformActions>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.GameObject:AddComponent()
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Language.Lua.LuaMethodFunction:InvokeMethod(LuaValue[])
+System.Diagnostics.Tracing.Transformer`1:Invoke(ValueType)
+Language.Lua.PrimaryExpr:Evaluate(LuaTable)
+Language.Lua.ExprStmt:Execute(LuaTable, Boolean&)
+Language.Lua.Chunk:Execute(Boolean&)
+Language.Lua.Chunk:Execute()
+Language.Lua.LuaInterpreter:Interpreter(String, LuaTable)
+PixelCrushers.DialogueSystem.Lua:RunRaw(String, Boolean, Boolean)
+PixelCrushers.DialogueSystem.Lua:Run(String)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandLuaRun:Start()
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.093s
+Post PerformActions wait
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.<PerformActions>d__3:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+OrbUiElement:Interact(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
 CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
@@ -1494,9 +1629,8 @@ Sunshine.Views.<>c__DisplayClass22_1:<DisplayThought>b__4()
 UnityEngine.DisplaysUpdatedDelegate:Invoke()
 UnityEngine.Events.InvokableCall:Invoke(Object[])
 UnityEngine.Events.UnityEvent:Invoke()
-Sunshine.Views.ThoughtSplashScreenView:OnControllerButtonToClosePressed()
-System.Action:Invoke()
-InputPrioritySystem:Update()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+NavigationManager:HandleNavigationInput()
 
 You wanted to get open slot, but there are no more open slots to return!
 UnityEngine.Logger:Log(LogType, Object)
@@ -1517,9 +1651,8 @@ Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
 UnityEngine.DisplaysUpdatedDelegate:Invoke()
 UnityEngine.Events.InvokableCall:Invoke(Object[])
 UnityEngine.Events.UnityEvent:Invoke()
-Sunshine.Views.ThoughtSplashScreenView:OnControllerButtonToClosePressed()
-System.Action:Invoke()
-InputPrioritySystem:Update()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+NavigationManager:HandleNavigationInput()
 
 You wanted to get open slot, but there are no more open slots to return!
 UnityEngine.Logger:Log(LogType, Object)
@@ -1535,9 +1668,8 @@ Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
 UnityEngine.DisplaysUpdatedDelegate:Invoke()
 UnityEngine.Events.InvokableCall:Invoke(Object[])
 UnityEngine.Events.UnityEvent:Invoke()
-Sunshine.Views.ThoughtSplashScreenView:OnControllerButtonToClosePressed()
-System.Action:Invoke()
-InputPrioritySystem:Update()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+NavigationManager:HandleNavigationInput()
 
 You wanted to get open slot, but there are no more open slots to return!
 UnityEngine.Logger:Log(LogType, Object)
@@ -1553,7 +1685,61 @@ Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
 UnityEngine.DisplaysUpdatedDelegate:Invoke()
 UnityEngine.Events.InvokableCall:Invoke(Object[])
 UnityEngine.Events.UnityEvent:Invoke()
-Sunshine.Views.ThoughtSplashScreenView:OnControllerButtonToClosePressed()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+NavigationManager:HandleNavigationInput()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+System.Action`1:Invoke(T)
+Sunshine.ThoughtSlot:OnClickedHandler()
+Sunshine.ThoughtSlot:OnSelect(BaseEventData)
+System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
+UnityEngine.UI.Selectable:Select()
+NavigationManager:SelectNonGroupNavigation(Selectable)
+NavigationManager:Select(Selectable)
+NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
+NavigationManager:HandleNavigationInput()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+System.Action`1:Invoke(T)
+System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
+UnityEngine.UI.Selectable:Select()
+Sunshine.AllThoughtsList:SelectDefault()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+System.Action:Invoke()
+InputPrioritySystem:Update()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+System.Action`1:Invoke(T)
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
 System.Action:Invoke()
 InputPrioritySystem:Update()
 
@@ -1586,43 +1772,12 @@ Sunshine.ThoughtCabinetTooltip:UseSource(String)
 Sunshine.ThoughtCabinetTooltip:set_Source(String)
 Sunshine.ThoughtCabinetTooltip:Show(String)
 System.Action`1:Invoke(T)
-NavigationManager:SelectNonGroupNavigation(Selectable)
+Sunshine.ThoughtSlot:OnClickedHandler()
+Sunshine.ThoughtSlot:OnSelect(BaseEventData)
 System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
 UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
 UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
 UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-NavigationManager:SelectNonGroupNavigation(Selectable)
 NavigationManager:Select(Selectable)
 NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
 NavigationManager:HandleNavigationInput()
@@ -1637,32 +1792,6 @@ Sunshine.ThoughtCabinetTooltip:set_Source(String)
 Sunshine.ThoughtCabinetTooltip:Show(String)
 System.Action`1:Invoke(T)
 Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-NavigationManager:SelectNonGroupNavigation(Selectable)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
 NavigationManager:HandleNavigationInput()
 
 You wanted to get open slot, but there are no more open slots to return!
@@ -1678,10 +1807,12 @@ System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChanged
 UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
 UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
 UnityEngine.UI.Selectable:Select()
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
+Sunshine.AllThoughtsList:SelectDefault()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+System.Action:Invoke()
+InputPrioritySystem:Update()
 
 You wanted to get open slot, but there are no more open slots to return!
 UnityEngine.Logger:Log(LogType, Object)
@@ -1692,80 +1823,11 @@ Sunshine.ThoughtCabinetTooltip:UseSource(String)
 Sunshine.ThoughtCabinetTooltip:set_Source(String)
 Sunshine.ThoughtCabinetTooltip:Show(String)
 System.Action`1:Invoke(T)
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-NavigationManager:SelectNonGroupNavigation(Selectable)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-NavigationManager:SelectNonGroupNavigation(Selectable)
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+System.Action:Invoke()
+InputPrioritySystem:Update()
 
 You wanted to get open slot, but there are no more open slots to return!
 UnityEngine.Logger:Log(LogType, Object)
@@ -1825,119 +1887,51 @@ NavigationManager:Select(Selectable)
 NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
 NavigationManager:HandleNavigationInput()
 
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
+Trying to update non-visible task:
+Find money for rent and pay Garte
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Sunshine.Journal.Controller.JournalTasksController:UpdateJournalTaskUI(JournalTask, SunshineClockTime)
+Sunshine.Journal.Controller.JournalTasksController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:OnSwitchedToView()
+Sunshine.Views.JournalView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
 
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
+Trying to update non-visible task:
+End-of-day debrief with Kim
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Sunshine.Journal.Controller.JournalTasksController:UpdateJournalTaskUI(JournalTask, SunshineClockTime)
+Sunshine.Journal.Controller.JournalTasksController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:OnSwitchedToView()
+Sunshine.Views.JournalView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
 
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
+Trying to update non-visible task:
+Find speed and sniff it
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Sunshine.Journal.Controller.JournalTasksController:UpdateJournalTaskUI(JournalTask, SunshineClockTime)
+Sunshine.Journal.Controller.JournalTasksController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:OnSwitchedToView()
+Sunshine.Views.JournalView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
 
-You wanted to get open slot, but there are no more open slots to return!
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
-
-You wanted to get open slot, but there are no more open slots to return!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
-Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
-Sunshine.ThoughtCabinetTooltip:UseSource(String)
-Sunshine.ThoughtCabinetTooltip:set_Source(String)
-Sunshine.ThoughtCabinetTooltip:Show(String)
-System.Action`1:Invoke(T)
-Sunshine.ThoughtSlot:OnClickedHandler()
-Sunshine.ThoughtSlot:OnSelect(BaseEventData)
-System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
-UnityEngine.UI.Selectable:Select()
-NavigationManager:Select(Selectable)
-NavigationManager:NavigateOrSelectPrevious(Selectable, Direction)
-NavigationManager:HandleNavigationInput()
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
@@ -1963,10 +1957,269 @@ FortressOccident.GameEntity:set_IsActive(Boolean)
 Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
 System.Action`2:Invoke(T1, T2)
 FortressOccident.Character:set_movementStatus(MovementStatus)
-FortressOccident.Character:SetDestination(Vector3, Nullable`1, MovementMode, Boolean)
-FortressOccident.Party:SetDestination(MovementCommand, Int32)
-FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Bathroom Mirror.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Klaasje.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Klaasje room dirty clothes (Canvas).GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Klaasje room dirty clothes (Canvas).GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Kitsuragi.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Stairs_Klaasje.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Ceiling Fan.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Tequilas bed messy.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Tequilas bed messy.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Viscal (Broken Window).GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Bathroom Kitsuragi.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Bathroom Kitsuragi.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Bathroom Mirror.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Klaasje.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Klaasje room dirty clothes (Canvas).GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Klaasje room dirty clothes (Canvas).GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Kitsuragi.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Stairs_Klaasje.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Ceiling Fan.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Tequilas bed messy.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Tequilas bed messy.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Viscal (Broken Window).GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Bathroom Kitsuragi.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:GetInteractionLocation(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+Whirling Door Bathroom Kitsuragi.GetInteractionLocation(): couldn't find a valid path!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
+CommonPadInteractable:PathToInteractableExist()
+InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
+InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+Sunshine.GameController:TryMoveToTarget()
+CharacterAnalogueControl:FixedUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
 
 CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
@@ -1981,104 +2234,476 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Thumbnail coroutine already running. Restarting.
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-SunshinePersistenceThumbnail:StartProcess(SaveLoadController)
-Sunshine.Views.SaveLoadController:PrepareView(SAVE_LOAD_MODE)
-Sunshine.Views.SaveView:SwitchToView(ViewType)
-Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Closing Doors Whirling Door Tequila
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.Door:CloseDoorsOnLevelTransition()
+FortressOccident.Door:OnSceneDeactivated()
 UnityEngine.DisplaysUpdatedDelegate:Invoke()
 UnityEngine.Events.InvokableCall:Invoke(Object[])
 UnityEngine.Events.UnityEvent:Invoke()
-NavigationManager:HandleNavigationInput()
+SceneTransition:TriggerSceneUnloaded(Scene)
+FortressOccident.SceneTransitionManager:SetActive(Scene, Boolean)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Stop thumbnail coroutine
+Scene Loading Scenes/Whirling-int-f1 took 55.41992 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-SunshinePersistenceThumbnail:StartProcess(SaveLoadController)
-Sunshine.Views.SaveLoadController:PrepareView(SAVE_LOAD_MODE)
-Sunshine.Views.SaveView:SwitchToView(ViewType)
-Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent:Invoke()
-NavigationManager:HandleNavigationInput()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Start thumbnail coroutine
+WARNING!  Shaders Prewarmed!
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-Sunshine.Views.SaveLoadController:PrepareView(SAVE_LOAD_MODE)
-Sunshine.Views.SaveView:SwitchToView(ViewType)
-Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent:Invoke()
-NavigationManager:HandleNavigationInput()
-
-Stop thumbnail coroutine
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
 System.Action:Invoke()
-<>c__DisplayClass23_0:<SetButtonActions>b__0()
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[PersistentDataManager.GetRawData] Memory stream took 8249 KB
+Shader warmup: 142 shaders 17865 combinations 0.094s
+[PersistentDataManager.GetRawData] Memory stream took 8250 KB
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
 <SaveCoR>d__54:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SunshinePersistentFileManager.GetZipBytes] Memory stream took 991 KB (CAPACITY: 4096 KB)
+[SunshinePersistentFileManager.GetZipBytes] Memory stream took 993 KB (CAPACITY: 4096 KB)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogWarning(Object)
 SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
 <SaveCoR>d__54:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-SaveCoR GCCollect took 270.752 ms
+SaveCoR GCCollect took 251.4648 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <SaveCoR>d__54:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Joystick connected ("Controller (XBOX 360 For Windows)").
-
-AttachDevice XInput Controller
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-InControl.InputManager:AttachDevice(InputDevice)
-InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
-InControl.NativeInputDeviceManager:Update(UInt64, Single)
-InControl.InputManager:UpdateInternal()
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
-Attached native device with handle 2:
-Name: XInput Controller
-Driver Type: XInput
-TransportType: Unknown
-Location ID: XInput::1
-Serial Number: 
-Vendor ID: 0xffff
-Product ID: 0x0
-Version Number: 0x1
-Buttons: 14
-Analogs: 6
+OpenGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[PersistentDataManager.GetRawData] Memory stream took 8251 KB
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SunshinePersistentFileManager.GetZipBytes] Memory stream took 994 KB (CAPACITY: 4096 KB)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveCoR GCCollect took 266.6016 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+Expensive FindSpecifier invocation for object: titus Whirling in the scene: Whirling-int-f1. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Expensive FindSpecifier invocation for object: titus Whirling in the scene: Whirling-int-f1. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+
+[PersistentDataManager.GetRawData] Memory stream took 8251 KB
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SunshinePersistentFileManager.GetZipBytes] Memory stream took 996 KB (CAPACITY: 4096 KB)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveCoR GCCollect took 278.3203 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SaveCoR>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Trying to update non-visible task:
+Find Morell, the Cryptozoologist
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Sunshine.Journal.Controller.JournalTasksController:UpdateJournalTaskUI(JournalTask, SunshineClockTime)
+Sunshine.Journal.Controller.JournalTasksController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:OnSwitchedToView()
+Sunshine.Views.JournalView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
+
+Trying to update non-visible task:
+Interrogate the vigilantes
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Sunshine.Journal.Controller.JournalTasksController:UpdateJournalTaskUI(JournalTask, SunshineClockTime)
+Sunshine.Journal.Controller.JournalTasksController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:OnSwitchedToView()
+Sunshine.Views.JournalView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
+
+Trying to update non-visible task:
+Prove your authority to Titus Hardie
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Sunshine.Journal.Controller.JournalTasksController:UpdateJournalTaskUI(JournalTask, SunshineClockTime)
+Sunshine.Journal.Controller.JournalTasksController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:DrawTasks()
+Sunshine.Journal.Controller.JournalController:OnSwitchedToView()
+Sunshine.Views.JournalView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+Sunshine.ThoughtManager:ResetView(Boolean)
+Sunshine.<>c__DisplayClass61_0:<PrimeThought>b__0()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+
+<color=#FF0000>UPDATE SynapseController.instance.Switch FOR iOS</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.ThoughtSlot:RemoveThought()
+Sunshine.ThoughtSlotsTree:RemoveThoughtProject(ThoughtCabinetProject)
+Sunshine.ThoughtManager:CancelProcessingThought(ThoughtCabinetProject)
+Sunshine.<>c__DisplayClass61_0:<PrimeThought>b__3()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+Sunshine.ThoughtManager:ResetView(Boolean)
+Sunshine.<>c__DisplayClass61_0:<PrimeThought>b__0()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
 System.Action`1:Invoke(T)
-InControl.Logger:LogInfo(String)
-InControl.NativeInputDeviceManager:Update(UInt64, Single)
-InControl.InputManager:UpdateInternal()
+System.ComponentModel.PropertyChangedEventHandler:Invoke(Object, PropertyChangedEventArgs)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
+UnityEngine.UI.Selectable:Select()
+Sunshine.ThoughtManager:ResetView(Boolean)
+Sunshine.Views.ThoughtCabinetView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
 
-<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+Sunshine.ThoughtManager:ResetView(Boolean)
+Sunshine.Views.ThoughtCabinetView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
+
+You wanted to get open slot, but there are no more open slots to return!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Sunshine.ThoughtSlotsTree:ReturnFirstFreeSlot()
+Sunshine.ThoughtCabinetTooltip:PrimeThought(String)
+Sunshine.ThoughtCabinetTooltip:UseSource(String)
+Sunshine.ThoughtCabinetTooltip:set_Source(String)
+Sunshine.ThoughtCabinetTooltip:Show(String)
+System.Action`1:Invoke(T)
+Sunshine.Views.ThoughtCabinetView:SwitchToView(ViewType)
+Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
+CharacterAnalogueControl:UITopTabPressedSelectMenuInDirection(Int32, Int32)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
-Sunshine.GameController:TryMoveToTarget()
-CharacterAnalogueControl:FixedUpdate()
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Martinaise-ext took 578.125 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 142 shaders 17865 combinations 0.079s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 OpenGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
@@ -2103,42 +2728,5 @@ CloseGameSettingsCoR:  True
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <CloseGameSettingsCoR>d__21:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Start thumbnail coroutine
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Sunshine.Views.SaveLoadController:PrepareView(SAVE_LOAD_MODE)
-Sunshine.Views.SaveView:SwitchToView(ViewType)
-Sunshine.Views.ViewController:ToggleView(ViewType, Boolean)
-UnityEngine.DisplaysUpdatedDelegate:Invoke()
-UnityEngine.Events.InvokableCall:Invoke(Object[])
-UnityEngine.Events.UnityEvent:Invoke()
-NavigationManager:HandleNavigationInput()
-
-Stop thumbnail coroutine
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-System.Action:Invoke()
-NavigationManager:HandleNavigationInput()
-
-[PersistentDataManager.GetRawData] Memory stream took 8249 KB
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
-<SaveCoR>d__54:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[SunshinePersistentFileManager.GetZipBytes] Memory stream took 991 KB (CAPACITY: 4096 KB)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
-<SaveCoR>d__54:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-SaveCoR GCCollect took 291.0156 ms
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveCoR>d__54:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
