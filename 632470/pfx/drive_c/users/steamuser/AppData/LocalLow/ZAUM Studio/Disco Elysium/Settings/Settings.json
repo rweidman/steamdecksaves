@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "YARD / HANGED MAN",
+            "stringValue": "YARD / CUNO",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 4167,
+            "intValue": 4178,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
