@@ -1377,3 +1377,149 @@ UnityEngine.Debug:LogError(Object, Object)
 FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
+Joystick connected ("Controller (XBOX 360 For Windows)").
+
+AttachDevice XInput Controller
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InputManager:AttachDevice(InputDevice)
+InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+Attached native device with handle 2:
+Name: XInput Controller
+Driver Type: XInput
+TransportType: Unknown
+Location ID: XInput::1
+Serial Number: 
+Vendor ID: 0xffff
+Product ID: 0x0
+Version Number: 0x1
+Buttons: 14
+Analogs: 6
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+InControl.Logger:LogInfo(String)
+InControl.NativeInputDeviceManager:Update(UInt64, Single)
+InControl.InputManager:UpdateInternal()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Cunos-shack-int took 86.79199 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 140 shaders 17860 combinations 0.107s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Martinaise-ext took 556.1523 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 140 shaders 17860 combinations 0.076s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+OpenGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OpenGameSettingsCoR>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SaveFolderAccessor:TouchGameSettingsWrites(Int32)
+SettingsPersister:Save(Boolean, Int32)
+Sunshine.ConversationLogger:SaveLastConversationTitle()
+Sunshine.ConversationLogger:StopWorldOnConversationStart()
+Sunshine.ConversationLogger:OnConversationStart(Transform)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
+PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
+FortressOccident.BasicEntity:SendActivationEvent(Boolean)
+FortressOccident.GameEntity:set_IsActive(Boolean)
+Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
+System.Action`2:Invoke(T1, T2)
+FortressOccident.Character:set_movementStatus(MovementStatus)
+FortressOccident.Character:LateUpdate()
+
+CloseGameSettingsCoR:  True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CloseGameSettingsCoR>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
