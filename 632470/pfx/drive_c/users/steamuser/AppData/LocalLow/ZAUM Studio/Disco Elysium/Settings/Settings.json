@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 4178,
+            "intValue": 4563,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,

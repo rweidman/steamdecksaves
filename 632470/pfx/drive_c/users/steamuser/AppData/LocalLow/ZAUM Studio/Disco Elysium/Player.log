@@ -11,7 +11,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.663100 ms
+UnloadTime: 0.506300 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
 [LocalizationManager_Languages] SavedLanguage:English
 UnityEngine.Logger:Log(LogType, Object)
@@ -31,7 +31,7 @@ LocalizationCustomSystem.LocalizationManager:OnEnable()
 
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 7057.
-Total: 4.740700 ms (FindLiveObjects: 0.399200 ms CreateObjectMapping: 0.369600 ms MarkObjects: 3.948200 ms  DeleteObjects: 0.022600 ms)
+Total: 3.984000 ms (FindLiveObjects: 0.356300 ms CreateObjectMapping: 0.147600 ms MarkObjects: 3.456500 ms  DeleteObjects: 0.022800 ms)
 
 Loading profile 1 MEDIUM
 UnityEngine.Logger:Log(LogType, Object)
@@ -70,7 +70,7 @@ UnityEngine.Debug:Log(Object)
 <CacheSaveGamesInit>d__53:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LoadGameData total time: 0.2120888
+LoadGameData total time: 0.2177573
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadGameData>d__18:MoveNext()
@@ -83,7 +83,7 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 0.984500 ms
+UnloadTime: 0.919000 ms
 InControl (version 1.8.3 build 9361)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -119,38 +119,6 @@ Attached native device with handle 1:
 Name: XInput Controller
 Driver Type: XInput
 TransportType: Unknown
-Location ID: XInput::1
-Serial Number: 
-Vendor ID: 0xffff
-Product ID: 0x0
-Version Number: 0x1
-Buttons: 14
-Analogs: 6
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-System.Action`1:Invoke(T)
-InControl.Logger:LogInfo(String)
-InControl.NativeInputDeviceManager:Update(UInt64, Single)
-InControl.InputManager:UpdateInternal()
-InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
-UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
-UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
-
-AttachDevice XInput Controller
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-InControl.InputManager:AttachDevice(InputDevice)
-InControl.NativeInputDeviceManager:DetectDevice(UInt32, InputDeviceInfo)
-InControl.NativeInputDeviceManager:Update(UInt64, Single)
-InControl.InputManager:UpdateInternal()
-InControl.InControlManager:OnSceneWasLoaded(Scene, LoadSceneMode)
-UnityEngine.Events.UnityAction`2:Invoke(T0, T1)
-UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode)
-
-Attached native device with handle 2:
-Name: XInput Controller
-Driver Type: XInput
-TransportType: Unknown
 Location ID: XInput::2
 Serial Number: 
 Vendor ID: 0xffff
@@ -177,7 +145,7 @@ IntroSystem.IntroManager:Start()
 
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 21955.
-Total: 153.895600 ms (FindLiveObjects: 1.488900 ms CreateObjectMapping: 2.269800 ms MarkObjects: 150.034300 ms  DeleteObjects: 0.101200 ms)
+Total: 126.275600 ms (FindLiveObjects: 1.390200 ms CreateObjectMapping: 2.219200 ms MarkObjects: 122.549800 ms  DeleteObjects: 0.115200 ms)
 
 [AreaManager] LoadAreas
 UnityEngine.Logger:Log(LogType, Object)
@@ -215,7 +183,7 @@ NotSupportedException: To marshal a managed method, please add an attribute name
   at Steamworks.SteamClient.SetWarningMessageHook (Steamworks.SteamAPIWarningMessageHook_t pFunction) [0x00000] in <00000000000000000000000000000000>:0 
   at SteamManager.OnEnable () [0x00000] in <00000000000000000000000000000000>:0 
 
-[AmplifyTexture] Initializing collections took 0.001857758 sec
+[AmplifyTexture] Initializing collections took 0.001202583 sec
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 AmplifyTextureManager:InitializeCollections()
@@ -284,9 +252,32 @@ LocalizationCustomSystem.LocalizationSettingsOption:Start()
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 
+[ResolutionSwitcher] Apply
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ResolutionSwitcher:Apply(String)
+ResolutionSwitcher:Activate()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+TMPro.TMP_Dropdown:SetValue(Int32, Boolean)
+ResolutionSwitcher:Start()
 
-Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 66245.
-Total: 318.470600 ms (FindLiveObjects: 5.346600 ms CreateObjectMapping: 3.272200 ms MarkObjects: 309.369900 ms  DeleteObjects: 0.480600 ms)
+[ResolutionSwitcher] Resolution change from 1280 800 FullScreenWindow to 1280 800 FullScreenWindow
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ResolutionSwitcher:SetResolution(Int32, Int32, FullScreenMode)
+ResolutionSwitcher:Apply(String)
+ResolutionSwitcher:Activate()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+TMPro.TMP_Dropdown:SetValue(Int32, Boolean)
+ResolutionSwitcher:Start()
+
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 66242.
+Total: 237.182100 ms (FindLiveObjects: 4.568400 ms CreateObjectMapping: 2.813300 ms MarkObjects: 229.339500 ms  DeleteObjects: 0.460100 ms)
 
 <color=#00FFFF>Loading Build Bundle</color>
 UnityEngine.Logger:Log(LogType, Object)
@@ -309,231 +300,231 @@ System.Action`1:Invoke(T)
 UnityEngine.AsyncOperation:InvokeCompletionEvent()
 
 Unloading 8 Unused Serialized files (Serialized files now loaded: 4)
-UnloadTime: 1.424700 ms
-LOADING Scenes/Church-int took 703.2089 ms
+UnloadTime: 1.153300 ms
+LOADING Scenes/Church-int took 221.0608 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 
-Unloading 14368 unused Assets to reduce memory usage. Loaded Objects now: 56590.
-Total: 705.129100 ms (FindLiveObjects: 5.985400 ms CreateObjectMapping: 3.252000 ms MarkObjects: 689.195400 ms  DeleteObjects: 6.695300 ms)
+Unloading 14368 unused Assets to reduce memory usage. Loaded Objects now: 56586.
+Total: 624.625400 ms (FindLiveObjects: 5.240700 ms CreateObjectMapping: 2.878100 ms MarkObjects: 609.897600 ms  DeleteObjects: 6.608200 ms)
 
-LOADING Scenes/Whirling-int-f1 took 1297.39 ms
+LOADING Scenes/Whirling-int-f1 took 858.4824 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Whirling-int-f2 took 229.0096 ms
+LOADING Scenes/Whirling-int-f2 took 113.2879 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Martinaise-ext took 2262.425 ms
+LOADING Scenes/Martinaise-ext took 897.4905 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Doomed-commerce-int-f2 took 104.7935 ms
+LOADING Scenes/Doomed-commerce-int-f2 took 73.48347 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Doomed-commerce-int-f1 took 84.67293 ms
+LOADING Scenes/Doomed-commerce-int-f1 took 62.92629 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Doomed-commerce-int-s1 took 113.8344 ms
+LOADING Scenes/Doomed-commerce-int-s1 took 50.0555 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Kiosque-int took 116.0507 ms
+LOADING Scenes/Kiosque-int took 65.94753 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-apartments-int took 86.51161 ms
+LOADING Scenes/Capeside-apartments-int took 66.24317 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Whirling-int-f3 took 79.07867 ms
+LOADING Scenes/Whirling-int-f3 took 66.75529 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Whirling-int-f3-antechamber took 50.52185 ms
+LOADING Scenes/Whirling-int-f3-antechamber took 52.9089 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-coalchamber-int took 66.15639 ms
+LOADING Scenes/Capeside-coalchamber-int took 46.65947 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Secretary-int took 66.25748 ms
+LOADING Scenes/Secretary-int took 50.28439 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Pawnshop-int took 84.48982 ms
+LOADING Scenes/Pawnshop-int took 65.96851 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Cunos-shack-int took 65.78445 ms
+LOADING Scenes/Cunos-shack-int took 50.04311 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-smoker-int took 66.77246 ms
+LOADING Scenes/Capeside-smoker-int took 66.03527 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Sea-fortress-int took 83.22716 ms
+LOADING Scenes/Sea-fortress-int took 66.61034 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Tent-int took 65.7692 ms
+LOADING Scenes/Tent-int took 52.71339 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Second-home-int took 67.33513 ms
+LOADING Scenes/Second-home-int took 46.628 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/FV-house-int took 85.00862 ms
+LOADING Scenes/FV-house-int took 52.97852 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Instigators-lair-int took 180.9254 ms
+LOADING Scenes/Instigators-lair-int took 84.00249 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Union-container-int took 69.06509 ms
+LOADING Scenes/Union-container-int took 62.70123 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Union-boss-int took 129.5128 ms
+LOADING Scenes/Union-boss-int took 69.3922 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Capeside-wcw-int took 66.6256 ms
+LOADING Scenes/Capeside-wcw-int took 63.33351 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Crypto-garys-apt-int took 68.98499 ms
+LOADING Scenes/Crypto-garys-apt-int took 52.5589 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Dream-2 took 81.19011 ms
+LOADING Scenes/Dream-2 took 67.66319 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/FV-shack-int took 82.8495 ms
+LOADING Scenes/FV-shack-int took 66.1068 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Feld-int took 69.24248 ms
+LOADING Scenes/Feld-int took 49.29924 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Dream-3-ext took 99.26033 ms
+LOADING Scenes/Dream-3-ext took 69.62013 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Dream-3-int took 67.27982 ms
+LOADING Scenes/Dream-3-int took 60.02808 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/Commustudent-int took 743.4979 ms
+LOADING Scenes/Commustudent-int took 141.1457 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LOADING Scenes/CollageMode took 3257.467 ms
+LOADING Scenes/CollageMode took 2113.415 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-CleanCacheAndUpdateSources took 17.21573 ms
+CleanCacheAndUpdateSources took 39.56604 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-GCCollect took 190.731 ms
+GCCollect took 190.5746 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-TOTAL SCENE LOADING took 0m 10s
+TOTAL SCENE LOADING took 0m 6s
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadAllScenes>d__8:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 36 Unused Serialized files (Serialized files now loaded: 4)
-Scene Loading Scenes/Lobby took 392.8165 ms
+Scene Loading Scenes/Lobby took 309.1335 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 
-Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 321289.
-Total: 754.588700 ms (FindLiveObjects: 19.413500 ms CreateObjectMapping: 19.854600 ms MarkObjects: 714.851300 ms  DeleteObjects: 0.468300 ms)
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 321285.
+Total: 751.221500 ms (FindLiveObjects: 19.672300 ms CreateObjectMapping: 19.506000 ms MarkObjects: 711.558700 ms  DeleteObjects: 0.483600 ms)
 
 WARNING!  Shaders Prewarmed!
 UnityEngine.Logger:Log(LogType, Object)
@@ -544,13 +535,13 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 135 shaders 14961 combinations 4.056s
+Shader warmup: 135 shaders 14961 combinations 3.994s
 Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321230.
-Total: 753.201300 ms (FindLiveObjects: 20.196600 ms CreateObjectMapping: 19.383100 ms MarkObjects: 713.146500 ms  DeleteObjects: 0.474100 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 321229.
+Total: 762.772100 ms (FindLiveObjects: 20.785100 ms CreateObjectMapping: 20.313800 ms MarkObjects: 721.179000 ms  DeleteObjects: 0.493300 ms)
 
-IsTaskActive("TASK.perform_in_whirling"): task does not exist (or tasks not yet initialized if 0 == 0)
+IsTaskActive("TASK.find_a_way_inside_apt_building"): task does not exist (or tasks not yet initialized if 0 == 0)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 Sunshine.Journal.JournalModel:IsTaskActive(String)
@@ -559,6 +550,8 @@ System.Reflection.MethodBase:Invoke(Object, Object[])
 Language.Lua.LuaMethodFunction:InvokeMethod(LuaValue[])
 System.Diagnostics.Tracing.Transformer`1:Invoke(ValueType)
 Language.Lua.PrimaryExpr:Evaluate(LuaTable)
+Language.Lua.Operation:InfixBinaryOperation(Term, String, Term, LuaTable)
+Language.Lua.Operation:Evaluate(LuaTable)
 Language.Lua.LuaInterpreterExtensions:EvaluateAll(List`1, LuaTable)
 Language.Lua.Chunk:Execute(Boolean&)
 Language.Lua.Chunk:Execute()
@@ -577,7 +570,36 @@ SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
 <LoadCoR>d__59:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Scene Loading Scenes/Whirling-int-f1 took 153.5797 ms
+IsTaskActive("TASK.find_a_way_inside_apt_building"): task does not exist (or tasks not yet initialized if 0 == 0)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.Journal.JournalModel:IsTaskActive(String)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Language.Lua.LuaMethodFunction:InvokeMethod(LuaValue[])
+System.Diagnostics.Tracing.Transformer`1:Invoke(ValueType)
+Language.Lua.PrimaryExpr:Evaluate(LuaTable)
+Language.Lua.Operation:InfixBinaryOperation(Term, String, Term, LuaTable)
+Language.Lua.Operation:Evaluate(LuaTable)
+Language.Lua.LuaInterpreterExtensions:EvaluateAll(List`1, LuaTable)
+Language.Lua.Chunk:Execute(Boolean&)
+Language.Lua.Chunk:Execute()
+Language.Lua.LuaInterpreter:Interpreter(String, LuaTable)
+PixelCrushers.DialogueSystem.Lua:RunRaw(String, Boolean, Boolean)
+PixelCrushers.DialogueSystem.Lua:Run(String)
+FortressOccident.BasicEntity:get_PrerequisitesMet()
+FortressOccident.BasicEntity:UpdateCache()
+SceneLoadingManager:SetObjects()
+FortressOccident.SceneTransitionManager:SetActive(Scene, Boolean)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
+<LoadCoR>d__59:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Scene Loading Scenes/Martinaise-ext took 1250.156 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -588,13 +610,16 @@ SunshinePersistenceLoadDataManager:LoadAreaAndQueueCallbacksFromMemory(String)
 <LoadCoR>d__59:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-LoadCoR GCCollect took 238.2622 ms
+LoadCoR GCCollect took 185.7796 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadCoR>d__59:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[AmplifyTexture] Resized cache for screen resolution 1280x720 => 4096x2048 (450 pages, 43 MB, Compressed, Adaptive)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2ac -> priority: 1 
+  Thread -> id: 2b0 -> priority: 1 
+[AmplifyTexture] Resized cache for screen resolution 1280x800 => 4096x2048 (450 pages, 43 MB, Compressed, Adaptive)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 AmplifyTextureCamera:InternalInitialize(EditorRuntimeProperties)
@@ -609,7 +634,7 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 137 shaders 14967 combinations 0.085s
+Shader warmup: 137 shaders 14967 combinations 0.079s
 [GameModeController] Hardcore Mode off
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -633,46 +658,12 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-OpenGameSettingsCoR:  True
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<OpenGameSettingsCoR>d__20:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-SaveFolderAccessor:TouchGameSettingsWrites(Int32)
-SettingsPersister:Save(Boolean, Int32)
-Sunshine.ConversationLogger:SaveLastConversationTitle()
-Sunshine.ConversationLogger:StopWorldOnConversationStart()
-Sunshine.ConversationLogger:OnConversationStart(Transform)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
-FortressOccident.BasicEntity:SendActivationEvent(Boolean)
-FortressOccident.GameEntity:set_IsActive(Boolean)
-Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
-System.Action`2:Invoke(T1, T2)
-FortressOccident.Character:set_movementStatus(MovementStatus)
-FortressOccident.Character:LateUpdate()
-
-Expensive FindSpecifier invocation for object: titus Whirling in the scene: Whirling-int-f1. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
-
-CloseGameSettingsCoR:  True
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<CloseGameSettingsCoR>d__21:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Expensive FindSpecifier invocation for object: titus Whirling in the scene: Whirling-int-f1. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
@@ -681,7 +672,62 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-Scene Loading Scenes/Martinaise-ext took 1364.227 ms
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FF0000>Validate Movement failed, movement target is null!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+Sunshine.GameController:TryMoveToTarget()
+CharacterAnalogueControl:FixedUpdate()
+
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Cunos-shack-int took 91.00342 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
@@ -691,9 +737,6 @@ FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean,
 FortressOccident.<Activate>d__6:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2c4 -> priority: 1 
-  Thread -> id: 2c8 -> priority: 1 
 WARNING!  Shaders Prewarmed!
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -703,7 +746,7 @@ Voidforge.PrioritizedActionList:Invoke()
 FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 141 shaders 17864 combinations 0.507s
+Shader warmup: 140 shaders 17860 combinations 0.581s
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -711,29 +754,192 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-OpenGameSettingsCoR:  True
+Scene Loading Scenes/Martinaise-ext took 552.2156 ms
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<OpenGameSettingsCoR>d__20:MoveNext()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-SaveFolderAccessor:TouchGameSettingsWrites(Int32)
-SettingsPersister:Save(Boolean, Int32)
-Sunshine.ConversationLogger:SaveLastConversationTitle()
-Sunshine.ConversationLogger:StopWorldOnConversationStart()
-Sunshine.ConversationLogger:OnConversationStart(Transform)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
-FortressOccident.BasicEntity:SendActivationEvent(Boolean)
-FortressOccident.GameEntity:set_IsActive(Boolean)
-Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
-System.Action`2:Invoke(T1, T2)
-FortressOccident.Character:set_movementStatus(MovementStatus)
-FortressOccident.Character:LateUpdate()
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-CloseGameSettingsCoR:  True
+WARNING!  Shaders Prewarmed!
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<CloseGameSettingsCoR>d__21:MoveNext()
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 140 shaders 17860 combinations 0.074s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Cunos-shack-int took 85.76965 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 140 shaders 17860 combinations 0.093s
+Interacting via cache
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+Scene Loading Scenes/Martinaise-ext took 563.2172 ms
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
+FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
+FortressOccident.<Activate>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WARNING!  Shaders Prewarmed!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ShaderWarmupper:Warmup()
+System.Action:Invoke()
+Voidforge.PrioritizedActionList:Invoke()
+FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Shader warmup: 140 shaders 17860 combinations 0.074s
+<color=#FF0000>Validate Movement failed, movement target is null!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Interacting via cache
@@ -743,78 +949,151 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-OpenGameSettingsCoR:  True
+<color=#FF0000>Validate Movement failed, movement target is null!</color>
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<OpenGameSettingsCoR>d__20:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-SaveFolderAccessor:TouchGameSettingsWrites(Int32)
-SettingsPersister:Save(Boolean, Int32)
-Sunshine.ConversationLogger:SaveLastConversationTitle()
-Sunshine.ConversationLogger:StopWorldOnConversationStart()
-Sunshine.ConversationLogger:OnConversationStart(Transform)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
-FortressOccident.BasicEntity:SendActivationEvent(Boolean)
-FortressOccident.GameEntity:set_IsActive(Boolean)
-Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
-System.Action`2:Invoke(T1, T2)
-FortressOccident.Character:set_movementStatus(MovementStatus)
-FortressOccident.Character:LateUpdate()
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
-CloseGameSettingsCoR:  True
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<CloseGameSettingsCoR>d__21:MoveNext()
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: hangedManFallen in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandEnable:Start()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: hangedManUpATree in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandEnable:Start()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: The Hanged Man in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: hangedMan_rope in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: The Hanged Man in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Expensive FindSpecifier invocation for object: hangedMan_rope in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
-PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
-PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandPlayAnimation:Start()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
@@ -823,50 +1102,70 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-OpenGameSettingsCoR:  True
+<color=#FF0000>Validate Movement failed, movement target is null!</color>
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<OpenGameSettingsCoR>d__20:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-SaveFolderAccessor:TouchGameSettingsWrites(Int32)
-SettingsPersister:Save(Boolean, Int32)
-Sunshine.ConversationLogger:SaveLastConversationTitle()
-Sunshine.ConversationLogger:StopWorldOnConversationStart()
-Sunshine.ConversationLogger:OnConversationStart(Transform)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform, Int32)
-PixelCrushers.DialogueSystem.DialogueSystemController:StartConversation(String, Transform, Transform)
-FortressOccident.BasicEntity:SendActivationEvent(Boolean)
-FortressOccident.GameEntity:set_IsActive(Boolean)
-Sunshine.GameController:OnCharacterHasArrived(Character, Boolean)
-System.Action`2:Invoke(T1, T2)
-FortressOccident.Character:set_movementStatus(MovementStatus)
-FortressOccident.Character:LateUpdate()
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
-CloseGameSettingsCoR:  True
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<CloseGameSettingsCoR>d__21:MoveNext()
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[PersistentDataManager.GetRawData] Memory stream took 8252 KB
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Interacting via cache
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-PixelCrushers.DialogueSystem.PersistentDataManager:GetRawData(MemoryStream)
-<SaveCoR>d__54:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
-[SunshinePersistentFileManager.GetZipBytes] Memory stream took 999 KB (CAPACITY: 4096 KB)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-SunshinePersistenceFileManager:GetZipBytes(ZipFile, Byte[]&, Int32&)
-<SaveCoR>d__54:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-SaveCoR GCCollect took 230.2246 ms
+<color=#FF0000>Validate Movement failed, movement target is null!</color>
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-<SaveCoR>d__54:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
+
+<color=#FFEB04>GameController.MoveToTarget: no valid path was found!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sunshine.GameController:MoveToTarget(Object, MovementMode, Purpose, Boolean, Boolean)
+FortressOccident.GameEntity:Interact(ClickEventData)
+FortressOccident.MouseOverHighlight:InteractFirstActive(ClickEventData)
+CommonPadInteractable:Interact(Boolean)
+InteractableSelectionManager:Interact(Boolean)
+CharacterAnalogueControl:LateUpdate()
 
 <color=#FF0000>Validate Movement failed, movement target is null!</color>
 UnityEngine.Logger:Log(LogType, Object)
@@ -904,150 +1203,177 @@ CommonPadInteractable:Interact(Boolean)
 InteractableSelectionManager:Interact(Boolean)
 CharacterAnalogueControl:LateUpdate()
 
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:GetInteractionLocation(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-collapsing doorway (Canvas).GetInteractionLocation(): NavMesh.SamplePosition didn't return a hit! Try increasing InteractionRadius value.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-FortressOccident.GameEntity:CheckIfCanCreatePathToHavePath(Location)
-CommonPadInteractable:PathToInteractableExist()
-InteractableSelectionManager:SelectClosestToPositionInDirection(Vector3, Vector2)
-InteractableSelectionManager:GetNextInteractableInDirection(Vector3, Vector2)
-CharacterAnalogueControl:LateUpdate()
-
-Interacting via cache
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-Scene Loading Scenes/Cunos-shack-int took 89.35547 ms
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
-FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
-FortressOccident.<Activate>d__6:MoveNext()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-WARNING!  Shaders Prewarmed!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-ShaderWarmupper:Warmup()
-System.Action:Invoke()
-Voidforge.PrioritizedActionList:Invoke()
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 143 shaders 17874 combinations 0.095s
-Interacting via cache
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-Interacting via cache
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
-
-Scene Loading Scenes/Martinaise-ext took 553.2227 ms
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-FortressOccident.SceneTransitionManager:Load(String, String, Boolean, Boolean, Boolean)
-FortressOccident.ApplicationManager:ChangeArea(String, String, Boolean, Boolean, Boolean)
-FortressOccident.<Activate>d__6:MoveNext()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-WARNING!  Shaders Prewarmed!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-ShaderWarmupper:Warmup()
-System.Action:Invoke()
-Voidforge.PrioritizedActionList:Invoke()
-FortressOccident.<LoadSceneCoR>d__36:MoveNext()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Shader warmup: 143 shaders 17874 combinations 0.080s
-Interacting via cache
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Interacting via cache
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-CommonPadInteractable:Interact(Boolean)
-InteractableSelectionManager:Interact(Boolean)
-CharacterAnalogueControl:LateUpdate()
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+command.to is null !!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+FortressOccident.<ExecuteCommandWithDelay>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
