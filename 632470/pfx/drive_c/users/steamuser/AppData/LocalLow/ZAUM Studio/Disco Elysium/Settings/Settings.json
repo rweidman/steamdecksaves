@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "FRITTE / KNICK-KNACKS STAND",
+            "stringValue": "PLAZA / RENE",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 5328,
+            "intValue": 5604,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
