@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "PLAZA / RENE",
+            "stringValue": "PLAZA / WORKING CLASS WOMAN",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 5604,
+            "intValue": 5635,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
