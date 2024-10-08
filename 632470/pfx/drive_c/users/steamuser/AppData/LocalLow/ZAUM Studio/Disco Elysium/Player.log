@@ -2919,3 +2919,19 @@ InControl.Logger:LogInfo(String)
 InControl.NativeInputDeviceManager:Update(UInt64, Single)
 InControl.InputManager:UpdateInternal()
 
+Expensive FindSpecifier invocation for object: TeqPentanqueReturnLoc in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandTravelTo:Start()
+
+Expensive FindSpecifier invocation for object: ReneReturnLoc in the scene: Martinaise-ext. Please add SequencerUsedObject component to this object
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PixelCrushers.DialogueSystem.SequencerTools:FindSpecifier(String, Boolean)
+PixelCrushers.DialogueSystem.SequencerTools:GetSubject(String, Transform, Transform, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommand:GetSubject(Int32, Transform)
+PixelCrushers.DialogueSystem.SequencerCommands.SequencerCommandTravelTo:Start()
+
