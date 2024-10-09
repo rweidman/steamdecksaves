@@ -234,7 +234,7 @@
         },
         "LastConversation": {
             "intValue": 0,
-            "stringValue": "PLAZA / ANNETTE",
+            "stringValue": "BOOKSTORE / PLAISANCE",
             "floatValue": 0.0,
             "boolValue": false,
             "type": "STRING"
@@ -412,7 +412,7 @@
             "type": "INT"
         },
         "steps_travelled_amount": {
-            "intValue": 5640,
+            "intValue": 5665,
             "stringValue": null,
             "floatValue": 0.0,
             "boolValue": false,
