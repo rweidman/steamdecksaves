@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1728481501
-#time=1db1a51705e63b2
+[Software\\Team Cherry\\Hollow Knight] 1728487801
+#time=1db1a601b90048a
 "ControllerNONE_h3077180403"=hex:7b,22,67,61,6d,65,70,61,64,54,79,70,65,22,3a,\
   30,2c,22,6a,75,6d,70,22,3a,31,39,2c,22,61,74,74,61,63,6b,22,3a,32,31,2c,22,\
   64,61,73,68,22,3a,31,36,2c,22,63,61,73,74,22,3a,32,30,2c,22,73,75,70,65,72,\
@@ -679,6 +679,8 @@ WINE REGISTRY Version 2
 "Screenmanager Resolution Width Default_h680557497"=dword:00000400
 "Screenmanager Resolution Width_h182942802"=dword:00000500
 "Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"SxllIT5vwvqIRCSUXRW7fg==_h2430538613"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "unity.player_session_count_h922449978"=hex:31,00
 "unity.player_sessionid_h1351336811"=hex:36,35,33,38,31,35,37,33,30,35,39,34,\
   34,37,30,37,31,30,30,00
