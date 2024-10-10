@@ -25223,3 +25223,37 @@ Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 1782 unused Assets to reduce memory usage. Loaded Objects now: 59985.
 Total: 362.141400 ms (FindLiveObjects: 5.611400 ms CreateObjectMapping: 2.835500 ms MarkObjects: 348.224000 ms  DeleteObjects: 5.469300 ms)
 
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller attached
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
