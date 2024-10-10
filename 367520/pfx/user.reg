@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1728569518
-#time=1db1b1e5e8b3c5a
+[Software\\Team Cherry\\Hollow Knight] 1728576115
+#time=1db1b2dba49da06
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "ControllerNONE_h3077180403"=hex:7b,22,67,61,6d,65,70,61,64,54,79,70,65,22,3a,\
@@ -653,6 +653,8 @@ WINE REGISTRY Version 2
 "EybeqDEdlXfVRuMzCiVxgQ==_h2409947244"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "GameLangSet_h1172976845"=dword:00000001
+"j0s+QJveSj8rsxf6Yl3LMiFTa5t0xaSgoKP8tNRkx98=_h2670866669"=hex:65,7a,34,4f,55,\
+  4b,75,70,56,6e,42,4f,71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "jUbXYJdtUyB6c2E0wXSwhg==_h2323034203"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "KeyAttack_V2_h2586191233"=hex:58,00
