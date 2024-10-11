@@ -34337,3 +34337,43 @@ Controller Type: XboxOne
 
 Active Gamepad Type: XBOX_ONE
 
+<RI.Hid> Failed to read input report:
+Access denied.
+
+<RI.Hid> Failed to start reading input report:
+Access denied.
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller attached
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
