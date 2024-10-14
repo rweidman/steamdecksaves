@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1728862339
-#time=1db1dc8255ace12
+[Software\\Team Cherry\\Hollow Knight] 1728875416
+#time=1db1de697d85f36
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "ControllerNONE_h3077180403"=hex:7b,22,67,61,6d,65,70,61,64,54,79,70,65,22,3a,\
@@ -679,6 +679,8 @@ WINE REGISTRY Version 2
 "lastVersion_h1246900021"=hex:31,2e,34,2e,32,2e,38,00
 "M2H_lastLanguage_h3859156181"=hex:45,4e,00
 "Qu833dTkn6imLw8ltvmSRg==_h1730005784"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"S2ErvPCdcjIV/QGiz+b/3g==_h1674598652"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
 "Screenmanager Fullscreen mode_h3630240806"=dword:00000001
