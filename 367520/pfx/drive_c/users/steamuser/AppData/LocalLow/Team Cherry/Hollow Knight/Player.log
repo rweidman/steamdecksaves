@@ -31501,3 +31501,5 @@ AddEventHandlerComponent: PlayMakerCollisionEnter2D
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
