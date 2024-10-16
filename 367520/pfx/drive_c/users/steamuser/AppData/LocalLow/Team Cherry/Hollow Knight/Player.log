@@ -64947,3 +64947,37 @@ Total: 478.330800 ms (FindLiveObjects: 7.055700 ms CreateObjectMapping: 3.440000
 
 PlayOneShot was called with a null AudioClip.
 
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller attached
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
