@@ -640,9 +640,11 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729015464
-#time=1db1f2caaeafaa6
+[Software\\Team Cherry\\Hollow Knight] 1729041918
+#time=1db1f6a4289c530
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "5yZTgDVNsDnWj1MVsBSTyw==_h1706815882"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
