@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729286403
-#time=1db21a37f72f364
+[Software\\Team Cherry\\Hollow Knight] 1729292323
+#time=1db21b147a43fd4
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -657,6 +657,8 @@ WINE REGISTRY Version 2
 "dfS78nhj7S9V9lkqZqYgXofg7YAg8eiAiGQurIgQqB8=_h2086632124"=hex:65,7a,34,4f,55,\
   4b,75,70,56,6e,42,4f,71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "Dmw9+/iSaD0VQiUsCXWMzg==_h2518350525"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"EcVgI5jxTwPZ9JbqZZOaDQ==_h4214559214"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "EybeqDEdlXfVRuMzCiVxgQ==_h2409947244"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
