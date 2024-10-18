@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729209210
-#time=1db20efc475d6c0
+[Software\\Team Cherry\\Hollow Knight] 1729286403
+#time=1db21a37f72f364
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -693,7 +693,7 @@ WINE REGISTRY Version 2
 "Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
 "Screenmanager Fullscreen mode_h3630240806"=dword:00000001
 "Screenmanager Resolution Height Default_h1380706816"=dword:00000300
-"Screenmanager Resolution Height_h2627697771"=dword:00000320
+"Screenmanager Resolution Height_h2627697771"=dword:000002d0
 "Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
 "Screenmanager Resolution Use Native_h1405027254"=dword:00000001
 "Screenmanager Resolution Width Default_h680557497"=dword:00000400
@@ -701,9 +701,9 @@ WINE REGISTRY Version 2
 "Screenmanager Stereo 3D_h1665754519"=dword:00000001
 "SxllIT5vwvqIRCSUXRW7fg==_h2430538613"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
-"unity.player_session_count_h922449978"=hex:32,00
-"unity.player_sessionid_h1351336811"=hex:37,34,30,38,31,38,35,34,32,34,34,33,\
-  32,31,38,36,35,34,33,00
+"unity.player_session_count_h922449978"=hex:33,00
+"unity.player_sessionid_h1351336811"=hex:32,32,34,37,31,37,31,31,34,30,32,36,\
+  36,39,38,38,37,36,36,00
 "UnitySelectMonitor_h17969598"=dword:00000000
 "VidBrightSet_h723137598"=dword:00000001
 "VidBrightValue_h1514527511"=hex(4):00,00,00,00,00,00,35,40
@@ -879,6 +879,10 @@ WINE REGISTRY Version 2
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.1.hdmi-stereo-extra2] 1729286401
+#time=1db21a37dbcda80
+"guid"=hex:17,10,df,a7,a5,cd,17,41,86,e8,16,fd,24,c2,72,7c
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink] 1728442127
 #time=1db19f5c336d0da
 "guid"=hex:16,7e,64,84,ca,0f,11,48,99,82,55,b2,69,9a,11,68
@@ -898,6 +902,10 @@ WINE REGISTRY Version 2
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__source] 1728442127
 #time=1db19f5c33839c0
 "guid"=hex:e1,db,d4,7e,3c,ba,45,4b,95,b3,15,12,1e,ce,d9,69
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.1.hdmi-stereo-extra2.monitor] 1729286401
+#time=1db21a37dbdc8c8
+"guid"=hex:86,b9,91,1a,fc,68,53,4b,b8,db,dc,64,d2,7b,d4,40
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_04_00.5-platform-acp5x_mach.0.HiFi__hw_acp5x_0__sink.monitor] 1728442127
 #time=1db19f5c33811ca
@@ -923,8 +931,8 @@ WINE REGISTRY Version 2
 #time=1db19f5c337b5ea
 "guid"=hex:53,53,45,b5,36,b1,8e,48,a2,92,7c,a4,dd,bd,b8,63
 
-[Software\\Wine\\Fonts] 1728845518
-#time=1db1da0fb30e440
+[Software\\Wine\\Fonts] 1729286398
+#time=1db21a37c1dea20
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
