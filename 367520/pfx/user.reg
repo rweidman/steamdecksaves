@@ -640,13 +640,15 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729347088
-#time=1db2230ca2df29a
+[Software\\Team Cherry\\Hollow Knight] 1729373357
+#time=1db226df3a4747c
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "5yZTgDVNsDnWj1MVsBSTyw==_h1706815882"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"bd0Qg2c4KNAON317OSqT2A==_h3986869082"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "ControllerNONE_h3077180403"=hex:7b,22,67,61,6d,65,70,61,64,54,79,70,65,22,3a,\
   30,2c,22,6a,75,6d,70,22,3a,31,39,2c,22,61,74,74,61,63,6b,22,3a,32,31,2c,22,\
