@@ -36490,3 +36490,1094 @@ PlayerData: Could not find bool named visitedFungalWastes in PlayerData
 
 PlayerData: Could not find bool named visitedFungalWastes in PlayerData
 
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Additively loaded scene: Fungus3_23_boss in sequence
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.DoTransition (HutongGames.PlayMaker.FsmTransition transition, System.Boolean isGlobal) [0x00046] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.ProcessEvent (HutongGames.PlayMaker.FsmEvent fsmEvent, HutongGames.PlayMaker.FsmEventData eventData) [0x000cc] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Event (HutongGames.PlayMaker.FsmEventTarget eventTarget, HutongGames.PlayMaker.FsmEvent fsmEvent) [0x0005f] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Event (HutongGames.PlayMaker.FsmEvent fsmEvent) [0x0000a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Actions.Tk2dPlayAnimationWithEvents.AnimationCompleteDelegate (tk2dSpriteAnimator sprite, tk2dSpriteAnimationClip clip) [0x0004b] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at tk2dSpriteAnimator.OnAnimationCompleted () [0x0000f] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at tk2dSpriteAnimator.UpdateAnimation (System.Single deltaTime) [0x00256] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at tk2dSpriteAnimator.LateUpdate () [0x00006] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+Unloading 66 Unused Serialized files (Serialized files now loaded: 0)
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+
+Unloading 1421 unused Assets to reduce memory usage. Loaded Objects now: 69122.
+Total: 370.087800 ms (FindLiveObjects: 6.139500 ms CreateObjectMapping: 3.036400 ms MarkObjects: 357.066200 ms  DeleteObjects: 3.844600 ms)
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Additively loaded scene: Fungus3_23_boss in sequence
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject.get_transform(UnityEngine.GameObject)
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnUpdate () [0x00000] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.OnUpdate () [0x00032] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x00007] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+Unloading 66 Unused Serialized files (Serialized files now loaded: 0)
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+
+Unloading 1302 unused Assets to reduce memory usage. Loaded Objects now: 69193.
+Total: 372.029900 ms (FindLiveObjects: 6.558300 ms CreateObjectMapping: 2.953300 ms MarkObjects: 359.451000 ms  DeleteObjects: 3.066100 ms)
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Additively loaded scene: Fungus3_23_boss in sequence
+
+Steam overlay became opened.
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller detached.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller attached
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Steam overlay became closed.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject.get_transform(UnityEngine.GameObject)
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnUpdate () [0x00000] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.OnUpdate () [0x00032] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x00007] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+Unloading 67 Unused Serialized files (Serialized files now loaded: 0)
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+
+Unloading 1353 unused Assets to reduce memory usage. Loaded Objects now: 69338.
+Total: 368.262400 ms (FindLiveObjects: 5.973800 ms CreateObjectMapping: 3.257100 ms MarkObjects: 355.667800 ms  DeleteObjects: 3.362300 ms)
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Additively loaded scene: Fungus3_23_boss in sequence
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Fungus3_23_boss in sequence
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject.get_transform(UnityEngine.GameObject)
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnUpdate () [0x00000] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.OnUpdate () [0x00032] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x00007] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HutongGames.PlayMaker.Actions.FaceObject.DoFace () [0x00061] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.Actions.FaceObject.OnEnter () [0x00069] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at HutongGames.PlayMaker.FsmState.ActivateActions (System.Int32 startIndex) [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.FsmState.OnEnter () [0x00064] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.EnterState (HutongGames.PlayMaker.FsmState state) [0x0008a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.SwitchState (HutongGames.PlayMaker.FsmState toState) [0x0005b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateStateChanges () [0x00002] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.UpdateState (HutongGames.PlayMaker.FsmState state) [0x0000d] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at HutongGames.PlayMaker.Fsm.Update () [0x0004b] in <29eb59fa5c9943cd8f336db074533d31>:0 
+  at PlayMakerFSM.Update () [0x0001a] in <29eb59fa5c9943cd8f336db074533d31>:0 
+
