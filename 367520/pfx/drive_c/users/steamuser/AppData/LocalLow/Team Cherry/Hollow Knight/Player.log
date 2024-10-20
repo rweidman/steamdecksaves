@@ -54744,3 +54744,130 @@ Deferring level start (marked as manual).
 
 Setting skip mode: SKIP_PROMPT
 
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Bump Height: 0.005290985
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Bump Height: 0.005290985
+
+Bump Height: 0.005290985
+
+Bump Height: 0.005290985
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.631400 ms
+Deferring level start (marked as manual).
+
+
+Unloading 3545 unused Assets to reduce memory usage. Loaded Objects now: 67388.
+Total: 429.755900 ms (FindLiveObjects: 6.628800 ms CreateObjectMapping: 3.286900 ms MarkObjects: 411.146800 ms  DeleteObjects: 8.692100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.473800 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+pd.maxHealth: 7 pd.maxHealthBase: 7
+
+
+Unloading 1590 unused Assets to reduce memory usage. Loaded Objects now: 57109.
+Total: 201.225100 ms (FindLiveObjects: 4.491100 ms CreateObjectMapping: 2.251900 ms MarkObjects: 190.976600 ms  DeleteObjects: 3.504600 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3c0 -> priority: 1 
+  Thread -> id: 3c4 -> priority: 1 
+  Thread -> id: 3c8 -> priority: 1 
+  Thread -> id: 3cc -> priority: 1 
+Shutting down Steam API.
+
