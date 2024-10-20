@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729377658
-#time=1db2277f7b13d70
+[Software\\Team Cherry\\Hollow Knight] 1729400919
+#time=1db22ae1fc34098
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -715,6 +715,8 @@ WINE REGISTRY Version 2
 "unity.player_sessionid_h1351336811"=hex:32,32,34,37,31,37,31,31,34,30,32,36,\
   36,39,38,38,37,36,36,00
 "UnitySelectMonitor_h17969598"=dword:00000000
+"vE5KkxS7T22NbDJZ4Kd3tw==_h3912798328"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "VidBrightSet_h723137598"=dword:00000001
 "VidBrightValue_h1514527511"=hex(4):00,00,00,00,00,00,35,40
 "VidOSSet_h392329728"=dword:00000001
