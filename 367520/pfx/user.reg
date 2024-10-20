@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729425893
-#time=1db22e845b06bca
+[Software\\Team Cherry\\Hollow Knight] 1729454770
+#time=1db232b81cfd9f4
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -707,7 +707,7 @@ WINE REGISTRY Version 2
 "Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
 "Screenmanager Fullscreen mode_h3630240806"=dword:00000001
 "Screenmanager Resolution Height Default_h1380706816"=dword:00000300
-"Screenmanager Resolution Height_h2627697771"=dword:000002d0
+"Screenmanager Resolution Height_h2627697771"=dword:00000320
 "Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
 "Screenmanager Resolution Use Native_h1405027254"=dword:00000001
 "Screenmanager Resolution Width Default_h680557497"=dword:00000400
@@ -715,9 +715,9 @@ WINE REGISTRY Version 2
 "Screenmanager Stereo 3D_h1665754519"=dword:00000001
 "SxllIT5vwvqIRCSUXRW7fg==_h2430538613"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
-"unity.player_session_count_h922449978"=hex:33,00
-"unity.player_sessionid_h1351336811"=hex:32,32,34,37,31,37,31,31,34,30,32,36,\
-  36,39,38,38,37,36,36,00
+"unity.player_session_count_h922449978"=hex:34,00
+"unity.player_sessionid_h1351336811"=hex:38,30,31,37,33,31,35,39,38,32,32,38,\
+  34,30,36,33,31,33,31,00
 "UnitySelectMonitor_h17969598"=dword:00000000
 "vE5KkxS7T22NbDJZ4Kd3tw==_h3912798328"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
@@ -947,8 +947,8 @@ WINE REGISTRY Version 2
 #time=1db19f5c337b5ea
 "guid"=hex:53,53,45,b5,36,b1,8e,48,a2,92,7c,a4,dd,bd,b8,63
 
-[Software\\Wine\\Fonts] 1729286398
-#time=1db21a37c1dea20
+[Software\\Wine\\Fonts] 1729454764
+#time=1db232b7e74d7a0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
