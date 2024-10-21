@@ -19160,3 +19160,108 @@ Deferring level start (marked as manual).
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Joystick connected ("Controller (XBOX 360 For Windows)").
+
+Game controller XInput Controller attached
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 905 unused Assets to reduce memory usage. Loaded Objects now: 61996.
+Total: 349.079300 ms (FindLiveObjects: 6.428200 ms CreateObjectMapping: 2.860800 ms MarkObjects: 336.843600 ms  DeleteObjects: 2.945500 ms)
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
