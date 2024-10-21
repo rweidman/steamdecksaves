@@ -7488,3 +7488,59 @@ Joystick disconnected ("Controller (XBOX 360 For Windows)").
 
 Game controller XInput Controller detached.
 
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Steam overlay became opened.
+
+Steam overlay became closed.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+PlayOneShot was called with a null AudioClip.
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+PlayerData: Could not find bool named visitedFungalWastes in PlayerData
+
+PlayerData: Could not find bool named visitedCity in PlayerData
+
+Could not find FSM: Enough Geo
+
+LoadLevel: Cinematic_Stag_travel
+
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.917700 ms
+Performing automatic level start.
+
+
+Unloading 1761 unused Assets to reduce memory usage. Loaded Objects now: 58449.
+Total: 347.369300 ms (FindLiveObjects: 5.568900 ms CreateObjectMapping: 3.024800 ms MarkObjects: 333.825000 ms  DeleteObjects: 4.949200 ms)
+
+Setting skip mode: SKIP_INSTANT
+
+Started cinematic 'StagTunnelRun'
+
+Started cinematic 'StagTunnelRun'
+
+Stopped cinematic 'StagTunnelRun'
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
