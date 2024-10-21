@@ -3044,3 +3044,403 @@ Deferring level start (marked as manual).
 
 PlayOneShot was called with a null AudioClip.
 
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+No area with identifier "PALACE_GROUNDS" found in area list. Creating default SubArea.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+No area with identifier "HIDDEN_STATION" found in area list. Creating default SubArea.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Enough Geo
+
+LoadLevel: Cinematic_Stag_travel
+
+Unloading 66 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.074600 ms
+Performing automatic level start.
+
+
+Unloading 3525 unused Assets to reduce memory usage. Loaded Objects now: 55540.
+Total: 346.328000 ms (FindLiveObjects: 4.828700 ms CreateObjectMapping: 2.772600 ms MarkObjects: 328.005000 ms  DeleteObjects: 10.720600 ms)
+
+Setting skip mode: SKIP_INSTANT
+
+Started cinematic 'StagTunnelRun'
+
+Started cinematic 'StagTunnelRun'
+
+Stopped cinematic 'StagTunnelRun'
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.1828823
+
+Bump Height: 0.0995121
+
+Bump Height: 0.007049561
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Dream Impact prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool could not find a copy of Shockwave Spurt L Z, Instantiating a new one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool could not find a copy of Shockwave Spurt Z, Instantiating a new one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
+
+Could not find FSM: damages_hero
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt Z prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
