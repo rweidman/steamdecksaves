@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1713555384
 #time=1da9290dd27bb9a
 
-[Software\\Valve\\Steam] 1726928922
-#time=1db0c328ec2661e
+[Software\\Valve\\Steam] 1729573067
+#time=1db243ef089f816
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
@@ -666,6 +666,10 @@ WINE REGISTRY Version 2
 
 [Software\\Wine\\AppDefaults\\DIRT5.exe\\DllOverrides] 1713555384
 #time=1da9290dd47d86c
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\ffxvi.exe\\DllOverrides] 1729573065
+#time=1db243eeefdf718
 "atiadlxx"="builtin"
 
 [Software\\Wine\\AppDefaults\\gotg.exe\\DllOverrides] 1713555384
@@ -704,8 +708,8 @@ WINE REGISTRY Version 2
 #time=1da9290dd46a564
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1726928922
-#time=1db0c328ec24e68
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1729573067
+#time=1db243ef089e2c2
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1713555384
 #time=1da9290dd46ce72
@@ -760,6 +764,10 @@ WINE REGISTRY Version 2
 #time=1da9290dd4846ee
 "atiadlxx"="builtin"
 
+[Software\\Wine\\AppDefaults\\TDUSC.exe\\DllOverrides] 1729573065
+#time=1db243eeefdd4fe
+"xinput1_3"="native,builtin"
+
 [Software\\Wine\\Debug] 1713555384
 #time=1da9290dd298e70
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
@@ -801,8 +809,8 @@ WINE REGISTRY Version 2
 "vcruntime140"="native,builtin"
 "vcruntime140_1"="native,builtin"
 
-[Software\\Wine\\Fonts] 1726928925
-#time=1db0c3290ed98f0
+[Software\\Wine\\Fonts] 1729573074
+#time=1db243ef4411340
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
