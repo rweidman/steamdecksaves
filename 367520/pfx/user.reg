@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729569902
-#time=1db2437919a75da
+[Software\\Team Cherry\\Hollow Knight] 1729571105
+#time=1db243a5f1ad318
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -727,7 +727,6 @@ WINE REGISTRY Version 2
 "unity.player_sessionid_h1351336811"=hex:34,33,33,32,38,36,38,32,39,34,37,36,\
   35,37,32,38,30,34,00
 "UnitySelectMonitor_h17969598"=dword:00000000
-"unlockedMenuStyle_h4217830736"=hex:69,6e,66,65,63,74,65,64,4d,65,6e,75,00
 "vE5KkxS7T22NbDJZ4Kd3tw==_h3912798328"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "VidBrightSet_h723137598"=dword:00000001
@@ -735,8 +734,8 @@ WINE REGISTRY Version 2
 "VidOSSet_h392329728"=dword:00000001
 "VidOSValue_h2042059497"=hex(4):00,00,00,00,00,00,00,00
 "VidTFR_h3151569246"=dword:00000190
-"vTY9ZwWyCq4cnoiD3hO4Sg==_h1710990873"=hex:63,4f,78,4a,4a,63,76,43,61,39,57,35,\
-  61,78,75,54,55,43,31,69,35,51,3d,3d,00
+"vTY9ZwWyCq4cnoiD3hO4Sg==_h1710990873"=hex:69,31,74,62,51,43,55,61,71,51,4e,67,\
+  4b,5a,47,4b,69,50,41,53,4f,77,3d,3d,00
 "VXRnmRvvnpg3wJGwyQpKCQ==_h1836882798"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "y4ooKWPLrUJHB7gaE/h5tA==_h3781689244"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
