@@ -531,8 +531,8 @@ WINE REGISTRY Version 2
 #time=1db0dcc2bef048e
 @="{CB2F6723-AB3A-11D2-9C40-00C04FA30A3E}"
 
-[Software\\Classes\\CLSID] 1727104853
-#time=1db0dcc2e1fd72e
+[Software\\Classes\\CLSID] 1729605792
+#time=1db248b220b9786
 @="ClassMoniker"
 
 [Software\\Classes\\CLSID\\CLSID] 1727104850
@@ -1130,9 +1130,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2caee01a
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{03219E78-5BC3-44D1-B92E-F63D89CC6526}\\InprocServer32] 1727104851
-#time=1db0dcc2cb21c26
-@="C:\\windows\\system32\\xaudio2_4.dll"
+[Software\\Classes\\CLSID\\{03219E78-5BC3-44D1-B92E-F63D89CC6526}\\InprocServer32] 1729605800
+#time=1db248b26c740c2
+@="C:\\windows\\system32\\XAudio2_4.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{03C036F1-A186-11D0-824A-00AA005B4383}] 1727104849
@@ -1266,9 +1266,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2c4dd34c
 @="1.0"
 
-[Software\\Classes\\CLSID\\{074B110F-7F58-4743-AEA5-12F15B5074ED}] 1727104851
-#time=1db0dcc2cace5c6
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{074B110F-7F58-4743-AEA5-12F15B5074ED}] 1729605803
+#time=1db248b2836390e
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{074B110F-7F58-4743-AEA5-12F15B5074ED}\\InprocServer32] 1727104851
 #time=1db0dcc2cace7ec
@@ -1574,18 +1574,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2c990a4c
 @="WScript.Network"
 
-[Software\\Classes\\CLSID\\{0977D092-2D95-4E43-8D42-9DDCC2545ED5}] 1727104851
-#time=1db0dcc2cac7910
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{0977D092-2D95-4E43-8D42-9DDCC2545ED5}] 1729605800
+#time=1db248b268b53c8
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{0977D092-2D95-4E43-8D42-9DDCC2545ED5}\\InprocServer32] 1727104851
 #time=1db0dcc2cac7b40
 @="C:\\windows\\system32\\xactengine3_4.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\CLSID\\{0AA000AA-F404-11D9-BD7A-0010DC4F8F81}] 1727104851
-#time=1db0dcc2ca90cc6
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{0AA000AA-F404-11D9-BD7A-0010DC4F8F81}] 1729605784
+#time=1db248b1d2acf3e
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{0AA000AA-F404-11D9-BD7A-0010DC4F8F81}\\InprocServer32] 1727104851
 #time=1db0dcc2ca90f0a
@@ -1810,6 +1810,15 @@ WINE REGISTRY Version 2
 [Software\\Classes\\CLSID\\{11275A82-5E5A-47FD-A01C-3683C12FB196}\\InprocServer32] 1727104850
 #time=1db0dcc2c8532f6
 @="C:\\windows\\system32\\winegstreamer.dll"
+"ThreadingModel"="Both"
+
+[Software\\Classes\\CLSID\\{1138472b-d187-44e9-81f2-ae1b0e7785f1}] 1729605787
+#time=1db248b1e9ae822
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{1138472b-d187-44e9-81f2-ae1b0e7785f1}\\InProcServer32] 1729605787
+#time=1db248b1e9aea16
+@="C:\\windows\\system32\\xactengine2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{114F5598-0B22-40A0-86A1-C83EA495ADBD}] 1727104853
@@ -2139,6 +2148,15 @@ WINE REGISTRY Version 2
 #time=1db0dcc2beec65e
 @="CLRMetaData.CorMetaDataDispenserRuntime"
 
+[Software\\Classes\\CLSID\\{1f1b577e-5e5a-4e8a-ba73-c657ea8e8598}] 1729605785
+#time=1db248b1dfc014e
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{1f1b577e-5e5a-4e8a-ba73-c657ea8e8598}\\InProcServer32] 1729605785
+#time=1db248b1dfc03d8
+@="C:\\windows\\system32\\xactengine2_1.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\CLSID\\{2048EEE6-7FA2-11D0-9E6A-00A0C9138C29}] 1727104849
 #time=1db0dcc2b86412e
 @="OLE DB Row Position Library"
@@ -2200,9 +2218,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cb2a380
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{2139E6DA-C341-4774-9AC3-B4E026347F64}\\InprocServer32] 1727104851
-#time=1db0dcc2cb2a5a6
-@="C:\\windows\\system32\\xaudio2_5.dll"
+[Software\\Classes\\CLSID\\{2139E6DA-C341-4774-9AC3-B4E026347F64}\\InprocServer32] 1729605803
+#time=1db248b2869b284
+@="C:\\windows\\system32\\XAudio2_5.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{21EC2020-3AEA-1069-A2DD-08002B30309D}] 1727104852
@@ -2302,9 +2320,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2b9605aa
 @="LDAPNamespace"
 
-[Software\\Classes\\CLSID\\{248D8A3B-6256-44D3-A018-2AC96C459F47}] 1727104851
-#time=1db0dcc2cad536c
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{248D8A3B-6256-44D3-A018-2AC96C459F47}] 1729605803
+#time=1db248b28b1c8da
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{248D8A3B-6256-44D3-A018-2AC96C459F47}\\InprocServer32] 1727104851
 #time=1db0dcc2cad5592
@@ -3305,9 +3323,9 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\devenum.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\CLSID\\{343E68E6-8F82-4A8D-A2DA-6E9A944B378C}] 1727104851
-#time=1db0dcc2caa550e
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{343E68E6-8F82-4A8D-A2DA-6E9A944B378C}] 1729605791
+#time=1db248b215cc6ac
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{343E68E6-8F82-4A8D-A2DA-6E9A944B378C}\\InprocServer32] 1727104851
 #time=1db0dcc2caa573e
@@ -3582,6 +3600,15 @@ WINE REGISTRY Version 2
 #time=1db0dcc2b76e864
 @="SAPI.SpObjectTokenEnum"
 
+[Software\\Classes\\CLSID\\{3a2495ce-31d0-435b-8ccf-e9f0843fd960}] 1729605788
+#time=1db248b1fb3b1a8
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{3a2495ce-31d0-435b-8ccf-e9f0843fd960}\\InProcServer32] 1729605788
+#time=1db248b1fb3b356
+@="C:\\windows\\system32\\xactengine2_6.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\CLSID\\{3AD05575-8857-4850-9277-11B85BDB8E09}] 1727104850
 #time=1db0dcc2c57c118
 @="Copy/Move/Rename/Delete/Link Object"
@@ -3608,9 +3635,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2bbbe8ba
 @="DirectPlay8Lobby.LobbyClient"
 
-[Software\\Classes\\CLSID\\{3B80EE2A-B0F5-4780-9E30-90CB39685B03}] 1727104851
-#time=1db0dcc2caac32c
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{3B80EE2A-B0F5-4780-9E30-90CB39685B03}] 1729605794
+#time=1db248b2310054a
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{3B80EE2A-B0F5-4780-9E30-90CB39685B03}\\InprocServer32] 1727104851
 #time=1db0dcc2caac55c
@@ -3724,9 +3751,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2caf43b6
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{3EDA9B49-2085-498B-9BB2-39A6778493DE}\\InprocServer32] 1727104851
-#time=1db0dcc2cb3168a
-@="C:\\windows\\system32\\xaudio2_6.dll"
+[Software\\Classes\\CLSID\\{3EDA9B49-2085-498B-9BB2-39A6778493DE}\\InprocServer32] 1729605804
+#time=1db248b28e742ee
+@="C:\\windows\\system32\\XAudio2_6.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{3F037241-414E-11D1-A7CE-00A0C913F73C}] 1727104849
@@ -4118,18 +4145,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cae7bc0
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{4C5E637A-16C7-4DE3-9C46-5ED22181962D}\\InprocServer32] 1727104851
-#time=1db0dcc2cb1a00c
-@="C:\\windows\\system32\\xaudio2_3.dll"
+[Software\\Classes\\CLSID\\{4C5E637A-16C7-4DE3-9C46-5ED22181962D}\\InprocServer32] 1729605798
+#time=1db248b25bb0498
+@="C:\\windows\\system32\\XAudio2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{4C9B6DDE-6809-46E6-A278-9B6A97588670}] 1727104851
 #time=1db0dcc2cb298b8
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{4C9B6DDE-6809-46E6-A278-9B6A97588670}\\InprocServer32] 1727104851
-#time=1db0dcc2cb29af2
-@="C:\\windows\\system32\\xaudio2_5.dll"
+[Software\\Classes\\CLSID\\{4C9B6DDE-6809-46E6-A278-9B6A97588670}\\InprocServer32] 1729605803
+#time=1db248b2869adde
+@="C:\\windows\\system32\\XAudio2_5.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{4CB43D7F-7EEE-4906-8698-60DA1C38F2FE}] 1727104851
@@ -4317,6 +4344,15 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\shell32.dll"
 "ThreadingModel"="Apartment"
 
+[Software\\Classes\\CLSID\\{54b68bc7-3a45-416b-a8c9-19bf19ec1df5}] 1729605788
+#time=1db248b1f8b3944
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{54b68bc7-3a45-416b-a8c9-19bf19ec1df5}\\InProcServer32] 1729605788
+#time=1db248b1f8b3b56
+@="C:\\windows\\system32\\xactengine2_5.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\CLSID\\{54E211B6-3650-4F75-8334-FA359598E1C5}] 1727104849
 #time=1db0dcc2bb329b4
 @="DirectManipulationManager"
@@ -4467,9 +4503,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cafa8c4
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{5A508685-A254-4FBA-9B82-9A24B00306AF}\\InprocServer32] 1727104851
-#time=1db0dcc2cb39344
-@="C:\\windows\\system32\\xaudio2_7.dll"
+[Software\\Classes\\CLSID\\{5A508685-A254-4FBA-9B82-9A24B00306AF}\\InprocServer32] 1729605806
+#time=1db248b2a0e9dc0
+@="C:\\windows\\system32\\XAudio2_7.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{5A580C11-E5EB-11D1-A86E-0000F8084F96}] 1727104849
@@ -4566,9 +4602,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cae23be
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{629CF0DE-3ECC-41E7-9926-F7E43EEBEC51}\\InprocServer32] 1727104851
-#time=1db0dcc2cb1332e
-@="C:\\windows\\system32\\xaudio2_2.dll"
+[Software\\Classes\\CLSID\\{629CF0DE-3ECC-41E7-9926-F7E43EEBEC51}\\InprocServer32] 1729605798
+#time=1db248b25312ee4
+@="C:\\windows\\system32\\XAudio2_2.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{62BE5D10-60EB-11D0-BD3B-00A0C911CE86}] 1727104849
@@ -4690,6 +4726,15 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\qedit.dll"
 "ThreadingModel"="Both"
 
+[Software\\Classes\\CLSID\\{65d822a4-4799-42c6-9b18-d26cf66dd320}] 1729605792
+#time=1db248b220b9916
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{65d822a4-4799-42c6-9b18-d26cf66dd320}\\InProcServer32] 1729605792
+#time=1db248b220b9aba
+@="C:\\windows\\system32\\xactengine2_10.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\CLSID\\{667955AD-6B3B-43CA-B949-BC69B5BAFF7F}] 1727104849
 #time=1db0dcc2bbbdd70
 @="DirectPlay8LobbiedApplication Object"
@@ -4796,9 +4841,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cafbae4
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{6A93130E-1D53-41D1-A9CF-E758800BB179}\\InprocServer32] 1727104851
-#time=1db0dcc2cb3a564
-@="C:\\windows\\system32\\xaudio2_7.dll"
+[Software\\Classes\\CLSID\\{6A93130E-1D53-41D1-A9CF-E758800BB179}\\InprocServer32] 1729605806
+#time=1db248b2a0ea6ee
+@="C:\\windows\\system32\\XAudio2_7.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{6B2D6BA0-9F3E-4F27-920B-313CC426A39E}] 1727104850
@@ -4942,9 +4987,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cb03762
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{6F6EA3A9-2CF5-41CF-91C1-2170B1540063}\\InprocServer32] 1727104851
-#time=1db0dcc2cb03988
-@="C:\\windows\\system32\\xaudio2_0.dll"
+[Software\\Classes\\CLSID\\{6F6EA3A9-2CF5-41CF-91C1-2170B1540063}\\InprocServer32] 1729605794
+#time=1db248b234617f2
+@="C:\\windows\\system32\\XAudio2_0.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{6FDDC324-4E03-4BFE-B185-3D77768DC901}] 1727104853
@@ -5469,6 +5514,15 @@ WINE REGISTRY Version 2
 #time=1db0dcc2bf4886e
 @="C:\\windows\\system32\\mshtml.dll"
 "ThreadingModel"="Apartment"
+
+[Software\\Classes\\CLSID\\{77c56bf4-18a1-42b0-88af-5072ce814949}] 1729605790
+#time=1db248b20c131ce
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{77c56bf4-18a1-42b0-88af-5072ce814949}\\InProcServer32] 1729605790
+#time=1db248b20c133c2
+@="C:\\windows\\system32\\xactengine2_8.dll"
+"ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{77F10CF0-3DB5-4966-B520-B7C54FD35ED6}] 1727104850
 #time=1db0dcc2c57b27c
@@ -6371,9 +6425,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2caef280
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{8BB7778B-645B-4475-9A73-1DE3170BD3AF}\\InprocServer32] 1727104851
-#time=1db0dcc2cb22e3c
-@="C:\\windows\\system32\\xaudio2_4.dll"
+[Software\\Classes\\CLSID\\{8BB7778B-645B-4475-9A73-1DE3170BD3AF}\\InprocServer32] 1729605800
+#time=1db248b26c74fea
+@="C:\\windows\\system32\\XAudio2_4.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{8C7461EF-2B13-11D2-BE35-3078302C2030}] 1727104849
@@ -6572,18 +6626,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2b773ada
 @="SAPI.SpFileStream"
 
-[Software\\Classes\\CLSID\\{94C1AFFA-66E7-4961-9521-CFDEF3128D4F}] 1727104851
-#time=1db0dcc2cac0c64
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{94C1AFFA-66E7-4961-9521-CFDEF3128D4F}] 1729605798
+#time=1db248b25802bca
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{94C1AFFA-66E7-4961-9521-CFDEF3128D4F}\\InprocServer32] 1727104851
 #time=1db0dcc2cac0e94
 @="C:\\windows\\system32\\xactengine3_3.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\CLSID\\{962F5027-99BE-4692-A468-85802CF8DE61}] 1727104851
-#time=1db0dcc2cab3078
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{962F5027-99BE-4692-A468-85802CF8DE61}] 1729605796
+#time=1db248b240cd82e
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{962F5027-99BE-4692-A468-85802CF8DE61}\\InprocServer32] 1727104851
 #time=1db0dcc2cab32b2
@@ -6787,9 +6841,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cae8dfe
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{9CAB402C-1D37-44B4-886D-FA4F36170A4C}\\InprocServer32] 1727104851
-#time=1db0dcc2cb1b20e
-@="C:\\windows\\system32\\xaudio2_3.dll"
+[Software\\Classes\\CLSID\\{9CAB402C-1D37-44B4-886D-FA4F36170A4C}\\InprocServer32] 1729605798
+#time=1db248b25bb0d8a
+@="C:\\windows\\system32\\XAudio2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{9D148290-B9C8-11D0-A4CC-0000F80149F6}] 1727104849
@@ -7710,9 +7764,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cae1194
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{B802058A-464A-42DB-BC10-B650D6F2586A}\\InprocServer32] 1727104851
-#time=1db0dcc2cb12168
-@="C:\\windows\\system32\\xaudio2_2.dll"
+[Software\\Classes\\CLSID\\{B802058A-464A-42DB-BC10-B650D6F2586A}\\InprocServer32] 1729605798
+#time=1db248b2531220a
+@="C:\\windows\\system32\\XAudio2_2.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{B87BEB7B-8D29-423F-AE4D-6582C10175AC}] 1727104850
@@ -7809,18 +7863,18 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\mp3dmod.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\CLSID\\{BC3E0FC6-2E0D-4C45-BC61-D9C328319BD8}] 1727104851
-#time=1db0dcc2ca97a4e
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{BC3E0FC6-2E0D-4C45-BC61-D9C328319BD8}] 1729605787
+#time=1db248b1f080f60
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{BC3E0FC6-2E0D-4C45-BC61-D9C328319BD8}\\InprocServer32] 1727104851
 #time=1db0dcc2ca97c7e
 @="C:\\windows\\system32\\xactengine2_4.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\CLSID\\{BCC782BC-6492-4C22-8C35-F5D72FE73C6E}] 1727104851
-#time=1db0dcc2cadbfe6
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{BCC782BC-6492-4C22-8C35-F5D72FE73C6E}] 1729605805
+#time=1db248b29cf9c2e
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{BCC782BC-6492-4C22-8C35-F5D72FE73C6E}\\InprocServer32] 1727104851
 #time=1db0dcc2cadc216
@@ -7944,18 +7998,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cb02fb0
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{C0C56F46-29B1-44E9-9939-A32CE86867E2}\\InprocServer32] 1727104851
-#time=1db0dcc2cb031cc
-@="C:\\windows\\system32\\xaudio2_0.dll"
+[Software\\Classes\\CLSID\\{C0C56F46-29B1-44E9-9939-A32CE86867E2}\\InprocServer32] 1729605794
+#time=1db248b2346134c
+@="C:\\windows\\system32\\XAudio2_0.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{C1E3F122-A2EA-442C-854F-20D98F8357A1}] 1727104851
 #time=1db0dcc2cb0ac4c
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{C1E3F122-A2EA-442C-854F-20D98F8357A1}\\InprocServer32] 1727104851
-#time=1db0dcc2cb0aec2
-@="C:\\windows\\system32\\xaudio2_1.dll"
+[Software\\Classes\\CLSID\\{C1E3F122-A2EA-442C-854F-20D98F8357A1}\\InprocServer32] 1729605796
+#time=1db248b24445b0a
+@="C:\\windows\\system32\\XAudio2_1.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{C1EE01F2-B3B6-4A6A-9DDD-E988C088EC82}] 1727104850
@@ -8009,6 +8063,15 @@ WINE REGISTRY Version 2
 [Software\\Classes\\CLSID\\{C2E88C2F-6F5B-4AAA-894B-55C847AD3A2D}\\VersionIndependentProgId] 1727104851
 #time=1db0dcc2c9cd802
 @="Microsoft.Update.AgentInfo"
+
+[Software\\Classes\\CLSID\\{c60fae90-4183-4a3f-b2f7-ac1dc49b0e5c}] 1729605786
+#time=1db248b1e4beae2
+@="XACT Engine"
+
+[Software\\Classes\\CLSID\\{c60fae90-4183-4a3f-b2f7-ac1dc49b0e5c}\\InProcServer32] 1729605786
+#time=1db248b1e4bed3a
+@="C:\\windows\\system32\\xactengine2_2.dll"
+"ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{C61BFCDF-2E0F-4AAD-A8D7-E06BAFEBCDFE}] 1727104853
 #time=1db0dcc2e1b5456
@@ -8067,9 +8130,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2caeeaf6
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{C7338B95-52B8-4542-AA79-42EB016C8C1C}\\InprocServer32] 1727104851
-#time=1db0dcc2cb226e4
-@="C:\\windows\\system32\\xaudio2_4.dll"
+[Software\\Classes\\CLSID\\{C7338B95-52B8-4542-AA79-42EB016C8C1C}\\InprocServer32] 1729605800
+#time=1db248b26c746bc
+@="C:\\windows\\system32\\XAudio2_4.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{C8B522CB-5CF3-11CE-ADE5-00AA0044773D}] 1727104849
@@ -8149,9 +8212,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cafb378
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{CAC1105F-619B-4D04-831A-44E1CBF12D57}\\InprocServer32] 1727104851
-#time=1db0dcc2cb39e02
-@="C:\\windows\\system32\\xaudio2_7.dll"
+[Software\\Classes\\CLSID\\{CAC1105F-619B-4D04-831A-44E1CBF12D57}\\InprocServer32] 1729605806
+#time=1db248b2a0ea27a
+@="C:\\windows\\system32\\XAudio2_7.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{CACAF262-9370-4615-A13B-9F5539DA4C0A}] 1727104850
@@ -8224,9 +8287,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2d451ab2
 "WantsFORPARSING"=""
 
-[Software\\Classes\\CLSID\\{CD0D66EC-8057-43F5-ACBD-66DFB36FD78C}] 1727104851
-#time=1db0dcc2ca9e6e6
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{CD0D66EC-8057-43F5-ACBD-66DFB36FD78C}] 1729605789
+#time=1db248b202d88de
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{CD0D66EC-8057-43F5-ACBD-66DFB36FD78C}\\InprocServer32] 1727104851
 #time=1db0dcc2ca9e916
@@ -8246,9 +8309,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2caf55b8
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{CECEC95A-D894-491A-BEE3-5E106FB59F2D}\\InprocServer32] 1727104851
-#time=1db0dcc2cb3288c
-@="C:\\windows\\system32\\xaudio2_6.dll"
+[Software\\Classes\\CLSID\\{CECEC95A-D894-491A-BEE3-5E106FB59F2D}\\InprocServer32] 1729605804
+#time=1db248b28e74bb8
+@="C:\\windows\\system32\\XAudio2_6.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}] 1727104850
@@ -8294,9 +8357,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cb2aaec
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{D06DF0D0-8518-441E-822F-5451D5C595B8}\\InprocServer32] 1727104851
-#time=1db0dcc2cb2ad12
-@="C:\\windows\\system32\\xaudio2_5.dll"
+[Software\\Classes\\CLSID\\{D06DF0D0-8518-441E-822F-5451D5C595B8}\\InprocServer32] 1729605803
+#time=1db248b2869b630
+@="C:\\windows\\system32\\XAudio2_5.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{D1EB6D20-8923-11D0-9D97-00A0C90A43CB}] 1727104849
@@ -8690,9 +8753,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2bb4c814
 @="Microsoft.DirectMusicTemplate"
 
-[Software\\Classes\\CLSID\\{D3332F02-3DD0-4DE9-9AEC-20D85C4111B6}] 1727104851
-#time=1db0dcc2cab9f04
-@="XACTEngine"
+[Software\\Classes\\CLSID\\{D3332F02-3DD0-4DE9-9AEC-20D85C4111B6}] 1729605797
+#time=1db248b24f4b158
+@="XACT Engine"
 
 [Software\\Classes\\CLSID\\{D3332F02-3DD0-4DE9-9AEC-20D85C4111B6}\\InprocServer32] 1727104851
 #time=1db0dcc2caba134
@@ -9033,18 +9096,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cae8688
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{E180344B-AC83-4483-959E-18A5C56A5E19}\\InprocServer32] 1727104851
-#time=1db0dcc2cb1aaca
-@="C:\\windows\\system32\\xaudio2_3.dll"
+[Software\\Classes\\CLSID\\{E180344B-AC83-4483-959E-18A5C56A5E19}\\InprocServer32] 1729605798
+#time=1db248b25bb0920
+@="C:\\windows\\system32\\XAudio2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{E21A7345-EB21-468E-BE50-804DB97CF708}] 1727104851
 #time=1db0dcc2cb0a1a2
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{E21A7345-EB21-468E-BE50-804DB97CF708}\\InprocServer32] 1727104851
-#time=1db0dcc2cb0a3d2
-@="C:\\windows\\system32\\xaudio2_1.dll"
+[Software\\Classes\\CLSID\\{E21A7345-EB21-468E-BE50-804DB97CF708}\\InprocServer32] 1729605796
+#time=1db248b2444568c
+@="C:\\windows\\system32\\XAudio2_1.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{E22AD333-B25F-460C-83D0-0581107395C9}] 1727104850
@@ -9178,9 +9241,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2caf4e56
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{E48C5A3F-93EF-43BB-A092-2C7CEB946F27}\\InprocServer32] 1727104851
-#time=1db0dcc2cb3215c
-@="C:\\windows\\system32\\xaudio2_6.dll"
+[Software\\Classes\\CLSID\\{E48C5A3F-93EF-43BB-A092-2C7CEB946F27}\\InprocServer32] 1729605804
+#time=1db248b28e74758
+@="C:\\windows\\system32\\XAudio2_6.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{E4BCAC13-7F99-4908-9A8E-74E3BF24B6E1}] 1727104849
@@ -9688,9 +9751,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cb0b426
 @="AudioReverb"
 
-[Software\\Classes\\CLSID\\{F4769300-B949-4DF9-B333-00D33932E9A6}\\InprocServer32] 1727104851
-#time=1db0dcc2cb0b64c
-@="C:\\windows\\system32\\xaudio2_1.dll"
+[Software\\Classes\\CLSID\\{F4769300-B949-4DF9-B333-00D33932E9A6}\\InprocServer32] 1729605796
+#time=1db248b244460a0
+@="C:\\windows\\system32\\XAudio2_1.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{F5078F19-C551-11D3-89B9-0000F81FE221}] 1727104848
@@ -10027,9 +10090,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cae1c48
 @="AudioVolumeMeter"
 
-[Software\\Classes\\CLSID\\{F5CA7B34-8055-42C0-B836-216129EB7E30}\\InprocServer32] 1727104851
-#time=1db0dcc2cb12be0
-@="C:\\windows\\system32\\xaudio2_2.dll"
+[Software\\Classes\\CLSID\\{F5CA7B34-8055-42C0-B836-216129EB7E30}\\InprocServer32] 1729605798
+#time=1db248b253129a8
+@="C:\\windows\\system32\\XAudio2_2.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{F6D90F11-9C73-11D3-B32E-00C04F990BB4}] 1727104848
@@ -10222,9 +10285,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2cb024fc
 @="XAudio2"
 
-[Software\\Classes\\CLSID\\{FAC23F48-31F5-45A8-B49B-5225D61401AA}\\InprocServer32] 1727104851
-#time=1db0dcc2cb02736
-@="C:\\windows\\system32\\xaudio2_0.dll"
+[Software\\Classes\\CLSID\\{FAC23F48-31F5-45A8-B49B-5225D61401AA}\\InprocServer32] 1729605794
+#time=1db248b23460dfc
+@="C:\\windows\\system32\\XAudio2_0.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\CLSID\\{FAC23F48-31F5-45A8-B49B-5225D61401DB}] 1727104851
@@ -11132,9 +11195,103 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e39c300
 @="\"C:\\windows\\system32\\notepad.exe\" /p \"%1\""
 
+[Software\\Classes\\Installer\\Features\\1926E8D15D0BCE53481466615F760A7F] 1729605777
+#time=1db248b18b87d7a
+"FT_VCRedist_x64_KB2565063_Detection"=""
+"KB2151757"="Servicing_Key"
+"KB2467173"="Servicing_Key"
+"KB2524860"="Servicing_Key"
+"KB2544655"="Servicing_Key"
+"KB2549743"="Servicing_Key"
+"KB2565063"="Servicing_Key"
+"KB982573"="Servicing_Key"
+"Servicing_Key"=""
+"VC_RED_enu_amd64_net_SETUP"=""
+"VCRedist_amd64_enu"=""
+
+[Software\\Classes\\Installer\\Features\\1D5E3C0FEDA1E123187686FED06E995A] 1729605773
+#time=1db248b168cb764
+"FT_VCRedist_x86_KB2565063_Detection"=""
+"KB2151757"="Servicing_Key"
+"KB2467173"="Servicing_Key"
+"KB2524860"="Servicing_Key"
+"KB2544655"="Servicing_Key"
+"KB2549743"="Servicing_Key"
+"KB2565063"="Servicing_Key"
+"KB982573"="Servicing_Key"
+"Servicing_Key"=""
+"VC_RED_enu_x86_net_SETUP"=""
+"VCRedist_x86_enu"=""
+
 [Software\\Classes\\Installer\\Features\\8562C6DAB98B94B55B0E899A9D859F82] 1727104853
 #time=1db0dcc2de4508c
 "wine_mono"=""
+
+[Software\\Classes\\Installer\\Products\\1926E8D15D0BCE53481466615F760A7F] 1729605777
+#time=1db248b18b97d9c
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=str(7):":\0"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="D2F20908FE1EAC343B66479416790E40"
+"ProductName"="Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219"
+"Version"=dword:0a009d1b
+
+[Software\\Classes\\Installer\\Products\\1926E8D15D0BCE53481466615F760A7F\\Patches] 1729605777
+#time=1db248b18b96c30
+"4D54076CED4F5BA32BBD3E5FAD1CD4C9"=":SP1.1;:#SP1.1"
+"Patches"=str(7):"4D54076CED4F5BA32BBD3E5FAD1CD4C9\0"
+
+[Software\\Classes\\Installer\\Products\\1926E8D15D0BCE53481466615F760A7F\\SourceList] 1729605777
+#time=1db248b18b991ba
+"LastUsedSource"="n;1;e:\\842515e6b69a6e8b26c72049b0\\"
+"PackageName"="vc_red.msi"
+
+[Software\\Classes\\Installer\\Products\\1926E8D15D0BCE53481466615F760A7F\\SourceList\\Media] 1729605777
+#time=1db248b18b9976e
+"1"=";1"
+"32000"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Classes\\Installer\\Products\\1926E8D15D0BCE53481466615F760A7F\\SourceList\\Net] 1729605777
+#time=1db248b18b988e6
+"1"=str(2):"e:\\842515e6b69a6e8b26c72049b0\\"
+
+[Software\\Classes\\Installer\\Products\\1D5E3C0FEDA1E123187686FED06E995A] 1729605773
+#time=1db248b168df188
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=str(7):":\0"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="E554C16404AD3B9478B14103C87CECFF"
+"ProductName"="Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+"Version"=dword:0a009d1b
+
+[Software\\Classes\\Installer\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\Patches] 1729605773
+#time=1db248b168ddad6
+"2D0058F6F08A743309184BE1178C95B2"=":SP1.1;:#SP1.1"
+"Patches"=str(7):"2D0058F6F08A743309184BE1178C95B2\0"
+
+[Software\\Classes\\Installer\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\SourceList] 1729605773
+#time=1db248b168e0a7e
+"LastUsedSource"="n;1;e:\\3c95252c9a17b2f07b539bd135\\"
+"PackageName"="vc_red.msi"
+
+[Software\\Classes\\Installer\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\SourceList\\Media] 1729605773
+#time=1db248b168e10b4
+"1"=";1"
+"32000"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Classes\\Installer\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\SourceList\\Net] 1729605773
+#time=1db248b168e00f6
+"1"=str(2):"e:\\3c95252c9a17b2f07b539bd135\\"
 
 [Software\\Classes\\Installer\\Products\\1F3B805BA42A0C233B0158879691FE82] 1727104853
 #time=1db0dcc2dd1c2e6
@@ -11169,9 +11326,17 @@ WINE REGISTRY Version 2
 [Software\\Classes\\Installer\\Products\\DC3BF90CC0D3D2F398A9A6D1762F70F3] 1727104853
 #time=1db0dcc2dd5362e
 
+[Software\\Classes\\Installer\\UpgradeCodes\\167F57B58CABCB333A1864D4DD8D313A] 1729605777
+#time=1db248b18b97414
+"1926E8D15D0BCE53481466615F760A7F"=""
+
 [Software\\Classes\\Installer\\UpgradeCodes\\906426ED5B6CA6842947FEB058F4B65C] 1727104853
 #time=1db0dcc2de476de
 "8562C6DAB98B94B55B0E899A9D859F82"=""
+
+[Software\\Classes\\Installer\\UpgradeCodes\\A2D1F4F1AD9DFC2399908484D50AD65D] 1729605773
+#time=1db248b168de2c4
+"1D5E3C0FEDA1E123187686FED06E995A"=""
 
 [Software\\Classes\\Interface\\{00000000-0000-0000-C000-000000000046}] 1727104850
 #time=1db0dcc2c2fc2d0
@@ -35088,8 +35253,8 @@ WINE REGISTRY Version 2
   74,00,77,00,61,00,72,00,65,00,5c,00,43,00,6c,00,61,00,73,00,73,00,65,00,73,\
   00,5c,00,41,00,70,00,70,00,49,00,64,00
 
-[Software\\Classes\\Wow6432Node\\CLSID] 1727104856
-#time=1db0dcc3027b3a2
+[Software\\Classes\\Wow6432Node\\CLSID] 1729605792
+#time=1db248b21e680fe
 @="ClassMoniker"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\CLSID] 1727104855
@@ -35687,9 +35852,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd5ef4a
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{03219E78-5BC3-44D1-B92E-F63D89CC6526}\\InprocServer32] 1727104856
-#time=1db0dcc2fd8d2be
-@="C:\\windows\\system32\\xaudio2_4.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{03219E78-5BC3-44D1-B92E-F63D89CC6526}\\InprocServer32] 1729605800
+#time=1db248b269613e4
+@="C:\\windows\\system32\\XAudio2_4.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{03C036F1-A186-11D0-824A-00AA005B4383}] 1727104854
@@ -35823,9 +35988,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2f7e4ed4
 @="1.0"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{074B110F-7F58-4743-AEA5-12F15B5074ED}] 1727104856
-#time=1db0dcc2fd42dae
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{074B110F-7F58-4743-AEA5-12F15B5074ED}] 1729605802
+#time=1db248b28109d20
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{074B110F-7F58-4743-AEA5-12F15B5074ED}\\InprocServer32] 1727104856
 #time=1db0dcc2fd42fe8
@@ -36131,18 +36296,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fc9b266
 @="WScript.Network"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{0977D092-2D95-4E43-8D42-9DDCC2545ED5}] 1727104856
-#time=1db0dcc2fd3ce22
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{0977D092-2D95-4E43-8D42-9DDCC2545ED5}] 1729605800
+#time=1db248b265fc99c
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{0977D092-2D95-4E43-8D42-9DDCC2545ED5}\\InprocServer32] 1727104856
 #time=1db0dcc2fd3d05c
 @="C:\\windows\\system32\\xactengine3_4.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{0AA000AA-F404-11D9-BD7A-0010DC4F8F81}] 1727104856
-#time=1db0dcc2fd0d348
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{0AA000AA-F404-11D9-BD7A-0010DC4F8F81}] 1729605784
+#time=1db248b1cfa465c
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{0AA000AA-F404-11D9-BD7A-0010DC4F8F81}\\InprocServer32] 1727104856
 #time=1db0dcc2fd0d58c
@@ -36367,6 +36532,15 @@ WINE REGISTRY Version 2
 [Software\\Classes\\Wow6432Node\\CLSID\\{11275A82-5E5A-47FD-A01C-3683C12FB196}\\InprocServer32] 1727104856
 #time=1db0dcc2fb8958a
 @="C:\\windows\\system32\\winegstreamer.dll"
+"ThreadingModel"="Both"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{1138472b-d187-44e9-81f2-ae1b0e7785f1}] 1729605786
+#time=1db248b1e6f893e
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{1138472b-d187-44e9-81f2-ae1b0e7785f1}\\InProcServer32] 1729605786
+#time=1db248b1e6f8b50
+@="C:\\windows\\system32\\xactengine2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{114F5598-0B22-40A0-86A1-C83EA495ADBD}] 1727104856
@@ -36696,6 +36870,15 @@ WINE REGISTRY Version 2
 #time=1db0dcc2f2dd288
 @="CLRMetaData.CorMetaDataDispenserRuntime"
 
+[Software\\Classes\\Wow6432Node\\CLSID\\{1f1b577e-5e5a-4e8a-ba73-c657ea8e8598}] 1729605785
+#time=1db248b1dd03924
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{1f1b577e-5e5a-4e8a-ba73-c657ea8e8598}\\InProcServer32] 1729605785
+#time=1db248b1dd03bb8
+@="C:\\windows\\system32\\xactengine2_1.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\Wow6432Node\\CLSID\\{2048EEE6-7FA2-11D0-9E6A-00A0C9138C29}] 1727104854
 #time=1db0dcc2ea34852
 @="OLE DB Row Position Library"
@@ -36757,9 +36940,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd94cb2
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{2139E6DA-C341-4774-9AC3-B4E026347F64}\\InprocServer32] 1727104856
-#time=1db0dcc2fd94ece
-@="C:\\windows\\system32\\xaudio2_5.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{2139E6DA-C341-4774-9AC3-B4E026347F64}\\InprocServer32] 1729605803
+#time=1db248b283f249c
+@="C:\\windows\\system32\\XAudio2_5.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{21EC2020-3AEA-1069-A2DD-08002B30309D}] 1727104856
@@ -36859,9 +37042,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2ebaca9a
 @="LDAPNamespace"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{248D8A3B-6256-44D3-A018-2AC96C459F47}] 1727104856
-#time=1db0dcc2fd48c0e
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{248D8A3B-6256-44D3-A018-2AC96C459F47}] 1729605803
+#time=1db248b28899f04
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{248D8A3B-6256-44D3-A018-2AC96C459F47}\\InprocServer32] 1727104856
 #time=1db0dcc2fd48e52
@@ -37862,9 +38045,9 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\devenum.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{343E68E6-8F82-4A8D-A2DA-6E9A944B378C}] 1727104856
-#time=1db0dcc2fd1f0e8
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{343E68E6-8F82-4A8D-A2DA-6E9A944B378C}] 1729605791
+#time=1db248b21307d9a
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{343E68E6-8F82-4A8D-A2DA-6E9A944B378C}\\InprocServer32] 1727104856
 #time=1db0dcc2fd1f32c
@@ -38139,6 +38322,15 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e8b7a38
 @="SAPI.SpObjectTokenEnum"
 
+[Software\\Classes\\Wow6432Node\\CLSID\\{3a2495ce-31d0-435b-8ccf-e9f0843fd960}] 1729605788
+#time=1db248b1f913664
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{3a2495ce-31d0-435b-8ccf-e9f0843fd960}\\InProcServer32] 1729605788
+#time=1db248b1f913830
+@="C:\\windows\\system32\\xactengine2_6.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\Wow6432Node\\CLSID\\{3AD05575-8857-4850-9277-11B85BDB8E09}] 1727104855
 #time=1db0dcc2f8888d6
 @="Copy/Move/Rename/Delete/Link Object"
@@ -38165,9 +38357,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2eec6f5a
 @="DirectPlay8Lobby.LobbyClient"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{3B80EE2A-B0F5-4780-9E30-90CB39685B03}] 1727104856
-#time=1db0dcc2fd25024
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{3B80EE2A-B0F5-4780-9E30-90CB39685B03}] 1729605794
+#time=1db248b22e3db96
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{3B80EE2A-B0F5-4780-9E30-90CB39685B03}\\InprocServer32] 1727104856
 #time=1db0dcc2fd2524a
@@ -38281,9 +38473,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd6492c
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{3EDA9B49-2085-498B-9BB2-39A6778493DE}\\InprocServer32] 1727104856
-#time=1db0dcc2fd9b3b4
-@="C:\\windows\\system32\\xaudio2_6.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{3EDA9B49-2085-498B-9BB2-39A6778493DE}\\InprocServer32] 1729605803
+#time=1db248b28bb049a
+@="C:\\windows\\system32\\XAudio2_6.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{3F037241-414E-11D1-A7CE-00A0C913F73C}] 1727104854
@@ -38675,18 +38867,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd59342
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{4C5E637A-16C7-4DE3-9C46-5ED22181962D}\\InprocServer32] 1727104856
-#time=1db0dcc2fd8640a
-@="C:\\windows\\system32\\xaudio2_3.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{4C5E637A-16C7-4DE3-9C46-5ED22181962D}\\InprocServer32] 1729605798
+#time=1db248b258a97c2
+@="C:\\windows\\system32\\XAudio2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{4C9B6DDE-6809-46E6-A278-9B6A97588670}] 1727104856
 #time=1db0dcc2fd941fe
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{4C9B6DDE-6809-46E6-A278-9B6A97588670}\\InprocServer32] 1727104856
-#time=1db0dcc2fd94442
-@="C:\\windows\\system32\\xaudio2_5.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{4C9B6DDE-6809-46E6-A278-9B6A97588670}\\InprocServer32] 1729605803
+#time=1db248b283f1fb0
+@="C:\\windows\\system32\\XAudio2_5.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{4CB43D7F-7EEE-4906-8698-60DA1C38F2FE}] 1727104856
@@ -38874,6 +39066,15 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\shell32.dll"
 "ThreadingModel"="Apartment"
 
+[Software\\Classes\\Wow6432Node\\CLSID\\{54b68bc7-3a45-416b-a8c9-19bf19ec1df5}] 1729605788
+#time=1db248b1f64b148
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{54b68bc7-3a45-416b-a8c9-19bf19ec1df5}\\InProcServer32] 1729605788
+#time=1db248b1f64b328
+@="C:\\windows\\system32\\xactengine2_5.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\Wow6432Node\\CLSID\\{54E211B6-3650-4F75-8334-FA359598E1C5}] 1727104854
 #time=1db0dcc2ee33840
 @="DirectManipulationManager"
@@ -39024,9 +39225,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd6a5ca
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{5A508685-A254-4FBA-9B82-9A24B00306AF}\\InprocServer32] 1727104856
-#time=1db0dcc2fda2376
-@="C:\\windows\\system32\\xaudio2_7.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{5A508685-A254-4FBA-9B82-9A24B00306AF}\\InprocServer32] 1729605805
+#time=1db248b29dad1fc
+@="C:\\windows\\system32\\XAudio2_7.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{5A580C11-E5EB-11D1-A86E-0000F8084F96}] 1727104855
@@ -39123,9 +39324,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd54af4
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{629CF0DE-3ECC-41E7-9926-F7E43EEBEC51}\\InprocServer32] 1727104856
-#time=1db0dcc2fd80668
-@="C:\\windows\\system32\\xaudio2_2.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{629CF0DE-3ECC-41E7-9926-F7E43EEBEC51}\\InprocServer32] 1729605797
+#time=1db248b24ffa518
+@="C:\\windows\\system32\\XAudio2_2.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{62BE5D10-60EB-11D0-BD3B-00A0C911CE86}] 1727104854
@@ -39247,6 +39448,15 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\qedit.dll"
 "ThreadingModel"="Both"
 
+[Software\\Classes\\Wow6432Node\\CLSID\\{65d822a4-4799-42c6-9b18-d26cf66dd320}] 1729605792
+#time=1db248b21e68360
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{65d822a4-4799-42c6-9b18-d26cf66dd320}\\InProcServer32] 1729605792
+#time=1db248b21e68590
+@="C:\\windows\\system32\\xactengine2_10.dll"
+"ThreadingModel"="Both"
+
 [Software\\Classes\\Wow6432Node\\CLSID\\{667955AD-6B3B-43CA-B949-BC69B5BAFF7F}] 1727104854
 #time=1db0dcc2eec62d0
 @="DirectPlay8LobbiedApplication Object"
@@ -39353,9 +39563,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd6b786
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{6A93130E-1D53-41D1-A9CF-E758800BB179}\\InprocServer32] 1727104856
-#time=1db0dcc2fda34d8
-@="C:\\windows\\system32\\xaudio2_7.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{6A93130E-1D53-41D1-A9CF-E758800BB179}\\InprocServer32] 1729605805
+#time=1db248b29dadc10
+@="C:\\windows\\system32\\XAudio2_7.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{6B2D6BA0-9F3E-4F27-920B-313CC426A39E}] 1727104855
@@ -39499,9 +39709,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd7272a
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{6F6EA3A9-2CF5-41CF-91C1-2170B1540063}\\InprocServer32] 1727104856
-#time=1db0dcc2fd7293c
-@="C:\\windows\\system32\\xaudio2_0.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{6F6EA3A9-2CF5-41CF-91C1-2170B1540063}\\InprocServer32] 1729605794
+#time=1db248b2317d9aa
+@="C:\\windows\\system32\\XAudio2_0.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{6FDDC324-4E03-4BFE-B185-3D77768DC901}] 1727104856
@@ -40026,6 +40236,15 @@ WINE REGISTRY Version 2
 #time=1db0dcc2f353ba4
 @="C:\\windows\\system32\\mshtml.dll"
 "ThreadingModel"="Apartment"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{77c56bf4-18a1-42b0-88af-5072ce814949}] 1729605790
+#time=1db248b209c569c
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{77c56bf4-18a1-42b0-88af-5072ce814949}\\InProcServer32] 1729605790
+#time=1db248b209c5890
+@="C:\\windows\\system32\\xactengine2_8.dll"
+"ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{77F10CF0-3DB5-4966-B520-B7C54FD35ED6}] 1727104855
 #time=1db0dcc2f887a1c
@@ -40928,9 +41147,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd6012e
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{8BB7778B-645B-4475-9A73-1DE3170BD3AF}\\InprocServer32] 1727104856
-#time=1db0dcc2fd8e510
-@="C:\\windows\\system32\\xaudio2_4.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{8BB7778B-645B-4475-9A73-1DE3170BD3AF}\\InprocServer32] 1729605800
+#time=1db248b26961eac
+@="C:\\windows\\system32\\XAudio2_4.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{8C7461EF-2B13-11D2-BE35-3078302C2030}] 1727104854
@@ -41129,18 +41348,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e8bacec
 @="SAPI.SpFileStream"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{94C1AFFA-66E7-4961-9521-CFDEF3128D4F}] 1727104856
-#time=1db0dcc2fd36ebe
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{94C1AFFA-66E7-4961-9521-CFDEF3128D4F}] 1729605798
+#time=1db248b2554a144
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{94C1AFFA-66E7-4961-9521-CFDEF3128D4F}\\InprocServer32] 1727104856
 #time=1db0dcc2fd37102
 @="C:\\windows\\system32\\xactengine3_3.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{962F5027-99BE-4692-A468-85802CF8DE61}] 1727104856
-#time=1db0dcc2fd2af2e
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{962F5027-99BE-4692-A468-85802CF8DE61}] 1729605795
+#time=1db248b23e19fba
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{962F5027-99BE-4692-A468-85802CF8DE61}\\InprocServer32] 1727104856
 #time=1db0dcc2fd2b15e
@@ -41344,9 +41563,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd5a512
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{9CAB402C-1D37-44B4-886D-FA4F36170A4C}\\InprocServer32] 1727104856
-#time=1db0dcc2fd8756c
-@="C:\\windows\\system32\\xaudio2_3.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{9CAB402C-1D37-44B4-886D-FA4F36170A4C}\\InprocServer32] 1729605798
+#time=1db248b258aa29e
+@="C:\\windows\\system32\\XAudio2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{9D148290-B9C8-11D0-A4CC-0000F80149F6}] 1727104855
@@ -42267,9 +42486,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd5394c
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{B802058A-464A-42DB-BC10-B650D6F2586A}\\InprocServer32] 1727104856
-#time=1db0dcc2fd7f524
-@="C:\\windows\\system32\\xaudio2_2.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{B802058A-464A-42DB-BC10-B650D6F2586A}\\InprocServer32] 1729605797
+#time=1db248b24ff9974
+@="C:\\windows\\system32\\XAudio2_2.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{B87BEB7B-8D29-423F-AE4D-6582C10175AC}] 1727104855
@@ -42366,18 +42585,18 @@ WINE REGISTRY Version 2
 @="C:\\windows\\system32\\mp3dmod.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{BC3E0FC6-2E0D-4C45-BC61-D9C328319BD8}] 1727104856
-#time=1db0dcc2fd13310
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{BC3E0FC6-2E0D-4C45-BC61-D9C328319BD8}] 1729605787
+#time=1db248b1ed95076
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{BC3E0FC6-2E0D-4C45-BC61-D9C328319BD8}\\InprocServer32] 1727104856
 #time=1db0dcc2fd13540
 @="C:\\windows\\system32\\xactengine2_4.dll"
 "ThreadingModel"="Both"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{BCC782BC-6492-4C22-8C35-F5D72FE73C6E}] 1727104856
-#time=1db0dcc2fd4ecf8
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{BCC782BC-6492-4C22-8C35-F5D72FE73C6E}] 1729605805
+#time=1db248b29a1c9c0
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{BCC782BC-6492-4C22-8C35-F5D72FE73C6E}\\InprocServer32] 1727104856
 #time=1db0dcc2fd4ef28
@@ -42501,18 +42720,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd71fe6
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{C0C56F46-29B1-44E9-9939-A32CE86867E2}\\InprocServer32] 1727104856
-#time=1db0dcc2fd7220c
-@="C:\\windows\\system32\\xaudio2_0.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{C0C56F46-29B1-44E9-9939-A32CE86867E2}\\InprocServer32] 1729605794
+#time=1db248b2317d464
+@="C:\\windows\\system32\\XAudio2_0.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{C1E3F122-A2EA-442C-854F-20D98F8357A1}] 1727104856
 #time=1db0dcc2fd78f30
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{C1E3F122-A2EA-442C-854F-20D98F8357A1}\\InprocServer32] 1727104856
-#time=1db0dcc2fd79160
-@="C:\\windows\\system32\\xaudio2_1.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{C1E3F122-A2EA-442C-854F-20D98F8357A1}\\InprocServer32] 1729605796
+#time=1db248b24153190
+@="C:\\windows\\system32\\XAudio2_1.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{C1EE01F2-B3B6-4A6A-9DDD-E988C088EC82}] 1727104855
@@ -42566,6 +42785,15 @@ WINE REGISTRY Version 2
 [Software\\Classes\\Wow6432Node\\CLSID\\{C2E88C2F-6F5B-4AAA-894B-55C847AD3A2D}\\VersionIndependentProgId] 1727104856
 #time=1db0dcc2fcd9462
 @="Microsoft.Update.AgentInfo"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{c60fae90-4183-4a3f-b2f7-ac1dc49b0e5c}] 1729605786
+#time=1db248b1e1f3df8
+@="XACT Engine"
+
+[Software\\Classes\\Wow6432Node\\CLSID\\{c60fae90-4183-4a3f-b2f7-ac1dc49b0e5c}\\InProcServer32] 1729605786
+#time=1db248b1e1f400a
+@="C:\\windows\\system32\\xactengine2_2.dll"
+"ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{C61BFCDF-2E0F-4AAD-A8D7-E06BAFEBCDFE}] 1727104856
 #time=1db0dcc3023c292
@@ -42624,9 +42852,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd5f9fe
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{C7338B95-52B8-4542-AA79-42EB016C8C1C}\\InprocServer32] 1727104856
-#time=1db0dcc2fd8ddd6
-@="C:\\windows\\system32\\xaudio2_4.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{C7338B95-52B8-4542-AA79-42EB016C8C1C}\\InprocServer32] 1729605800
+#time=1db248b26961966
+@="C:\\windows\\system32\\XAudio2_4.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{C8B522CB-5CF3-11CE-ADE5-00AA0044773D}] 1727104854
@@ -42706,9 +42934,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd6b04c
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{CAC1105F-619B-4D04-831A-44E1CBF12D57}\\InprocServer32] 1727104856
-#time=1db0dcc2fda2dd0
-@="C:\\windows\\system32\\xaudio2_7.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{CAC1105F-619B-4D04-831A-44E1CBF12D57}\\InprocServer32] 1729605805
+#time=1db248b29dad76a
+@="C:\\windows\\system32\\XAudio2_7.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{CACAF262-9370-4615-A13B-9F5539DA4C0A}] 1727104856
@@ -42781,9 +43009,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2ffecf28
 "WantsFORPARSING"=""
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{CD0D66EC-8057-43F5-ACBD-66DFB36FD78C}] 1727104856
-#time=1db0dcc2fd1927e
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{CD0D66EC-8057-43F5-ACBD-66DFB36FD78C}] 1729605789
+#time=1db248b200bac0a
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{CD0D66EC-8057-43F5-ACBD-66DFB36FD78C}\\InprocServer32] 1727104856
 #time=1db0dcc2fd194a4
@@ -42803,9 +43031,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd65af2
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{CECEC95A-D894-491A-BEE3-5E106FB59F2D}\\InprocServer32] 1727104856
-#time=1db0dcc2fd9c502
-@="C:\\windows\\system32\\xaudio2_6.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{CECEC95A-D894-491A-BEE3-5E106FB59F2D}\\InprocServer32] 1729605803
+#time=1db248b28bb0ca6
+@="C:\\windows\\system32\\XAudio2_6.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}] 1727104855
@@ -42851,9 +43079,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd953e2
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{D06DF0D0-8518-441E-822F-5451D5C595B8}\\InprocServer32] 1727104856
-#time=1db0dcc2fd95608
-@="C:\\windows\\system32\\xaudio2_5.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{D06DF0D0-8518-441E-822F-5451D5C595B8}\\InprocServer32] 1729605803
+#time=1db248b283f2898
+@="C:\\windows\\system32\\XAudio2_5.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{D1EB6D20-8923-11D0-9D97-00A0C90A43CB}] 1727104854
@@ -43247,9 +43475,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2ee5164c
 @="Microsoft.DirectMusicTemplate"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{D3332F02-3DD0-4DE9-9AEC-20D85C4111B6}] 1727104856
-#time=1db0dcc2fd30ea6
-@="XACTEngine"
+[Software\\Classes\\Wow6432Node\\CLSID\\{D3332F02-3DD0-4DE9-9AEC-20D85C4111B6}] 1729605797
+#time=1db248b24c98884
+@="XACT Engine"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{D3332F02-3DD0-4DE9-9AEC-20D85C4111B6}\\InprocServer32] 1727104856
 #time=1db0dcc2fd310e0
@@ -43590,18 +43818,18 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd59dce
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{E180344B-AC83-4483-959E-18A5C56A5E19}\\InprocServer32] 1727104856
-#time=1db0dcc2fd86e50
-@="C:\\windows\\system32\\xaudio2_3.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{E180344B-AC83-4483-959E-18A5C56A5E19}\\InprocServer32] 1729605798
+#time=1db248b258a9d4e
+@="C:\\windows\\system32\\XAudio2_3.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{E21A7345-EB21-468E-BE50-804DB97CF708}] 1727104856
 #time=1db0dcc2fd7845e
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{E21A7345-EB21-468E-BE50-804DB97CF708}\\InprocServer32] 1727104856
-#time=1db0dcc2fd78698
-@="C:\\windows\\system32\\xaudio2_1.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{E21A7345-EB21-468E-BE50-804DB97CF708}\\InprocServer32] 1729605796
+#time=1db248b24152a88
+@="C:\\windows\\system32\\XAudio2_1.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{E22AD333-B25F-460C-83D0-0581107395C9}] 1727104856
@@ -43735,9 +43963,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd653b8
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{E48C5A3F-93EF-43BB-A092-2C7CEB946F27}\\InprocServer32] 1727104856
-#time=1db0dcc2fd9bde6
-@="C:\\windows\\system32\\xaudio2_6.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{E48C5A3F-93EF-43BB-A092-2C7CEB946F27}\\InprocServer32] 1729605803
+#time=1db248b28bb08b4
+@="C:\\windows\\system32\\XAudio2_6.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{E4BCAC13-7F99-4908-9A8E-74E3BF24B6E1}] 1727104854
@@ -44245,9 +44473,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd7967e
 @="AudioReverb"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{F4769300-B949-4DF9-B333-00D33932E9A6}\\InprocServer32] 1727104856
-#time=1db0dcc2fd798a4
-@="C:\\windows\\system32\\xaudio2_1.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{F4769300-B949-4DF9-B333-00D33932E9A6}\\InprocServer32] 1729605796
+#time=1db248b241536fe
+@="C:\\windows\\system32\\XAudio2_1.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{F5078F19-C551-11D3-89B9-0000F81FE221}] 1727104854
@@ -44584,9 +44812,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd543ba
 @="AudioVolumeMeter"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{F5CA7B34-8055-42C0-B836-216129EB7E30}\\InprocServer32] 1727104856
-#time=1db0dcc2fd7ff56
-@="C:\\windows\\system32\\xaudio2_2.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{F5CA7B34-8055-42C0-B836-216129EB7E30}\\InprocServer32] 1729605797
+#time=1db248b24ff9f8c
+@="C:\\windows\\system32\\XAudio2_2.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{F6D90F11-9C73-11D3-B32E-00C04F990BB4}] 1727104854
@@ -44779,9 +45007,9 @@ WINE REGISTRY Version 2
 #time=1db0dcc2fd71582
 @="XAudio2"
 
-[Software\\Classes\\Wow6432Node\\CLSID\\{FAC23F48-31F5-45A8-B49B-5225D61401AA}\\InprocServer32] 1727104856
-#time=1db0dcc2fd717b2
-@="C:\\windows\\system32\\xaudio2_0.dll"
+[Software\\Classes\\Wow6432Node\\CLSID\\{FAC23F48-31F5-45A8-B49B-5225D61401AA}\\InprocServer32] 1729605794
+#time=1db248b2317cef6
+@="C:\\windows\\system32\\XAudio2_0.dll"
 "ThreadingModel"="Both"
 
 [Software\\Classes\\Wow6432Node\\CLSID\\{FAC23F48-31F5-45A8-B49B-5225D61401DB}] 1727104856
@@ -65290,6 +65518,10 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Speech\\Voices\\Tokens\\Wine Default Voice\\Attributes] 1727104849
 #time=1db0dcc2b7824d6
 
+[Software\\Microsoft\\SQMClient] 1729605771
+#time=1db248b159aaef6
+"MachineId"="{65665140-8282-4FEF-8CE8-B93B39327DD7}"
+
 [Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1727104857
 #time=1db0dcc3080660a
 
@@ -65298,6 +65530,15 @@ WINE REGISTRY Version 2
 
 [Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1727104857
 #time=1db0dcc30806a4c
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1729605772
+#time=1db248b15b20bd2
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1729605772
+#time=1db248b15b20d80
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1729605772
+#time=1db248b15b20f38
 
 [Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1727104857
 #time=1db0dcc3080776c
@@ -72006,8 +72247,8 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e4185ea
 "Installation Directory"="C:\\windows\\system32\\wbem"
 
-[Software\\Microsoft\\Windows\\CurrentVersion] 1727104857
-#time=1db0dcc309c815a
+[Software\\Microsoft\\Windows\\CurrentVersion] 1729605818
+#time=1db248b316ae38a
 "CommonFilesDir"="C:\\Program Files\\Common Files"
 "CommonFilesDir (x86)"="C:\\Program Files (x86)\\Common Files"
 "FirstInstallDateTime"=hex:21,81,7c,23
@@ -73626,17 +73867,116 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e3c265e
 "InstallerLocation"="C:\\windows\\system32"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UpgradeCodes\\167F57B58CABCB333A1864D4DD8D313A] 1729605777
+#time=1db248b18b8359a
+"1926E8D15D0BCE53481466615F760A7F"=""
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UpgradeCodes\\906426ED5B6CA6842947FEB058F4B65C] 1727104853
 #time=1db0dcc2de42940
 "8562C6DAB98B94B55B0E899A9D859F82"=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UpgradeCodes\\A2D1F4F1AD9DFC2399908484D50AD65D] 1729605773
+#time=1db248b168c81c2
+"1D5E3C0FEDA1E123187686FED06E995A"=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\005795EE21257AD309A727EEB92C170A] 1729605773
+#time=1db248b1659d736
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2565063\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\03EA91DAF1821523AAA0556E73E73D5F] 1729605776
+#time=1db248b187daf9c
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\msvcp100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\044B2B18FBDD5823299BD88873C05DE3] 1729605776
+#time=1db248b187e4de4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\vcomp100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\047DE1C57A5C26139B5BF06B6D9DFF6F] 1729605773
+#time=1db248b16582f4e
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100rus.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0480DC222D01C4F37A2077C032048022] 1729605776
+#time=1db248b187d40c0
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x64\\Version"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0595BAD9DB1D2B943A35DF12A932B367] 1729605776
+#time=1db248b187e7936
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\06A0D925C8932A8379FE28AFAF97A860] 1729605773
+#time=1db248b1657405c
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\atl100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\073BF36B030BC603E9AA9F8816AB9F56] 1729605773
+#time=1db248b16592782
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB982573\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\07F3B43BC94DD1042BE1ED9B5C4CCC80] 1729605776
+#time=1db248b187e5ce4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0A6B7DEC5302BF73F923C8C583CA5653] 1729605773
+#time=1db248b16583c64
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\vcomp100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0A9FB22A060BD3649948E6B7975BD850] 1729605773
+#time=1db248b165868b0
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0ABF41ED9D72C0D5FAF8130E364CA0A9] 1727104852
 #time=1db0dcc2d83ff2a
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v3.0\\wpf\\"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0B27EEBBB25368A34A89A4C36060B816] 1729605776
+#time=1db248b187e39c6
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100kor.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0D39492ED022EA1378DA89B0B3E37685] 1729605773
+#time=1db248b1659b346
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2549743\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0E0671D8017F7843BBA0C2E918C6E7EE] 1729605776
+#time=1db248b187f49f6
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x64\\KB2565063\\Present"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0E5E15F640714003AA9E0E3C22AD3784] 1729605773
+#time=1db248b1659bbb6
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2549743\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\0E8D57C26BBC0BA4086B6AE65D820A79] 1729605776
+#time=1db248b187e9a06
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\115EA997438B7F93F8EBF155CE5AC35E] 1729605776
+#time=1db248b187ed03e
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\SP"
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\SP"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\138B3C54EC430375FA8808A7A8838F40] 1727104852
 #time=1db0dcc2d858c82
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v3.0\\windows communication foundation\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\139C3899EB73E6C3DA23B8E687B98618] 1729605773
+#time=1db248b16574ca0
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\msvcr100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\14858EE00FA16FF4A80DF096D0BE8551] 1729605776
+#time=1db248b187ea35c
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\165CD855CB3CECA389F18FA400EF06BC] 1729605776
+#time=1db248b187fa00e
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB2544655\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\171C4EA6433E57431A371D528D617C3D] 1729605776
+#time=1db248b18802538
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\SP1\\KB2565063\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\179FE72998B7B4C319AD15ECF0D789A2] 1729605773
+#time=1db248b16579f3e
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100cht.dll"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\1A9C3F6F3F98ABE53AEE10E1071E66F8] 1727104852
 #time=1db0dcc2d857fb2
@@ -73645,6 +73985,26 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\1BF76C5A571B134549CF7DF0FE9A96D1] 1727104852
 #time=1db0dcc2d847f90
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v1.1.4322\\CONFIG\\machine.config"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\1D6D942287155543986F9D6AA8A889D8] 1729605776
+#time=1db248b187dc4a0
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100u.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\1D78CB0019EFD4A33A0ABCFAA2C03AB4] 1729605776
+#time=1db248b187e03b6
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100deu.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\1DBFA1B595D618049AFE66A3138BEBC3] 1729605773
+#time=1db248b165855b4
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\1E4E57853E21D583D98FF4FB9296D0D5] 1729605776
+#time=1db248b187f32ea
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB982573\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\211769355A0ADB737B3DB83EDDB10882] 1729605773
+#time=1db248b16596cf6
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\SP1\\KB2524860\\ThisVersionInstalled"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\221D880E69607314CBE49C9903B3B42E] 1727104852
 #time=1db0dcc2d83ea94
@@ -73658,13 +74018,82 @@ WINE REGISTRY Version 2
 #time=1db0dcc2d83fb60
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v3.0\\"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\22ADB29655D63AE309B41371AFB2D2E9] 1729605773
+#time=1db248b16578616
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfcm100u.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\27777D3C1D5245B438588A9DCD84485D] 1729605773
+#time=1db248b165874cc
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\28723E7A545B3EF3B9BE839596306FD8] 1729605776
+#time=1db248b187feb18
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB2549743\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\287437C084320CB3089DE68F3E9FE6B0] 1729605776
+#time=1db248b187e25b2
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100ita.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\2C2B57D66E505A633AC2D8B6D8B81D2F] 1729605776
+#time=1db248b187f2a70
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB982573\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\2CBF9AE5E7D63D437A0A3CB6E3246D65] 1729605776
+#time=1db248b187f43de
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB982573\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\2D17D06B78004283AA6BF0AA19CB15E7] 1729605773
+#time=1db248b165914ea
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2151757\\"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\2FE0C1AFA779CA25CA9EDDAB48FCD3E7] 1727104852
 #time=1db0dcc2d85885e
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v3.0\\wpf\\"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\3121A08DAA1666E37A639F747E57545C] 1729605773
+#time=1db248b1657bc08
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100chs.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\3253102AF64FC4631B9CA17B3CDB7B0B] 1729605773
+#time=1db248b16590c2a
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2151757\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\3359B1A2C0F81F946AEF6C0290F0A763] 1729605773
+#time=1db248b16584c40
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\33964F2EF4FF0E649B796FD4C2D6F41A] 1729605773
+#time=1db248b165734f4
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\VC\\msdia100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\339F228ED07C4FC39AD227368BCAFC03] 1729605773
+#time=1db248b165757ea
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\msvcp100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\33BEF75DAFB5F5C329FE5CA253A07615] 1729605773
+#time=1db248b16580af0
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100ita.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\35CB47430C0B49D469F3FC3F6DF46F3D] 1729605773
+#time=1db248b16585f14
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\3808C13B64A39CB4999AD62BB57ED0AC] 1729605776
+#time=1db248b187e90ba
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\39253AD2E8C483F318280F8A30E61341] 1729605776
+#time=1db248b187f089c
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2151757\\ReleaseType"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\3BD77E7EE71C5AD5FB7C3469D993432A] 1727104852
 #time=1db0dcc2d84f970
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v4.0.30319\\CONFIG\\machine.config"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\3D0EC0F06DD4975309DBF7D6C7F075C1] 1729605776
+#time=1db248b187eeeac
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2467173\\NoRemove"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\4034EB39C794BCA40ADFC163590C114B] 1727104852
 #time=1db0dcc2d83dd1a
@@ -73674,29 +74103,283 @@ WINE REGISTRY Version 2
 #time=1db0dcc2d870e18
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v2.0.50727\\CONFIG\\machine.config"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\465777D8C2D35073D89B3E56588E2F01] 1729605773
+#time=1db248b1657ffba
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100fra.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\4684A2E4A3A8C93448734651ED824904] 1729605776
+#time=1db248b187e7dfa
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\47BACE58B5FD0FB5EB32C7D5AE9AE7AC] 1727104852
 #time=1db0dcc2d84bcee
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v4.0.30319\\csc.exe"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\48DB41415A9D5EE3AA3711D8C7703207] 1729605773
+#time=1db248b16571d98
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\x86\\1033\\Install"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\493CFFC2983388A4D9B7298C2C87E508] 1729605776
+#time=1db248b187e7472
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\4CF4FF0518A89E03288E3B7604B4BD16] 1729605776
+#time=1db248b187f528e
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2524860\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\4D2E730575016573AA9BB836FFF27D4C] 1729605773
+#time=1db248b16597566
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2544655\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\4E75EDBC9D45C8B4CBFE9876DA9BCC97] 1729605776
+#time=1db248b187ec9a4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\501A32FD42C689434AF5C26D0E597E40] 1729605776
+#time=1db248b187fad9c
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2549743\\ReleaseType"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\503E2B5A4FA9F9251A422F559EA72C77] 1727104852
 #time=1db0dcc2d853d86
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v2.0.50727\\csc.exe"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\51CDBAC9106C61A499B3BFD01FAB4E25] 1729605776
+#time=1db248b187eacc6
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\557AA622C06C71258962D11816516A1F] 1727104852
 #time=1db0dcc2d85cc88
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v1.1.4322\\mscorlib.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\56111199315302F42AC73C5FF3218BB7] 1729605773
+#time=1db248b165841a0
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\5727D08DC4D4BF032A6ECC703098AB8E] 1729605776
+#time=1db248b187f110c
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2151757\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\59156F9E7CA1EA7339861E2DEB3E61E3] 1729605776
+#time=1db248b187f1954
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2151757\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\5A1A9373391361B33B5C39D0A72E69EC] 1729605776
+#time=1db248b187f65b2
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2524860\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\5B04B31931FA00D3AA3B549FD8C294E4] 1729605773
+#time=1db248b1658f0fa
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2467173\\"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\5C52BFE749CC9E25A933EA96AE43E7BA] 1727104852
 #time=1db0dcc2d868a4c
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v4.0.30319\\CONFIG\\machine.config"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\5CAF4A81CCE45D84F9FC1C3B54B9687A] 1729605776
+#time=1db248b187e5780
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\5F944F375A65215459A4865E5E946126] 1729605776
+#time=1db248b187e6658
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\60FDC9AE86DE9EA4B9A8DDE8E78778F6] 1729605773
+#time=1db248b16586e28
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\620139E0B929C2837B208B4B3039995E] 1729605776
+#time=1db248b187d9d54
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\msvcr100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\6432CE2221869C437BF73206B4A1E41B] 1729605773
+#time=1db248b16576e92
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100u.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\653ED3563DFD92235AEDBE6C434DA014] 1729605773
+#time=1db248b1657dc06
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100enu.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\67D910D9E436BC4468B47775A9D6A5D7] 1729605776
+#time=1db248b187eb16c
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\68385A979AE027C4DBB7F53B1AD0CA9F] 1729605773
+#time=1db248b16587c38
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\68906D3817F80033788F39B2CDB04A46] 1729605773
+#time=1db248b1658f9c4
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB2467173\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\68DB04C2E631ACB3C87087A18DD8C363] 1729605776
+#time=1db248b187f84ac
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2544655\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\6D11F8AFCB04FD245825E9AA92E127E6] 1729605776
+#time=1db248b187eb612
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\6E91109C5A77AA4348935489B533D8C9] 1729605776
+#time=1db248b187ff95a
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2565063\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\6F4B75D57278A4D43B873E05B6D4483B] 1729605776
+#time=1db248b187ebfea
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\700723D95B27753439A8F4809CA1D185] 1729605773
+#time=1db248b165863ba
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\71A5465AF61F20C3CBABC2F1CD58EF29] 1729605776
+#time=1db248b187f5afe
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2524860\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\724137509B874A03688844BF844518FB] 1729605773
+#time=1db248b165779c8
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfcm100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\7751726BD47AE854982A0D37BFF2AB47] 1729605773
+#time=1db248b16585a5a
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\79F45CFB9A9CC0457B569D634017D40D] 1727104852
 #time=1db0dcc2d84fd6c
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v3.5\\"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\7B309DE9782D3B03BA3458C9AA813CAF] 1729605773
+#time=1db248b16591d82
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB2151757\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\7BB6D005DCA157E428653C74A16C7983] 1729605776
+#time=1db248b187ec4f4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\7C47EBEC423D7F53DB1EEE945FDBCD8A] 1729605776
+#time=1db248b187dd9d6
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfcm100u.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\7CF850295E2D47645AEFFBA1C9CC66EA] 1729605773
+#time=1db248b1658466e
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\7E4C35488E6280433B4A9504AC59CB06] 1729605773
+#time=1db248b16571654
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x86\\Version"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\804B68262141FB03284AB0ADA539D4A9] 1729605773
+#time=1db248b16595c0c
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2524860\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\82030D4870482E948B98A5D438C2775A] 1729605776
+#time=1db248b187e8c14
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\85DC899F7C7D0943287A010C770E5157] 1729605776
+#time=1db248b187dcea0
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfcm100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\875C7AC1A0E5BC73CB72373226AAD9BD] 1729605776
+#time=1db248b187edc28
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\1033\\Install"
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\1033\\Install"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\87EF562482125DD308EDDD0E6F66C1B7] 1729605773
+#time=1db248b16594b22
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x86\\KB2565063\\Present"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\8999B4BB5A9C43939A7EFDF69951A059] 1729605773
+#time=1db248b1659537e
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2524860\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\89A8B17E1D05AB33A8A8E29029641CEA] 1729605776
+#time=1db248b187e2fee
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100jpn.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\89B834110C7557F428CFE89BE015E15E] 1729605776
+#time=1db248b187e82b4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\89D167C9B8F306038ADB87ABC137D43C] 1729605776
+#time=1db248b187ed638
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\Install"
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\Install"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\8C673C7821393984BB4561C28A3245DB] 1729605776
+#time=1db248b187e6fae
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\8CFAF524C51FA013D98AF03737CB8863] 1729605773
+#time=1db248b1657f498
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100esn.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\8EBEE9DB288E3EA36B66B61AD16E6844] 1729605773
+#time=1db248b16576352
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\8F3B9D5189C6C313E9A47BD820BFC6CD] 1729605773
+#time=1db248b16597dea
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2544655\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\903AA223F4959C147984F03FDC1CEFDF] 1729605773
+#time=1db248b16585104
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\90D46FCF40BAA9D3989112821BABDC96] 1729605773
+#time=1db248b1659c43a
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB2549743\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\90F69BE67CFD67C358567DC8B6FCE330] 1729605776
+#time=1db248b187ef726
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2467173\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\910EF7B196FE3FC3DBAD7F52B0B08C90] 1729605773
+#time=1db248b16593c36
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB982573\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\92FAE698793B37F32BE7F3134BDB9F43] 1729605773
+#time=1db248b16596454
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2524860\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\94422102FB8324F41B3E7CD7B422BDC7] 1729605776
+#time=1db248b187d7fa4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\Program Files\\Common Files\\Microsoft Shared\\VC\\msdia100.dll"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\96BFAE506B5CA0F5890706CBAF05603B] 1727104852
 #time=1db0dcc2d83e13e
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\9796DE27DAA0C7132AC5BAA921E1D603] 1729605773
+#time=1db248b165815cc
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100jpn.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\991B506CAA4DB334ABB20C1857CDE1D2] 1729605776
+#time=1db248b187ebab8
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\99D2BF5454562ED3C83E4A7240732963] 1729605773
+#time=1db248b16598722
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2544655\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\9CE196DCC992A2B3E9BABC9E5CFEA478] 1729605773
+#time=1db248b1659022a
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2151757\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\A113AE2367986D6349C713E139B192B0] 1729605776
+#time=1db248b187f6f94
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\SP1\\KB2524860\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\A233E5AC5F68E433BB1B5DF52B6FA271] 1729605776
+#time=1db248b18800d46
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2565063\\NoRemove"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\A306A1D143BAB6350871475C906960D8] 1727104852
 #time=1db0dcc2d83ef9e
@@ -73706,9 +74389,17 @@ WINE REGISTRY Version 2
 #time=1db0dcc2d864686
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v4.0.30319\\csc.exe"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\A5F2E2998E12FC436878E5B253CCE503] 1729605776
+#time=1db248b187e43b2
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100rus.dll"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\AFEEE3C85860CFA50A3B357D2C221EEB] 1727104852
 #time=1db0dcc2d83f3ae
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\B06753C403720374B9E802BE9E719431] 1729605776
+#time=1db248b187e52a8
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\B14EA7AB717F3B15CA47E07C51EF5FB9] 1727104852
 #time=1db0dcc2d840308
@@ -73722,6 +74413,100 @@ WINE REGISTRY Version 2
 #time=1db0dcc2d84414c
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework\\v1.1.4322\\mscorlib.dll"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\B7F6AAD36F41BA2329944B3482383454] 1729605776
+#time=1db248b187f794e
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2544655\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\BA8D27FBFAFD537398A986A1F078560B] 1729605776
+#time=1db248b187f000e
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB2467173\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\BC317862D77574B3A83C28AACCB97845] 1729605773
+#time=1db248b1659e8ac
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\SP1\\KB2565063\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\BC9084BB893DFAC3FA8E7E50A7B0D582] 1729605776
+#time=1db248b187fc052
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2549743\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\BCC9D60832651123697145128BA363CD] 1729605776
+#time=1db248b187de3e0
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100cht.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\BDB781F79E72FF43CAB8883AFF23E660] 1729605776
+#time=1db248b187e0f14
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100esn.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\C065BA555D648923380AAA2171113286] 1729605776
+#time=1db248b187d5470
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\amd64\\1033\\Install"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\C249A6ED1F4061548B2F0596C0EA89BC] 1729605776
+#time=1db248b187e9556
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\C3179B36BEC743044A0A333654942EFD] 1729605776
+#time=1db248b187e6afe
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\C317FAE26421C5539BAD7FD383D422DB] 1729605776
+#time=1db248b187ee5ce
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2467173\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\C71D97C391E72B947A1D2F7AE3170ABF] 1729605776
+#time=1db248b187e61a8
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\C75EBF6F23C451638BFC95A448A5DF5A] 1729605773
+#time=1db248b165944d8
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB982573\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\CC55BAE45466EF63487E80325EFD4699] 1729605776
+#time=1db248b187d8e4a
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\atl100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\CCB9282073986CA339C909012CFC4B26] 1729605776
+#time=1db248b18801b7e
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2565063\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\CDB0E4A5A741FD33EBEAD84F47016A6A] 1729605776
+#time=1db248b187f92d0
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2544655\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\CE1274E7F9904D53ABAAA449F6ED6031] 1729605773
+#time=1db248b16599078
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB2544655\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\D1896C2474BDF2C319AE7F4B6C2E628A] 1729605773
+#time=1db248b1657e980
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100deu.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\D36DFC997E9185F35AB455F4D8BD1B1A] 1729605776
+#time=1db248b187dedf4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100chs.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\D421FD5597707BC45B38AA8D09FA3C83] 1729605776
+#time=1db248b187e9eac
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\D4362D900DD7D6230A3E66C3B0972A6F] 1729605776
+#time=1db248b187e1a5e
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100fra.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\D4384C13AE8280F3EB480C99EC5A765B] 1729605773
+#time=1db248b1658e858
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2467173\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\DBAFABF29154BA733961554C0D61D3FE] 1729605773
+#time=1db248b1659a2f2
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2549743\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\DCF641B65CE867A3FA014E05B4FFB233] 1729605776
+#time=1db248b187f3b46
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB982573\\"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\E1453F5EE158C205EA3181E16F57AB75] 1727104852
 #time=1db0dcc2d83f78c
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\"
@@ -73730,9 +74515,164 @@ WINE REGISTRY Version 2
 #time=1db0dcc2d858426
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v3.0\\"
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\E303F83D271ABA430B5719C49AC5AEF9] 1729605776
+#time=1db248b187fd8bc
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2549743\\"
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\E6D3C4EF21A77F85690772935EE40402] 1727104852
 #time=1db0dcc2d86cb92
 "8562C6DAB98B94B55B0E899A9D859F82"="C:\\windows\\Microsoft.NET\\Framework64\\v2.0.50727\\csc.exe"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\E95CC18FA93667244A3962E18E1CD468] 1729605776
+#time=1db248b187ea802
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\E9AA9A9D8AD3A493C98E18E0094A9742] 1729605773
+#time=1db248b1659dfd8
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2565063\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\ECB55D8E45AD89E3ABDB0106D70A6E43] 1729605776
+#time=1db248b187dba8c
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\EDEBFFDD9304B413CAD812F52A578C3A] 1729605773
+#time=1db248b16582314
+"1D5E3C0FEDA1E123187686FED06E995A"="C:\\windows\\syswow64\\mfc100kor.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\EE0424FCA4735153A96ECB40175811C1] 1729605776
+#time=1db248b187f21ec
+"1926E8D15D0BCE53481466615F760A7F"="02:\\SOFTWARE\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB2151757\\ThisVersionInstalled"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\F1C4A3793033B904E92B1D93B9A2D3D7] 1729605776
+#time=1db248b187e8764
+"1926E8D15D0BCE53481466615F760A7F"="C:\\"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\F4EB76A1AA35D9133A9364E91C0ADD17] 1729605773
+#time=1db248b16593268
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB982573\\NoRemove"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\F8EB9A0EB7EC15836A7C7990CEBED33B] 1729605776
+#time=1db248b187df7f4
+"1926E8D15D0BCE53481466615F760A7F"="C:\\windows\\system32\\mfc100enu.dll"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\FBEBD44A7A81B583BAEA6B7CB3D8EEA9] 1729605773
+#time=1db248b1659cd2c
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2565063\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Components\\FEC766DED3943B83E9BB180005BD1684] 1729605773
+#time=1db248b1658dec6
+"1D5E3C0FEDA1E123187686FED06E995A"="02:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2467173\\ReleaseType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Patches\\2D0058F6F08A743309184BE1178C95B2] 1729605773
+#time=1db248b168ccb78
+"LocalPackage"="C:\\windows\\Installer\\88d0.msp"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Patches\\4D54076CED4F5BA32BBD3E5FAD1CD4C9] 1729605777
+#time=1db248b18b889dc
+"LocalPackage"="C:\\windows\\Installer\\96e9.msp"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1926E8D15D0BCE53481466615F760A7F\\Features] 1729605777
+#time=1db248b18b87d02
+"FT_VCRedist_x64_KB2565063_Detection"="d!OEUAn*t4d8*pZ)~H`u"
+"KB2151757"="07ka2{E+C8qJ8A_0Q`Q)KsBMnCY-h3+E+S%X[tlsE~Y4tE*-u5)t$klu46z7jv)]kI(2(5ktLT$Lul$,\2Servicing_Key"
+"KB2467173"="_=I!3hjf05Gcuv743xkeMJ1p'Pxp35d9I4K~a6,,tbrYK(_nL7x_^=UO'a&$0~1UfzR@h5zYNQ+%Zzca\2Servicing_Key"
+"KB2524860"="3Ei%BNP7f3Yn&DIFMDNGNiC1^s'N@7@$a$-r3f8W1Zch5=X3~6BkvF'@PlIk7ZxF41g,^5.(qd,a&uY&\2Servicing_Key"
+"KB2544655"="PM_n7g.5@4QM[i9]d5==)vx62Z7H67NS+S+V~bL5dP%%Euu(b4n%xZwOw`W^-}7RC]`Wu6yR)+@SB*Gj\2Servicing_Key"
+"KB2549743"="~nvep++qu4*4}om1)~X$V=C4e&8uR7X,Eu$.7c{0O4X~lrCuw4'Qi[@dceI[^1Rz^F1IU8AhNbDoO6^U\2Servicing_Key"
+"KB2565063"="HA6[izjjw4o%rxX2DnBZYsO&j}d_Q4vL+mFi0wM*kwXm!?$ct6NLUC(~PVfGU66FJ?p1r40m010^9U(m\2Servicing_Key"
+"KB982573"="&2C3KE[oW5Fu3XJ[HU&whe_LD_3l,6y_MQf{R*vE6fAKJ(W0l6s4q~A~QzM4Dp,LFrB0}4Jo~^J&[@vC\2Servicing_Key"
+"Servicing_Key"="21IUCeW4=4_]y~(,,vOI.p,*OF&]^6@zQFC-JRbrFxE@Z).YV3mw4xdt4Njg%ko5,=T8x5M9NI.YFaYo"
+"VC_RED_enu_amd64_net_SETUP"="&~xQ@LBks=_7KXt+%r4)P%=w*bQfJ?c}ijb3c]p^'U,^bLGZ[88Jdgd-9Jo%'E.M7glCc?892}^ux1sy{(h=M}`z4=V?1gr{W^TGHZF'HZt!_8Yl)tGz6=zp^Bv^ST8eC?{6K22[89qeW^CO2c@.z?GvJOiBRu9QquEbZ_iFc?=FWw-Byx~MMmH-Ax%)g9^=Is)Yd6i8KQ^V(ZieUAE[9_d2?=_rfmG[X6W{i8*1WY6S)I9P&KBcR1JNh?hJ6r@JQD3^QS-Xbi7IF@2ZOEbCUuxi-@2Qpz&F5=4I-qIGM%Mj)^[@2PSO!@urrWK_j8gXhLvZCW=j`@6Z)_neyg86d$=l'zfNdAQY2jI5k3r)L?1hx0sbF9O+cc,QT%2ScL*FZPK%n?[8zQ'bMW_B+A8OZ?*I,=tBP,D^RS@PE9~TyG(sQ9I-,p_Pl9RK?_h_h}mh[9Pm_dQqd_R2.L$!Fo3Sp@.nk~Ao'5dbS6yfA$RG6AbHQ(?)_'46eDOTj)rt?@q+X?I&pL0O"
+"VCRedist_amd64_enu"="aIf3.A`5E8UkT!'aMfx-sy.B-]'=PAXI4LPCqw-PDJ1@A_BGb5kP,=.A7WAYUN1c'f8]'6O4&*c=BKlry?v^`HN[24ojK%sRGd!xgvhos)(*-8g%JsFbO4!58Hf$.}Jcn4$c4^^d[8SU2Le6y3E&u4yK!gfap_^MGK$NkMXEE5UXji?b+.?_$pS?Q6Wl*4K?Re-)7yjoPN{LYlnQF8i(ARA6GC{[VNV5qQ}Y+63e(*&G`c[b=,-8!@]ng69[URaMvBB@mV,qPnzm%53qVW]z6b(%`CC1&lO^54O_,K7Fok=xrx-!'6*C57?kvpx%mEb&NB[?s4L0^4u,py%rZ,2aKf)JeISnm6A!+H7wCjEGz0f7Y2Fc{4k!mx1d{KV3Q`5cQ!X7841{QtS%)S48"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1926E8D15D0BCE53481466615F760A7F\\InstallProperties] 1729605777
+#time=1db248b18b836bc
+"AuthorizedCDFPrefix"=""
+"Comments"="Caution. Removing this product might prevent some applications from running."
+"Contact"=""
+"DisplayName"="Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219"
+"DisplayVersion"="10.0.40219"
+"EstimatedSize"=dword:00000000
+"HelpLink"="http://go.microsoft.com/fwlink/?LinkId=146008"
+"HelpTelephone"=""
+"InstallDate"="20241022"
+"InstallLocation"=""
+"InstallSource"="e:\\842515e6b69a6e8b26c72049b0\\"
+"Language"=dword:00000000
+"LocalPackage"="C:\\windows\\Installer\\96bd.msi"
+"ModifyPath"=str(2):"MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}"
+"NoModify"=dword:00000001
+"Publisher"="Microsoft Corporation"
+"ReadMe"=""
+"Size"=""
+"UninstallString"=str(2):"MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}"
+"URLInfoAbout"=""
+"URLUpdateInfo"=""
+"Version"=dword:0a009d1b
+"VersionMajor"=dword:0000000a
+"VersionMinor"=dword:00000000
+"WindowsInstaller"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1926E8D15D0BCE53481466615F760A7F\\Patches] 1729605777
+#time=1db248b18b96cbc
+"AllPatches"=str(7):"4D54076CED4F5BA32BBD3E5FAD1CD4C9\0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1926E8D15D0BCE53481466615F760A7F\\Patches\\4D54076CED4F5BA32BBD3E5FAD1CD4C9] 1729605777
+#time=1db248b18b96b22
+"State"=dword:00000001
+"Uninstallable"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\Features] 1729605773
+#time=1db248b168cb6e2
+"FT_VCRedist_x86_KB2565063_Detection"="G1xD9*e4s7F=,?qsa9XO"
+"KB2151757"="G9Z$kSdB$7!0&0tZ&'QSz-l(]eiLN5vH6qchCgla+9PScbRd&6CWt`_FjuZP[7V'[g5R`35E{AZT2VZy\2Servicing_Key"
+"KB2467173"="=jSAuE4~66Yjp1!S=J=?DeZ~3(dz98qRDKYeEkAc@pWbV!bT[7q_p,yz!c1AhF]GR]QCI4hiR!2o]IEH\2Servicing_Key"
+"KB2524860"="bXd4eZrmH6_h@zKw=ZuWy8^aG=Bda31fi)oS~HZYNSR2T}2MI8u.Jo3tp7%5@KTrBdtjv5yIB.ru?L$1\2Servicing_Key"
+"KB2544655"="hJPkAsQfk5}uP~GIcO=hoyw$*E@)o3VUTVUpqkpo+cmQ=H&]t7el%h0'!oU5QYjYP+zTA5m{1aW6Cl,)\2Servicing_Key"
+"KB2549743"="v$yD3jGnt5AZY+h8OgtuYawnq3e5{3V(mf&bn)KDZ_.kKx3hL3bl3zg2RC@?sp_AzZKzl7jP@u0w8M!J\2Servicing_Key"
+"KB2565063"="CZZm]}8Y,6V1z3i{1XlY7bM[ur3Bn7?_,_uCq1X[J!Bzn8O+K69qCa'P5Of.`?UH0%HL'7N02m_m{92C\2Servicing_Key"
+"KB982573"="B,pXcP{uW3I)$%TNwqjHckFQ+J=Ky3?hsrZ*BcZLhk9p+]%2Z7.0950fQ60&!{CHxGvQH5TR3u?UZ`E^\2Servicing_Key"
+"Servicing_Key"="99ZN)wPA6869oDU?]N&L.p,*OF&]^6@zQFC-JRbrFxE@Z).YV3mw4xdt4Njg%ko5,=T8x5M9NI.YFaYo"
+"VC_RED_enu_x86_net_SETUP"="I&]4Y1T^LAV3~}wXdriOmw0xVF+l_=Q@kZ+QvN'a2`DU1Tq'j?`KMU-Ft8S5,'R-4,?609aI--w``r^zlJu?E[k6g8cqPj6cCQT79n5VcF@7F=Cax6M(1rSM2I&r4}tKx@m`[FwoZX-mp0NTZ@Cd_9HE&b%'D2CD7(F-]h}uX=+T$bO?xek$@hFJt^gW)@fZwvUlYqpKX,3ygj7u5@_]3znRR&^mQ19+OI_JX@u)?`b!'j8y&KBcR1JNh?hJ6r@JQD3^QS-Xbi7IF@2ZOEbCUuxi-@2Qpz&F5=4I-qIGM%Mj)^[@2PSO!@urrWK_j8gXhLvZCW=j`@6Z)_neyg86d$=l'zfNdAQY2jI5k3r)L?1hx0sbF9O+cc,QT%2ScL*FZPK%n?[8zQ'bMW_B+A8OZ?*I,=tBP,D^RS@PE9~TyG(sQ9I-,p_Pl9RK?_h_h}mh[9Pm_dQqd_R2.L$!Fo3Sp@.nk~Ao'5dbS6yfA$RG6AbHQ(?)_'46eDOTj)rt?@q+X?I&pL0O"
+"VCRedist_x86_enu"="Wp%URtNNf4pv{b8Pkg*GGy0yqIBDk=ixr'A^Tnp[(2vVBtL256(4dSy(fc+%@]qDYt,uK7W@xTK}UAZQaoe[s)b9Z7%3izG4qOc3YX7ye]Mnw6R?ms[Lp)%=KV&7.KK){443JuF46k}a,Hsh$*{q^3x9Fiy[FeVfeu1mIx{5.8LYZN*pQ5pZO7,*W`&4H7`BLBkx^ac1+9zLn)9d'8G)8.?7y7JhZ)nUH3.K-4`RBxh~,tu88I8O9bN8E7Qrq1cKUf&_By9D9]Nli3F7E}Lm$nT5]TeOUyE+c5dDShHD'%N(GuX]mpDBJ7EsSh1v7o1BlYcxL4Eru3ndIeYKryW3N7jEptj`p34LsXFWZG_]fR^[E$.2s3^leSc{ohHx}SePk[fD~54NAhERrh15"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\InstallProperties] 1729605773
+#time=1db248b168c82bc
+"AuthorizedCDFPrefix"=""
+"Comments"="Caution. Removing this product might prevent some applications from running."
+"Contact"=""
+"DisplayName"="Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+"DisplayVersion"="10.0.40219"
+"EstimatedSize"=dword:00000000
+"HelpLink"="http://go.microsoft.com/fwlink/?LinkId=146008"
+"HelpTelephone"=""
+"InstallDate"="20241022"
+"InstallLocation"=""
+"InstallSource"="e:\\3c95252c9a17b2f07b539bd135\\"
+"Language"=dword:00000000
+"LocalPackage"="C:\\windows\\Installer\\88a0.msi"
+"ModifyPath"=str(2):"MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+"NoModify"=dword:00000001
+"Publisher"="Microsoft Corporation"
+"ReadMe"=""
+"Size"=""
+"UninstallString"=str(2):"MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+"URLInfoAbout"=""
+"URLUpdateInfo"=""
+"Version"=dword:0a009d1b
+"VersionMajor"=dword:0000000a
+"VersionMinor"=dword:00000000
+"WindowsInstaller"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\Patches] 1729605773
+#time=1db248b168ddb58
+"AllPatches"=str(7):"2D0058F6F08A743309184BE1178C95B2\0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1D5E3C0FEDA1E123187686FED06E995A\\Patches\\2D0058F6F08A743309184BE1178C95B2] 1729605773
+#time=1db248b168dd9dc
+"State"=dword:00000001
+"Uninstallable"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\1F3B805BA42A0C233B0158879691FE82\\InstallProperties] 1727104853
 #time=1db0dcc2ddccb64
@@ -74000,6 +74940,297 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00012000
 "RecommendedLevel"=dword:00012000
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{21261E28-209F-4350-B3F2-DEDDA5A169CD}] 1729605818
+#time=1db248b316c227c
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{21261E28-209F-4350-B3F2-DEDDA5A169CD}\\Properties] 1729605818
+#time=1db248b316c466c
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of Filter Chain Sink"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{21261E28-209F-4350-B3F2-DEDDA5A169CD}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of Filter Chain Sink"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of Filter Chain Sink"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0047"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}] 1729605818
+#time=1db248b316bdc68
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}\\Properties] 1729605818
+#time=1db248b316bf3d8
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="PulseAudio Input"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{25DA76D0-033C-4235-9002-19F48894AC6F}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="PulseAudio Input"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="PulseAudio Input"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0000"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{449B0804-0607-451D-B1E8-4F2DDED751FA}] 1729605818
+#time=1db248b316d2c08
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{449B0804-0607-451D-B1E8-4F2DDED751FA}\\Properties] 1729605818
+#time=1db248b316d5836
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of Rembrandt Radeon High Definition Audio Controller"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{449B0804-0607-451D-B1E8-4F2DDED751FA}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of Rembrandt Radeon High Definition Audio Controller"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of Rembrandt Radeon High Definition Audio Controller"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1002&DEV_1640\\511&DED751FA"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{5F1ED04B-37FB-42BC-BDE4-9A9D0577F06B}] 1729605818
+#time=1db248b316bf900
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{5F1ED04B-37FB-42BC-BDE4-9A9D0577F06B}\\Properties] 1729605818
+#time=1db248b316c1d72
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Filter Chain Source"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{5F1ED04B-37FB-42BC-BDE4-9A9D0577F06B}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Filter Chain Source"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Filter Chain Source"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0046"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{8AE8A0E6-9707-40E4-97AA-19C37217B0AA}] 1729605818
+#time=1db248b316c4c70
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{8AE8A0E6-9707-40E4-97AA-19C37217B0AA}\\Properties] 1729605818
+#time=1db248b316c7448
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of Virtual Sink"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{8AE8A0E6-9707-40E4-97AA-19C37217B0AA}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of Virtual Sink"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of Virtual Sink"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0050"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{A8217FD3-EF6D-482A-8F9F-021E9E8ED060}] 1729605818
+#time=1db248b316ca8dc
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{A8217FD3-EF6D-482A-8F9F-021E9E8ED060}\\Properties] 1729605818
+#time=1db248b316ccf56
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of ACP/ACP3X/ACP6x Audio Coprocessor Speaker"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{A8217FD3-EF6D-482A-8F9F-021E9E8ED060}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of ACP/ACP3X/ACP6x Audio Coprocessor Speaker"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of ACP/ACP3X/ACP6x Audio Coprocessor Speaker"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1022&DEV_15E2\\78&9E8ED060"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{B762BA34-6CA2-4A00-9693-18B0AF43964A}] 1729605818
+#time=1db248b316cd46a
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{B762BA34-6CA2-4A00-9693-18B0AF43964A}\\Properties] 1729605818
+#time=1db248b316cf828
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of ACP/ACP3X/ACP6x Audio Coprocessor Headphones"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{B762BA34-6CA2-4A00-9693-18B0AF43964A}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of ACP/ACP3X/ACP6x Audio Coprocessor Headphones"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of ACP/ACP3X/ACP6x Audio Coprocessor Headphones"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1022&DEV_15E2\\79&AF43964A"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{CAB8B0E6-CEC6-4D6C-BBAB-84316C2209BB}] 1729605818
+#time=1db248b316c79f2
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{CAB8B0E6-CEC6-4D6C-BBAB-84316C2209BB}\\Properties] 1729605818
+#time=1db248b316ca3d2
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Virtual Source"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{CAB8B0E6-CEC6-4D6C-BBAB-84316C2209BB}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Virtual Source"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Virtual Source"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0051"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{CD95E208-6E73-4DC1-A28F-38CFA5AD4E7D}] 1729605818
+#time=1db248b316cfd3c
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{CD95E208-6E73-4DC1-A28F-38CFA5AD4E7D}\\Properties] 1729605818
+#time=1db248b316d25f0
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="ACP/ACP3X/ACP6x Audio Coprocessor"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{CD95E208-6E73-4DC1-A28F-38CFA5AD4E7D}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="ACP/ACP3X/ACP6x Audio Coprocessor"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="ACP/ACP3X/ACP6x Audio Coprocessor"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1022&DEV_15E2\\80&A5AD4E7D"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{09F149F5-3CC1-4953-A370-8A30D53CBBB6}] 1729605818
+#time=1db248b316b3948
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{09F149F5-3CC1-4953-A370-8A30D53CBBB6}\\Properties] 1729605818
+#time=1db248b316b5d92
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Virtual Sink"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{09F149F5-3CC1-4953-A370-8A30D53CBBB6}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Virtual Sink"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Virtual Sink"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0050"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{381C6DE6-969D-4684-9506-E937D40CB79D}] 1729605818
+#time=1db248b316b14c2
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{381C6DE6-969D-4684-9506-E937D40CB79D}\\Properties] 1729605818
+#time=1db248b316b345c
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Filter Chain Sink"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{381C6DE6-969D-4684-9506-E937D40CB79D}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Filter Chain Sink"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Filter Chain Sink"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0047"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{6C992DC4-1DF6-40DE-8DF9-36C92AA51591}] 1729605818
+#time=1db248b316bba9e
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{6C992DC4-1DF6-40DE-8DF9-36C92AA51591}\\Properties] 1729605818
+#time=1db248b316bd998
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Rembrandt Radeon High Definition Audio Controller"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{6C992DC4-1DF6-40DE-8DF9-36C92AA51591}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Rembrandt Radeon High Definition Audio Controller"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Rembrandt Radeon High Definition Audio Controller"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1002&DEV_1640\\511&2AA51591"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{7B06A01B-8CF4-4952-88AF-81AE1E908ABC}] 1729605818
+#time=1db248b316b6422
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{7B06A01B-8CF4-4952-88AF-81AE1E908ABC}\\Properties] 1729605818
+#time=1db248b316b8d44
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="ACP/ACP3X/ACP6x Audio Coprocessor Speaker"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{7B06A01B-8CF4-4952-88AF-81AE1E908ABC}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="ACP/ACP3X/ACP6x Audio Coprocessor Speaker"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="ACP/ACP3X/ACP6x Audio Coprocessor Speaker"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1022&DEV_15E2\\78&1E908ABC"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{904ABC43-35AF-4E5F-9C6A-B278B7ED9FB9}] 1729605818
+#time=1db248b316b9406
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{904ABC43-35AF-4E5F-9C6A-B278B7ED9FB9}\\Properties] 1729605818
+#time=1db248b316bb530
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="ACP/ACP3X/ACP6x Audio Coprocessor Headphones"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{904ABC43-35AF-4E5F-9C6A-B278B7ED9FB9}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="ACP/ACP3X/ACP6x Audio Coprocessor Headphones"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="ACP/ACP3X/ACP6x Audio Coprocessor Headphones"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1022&DEV_15E2\\79&B7ED9FB9"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}] 1729605818
+#time=1db248b316ae9ca
+"DeviceState"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}\\Properties] 1729605818
+#time=1db248b316b0a36
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="PulseAudio Output"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{FD47D9CC-4218-4135-9CE2-0C195C87405B}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="PulseAudio Output"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="PulseAudio Output"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.ROOT\\MEDIA\\0000"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
+  02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System] 1727104853
 #time=1db0dcc2e3c3e82
 "EnableLUA"=dword:00000000
@@ -74027,6 +75258,10 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows\\CurrentVersion\\Setup\\WindowsFeatures\\WindowsMediaVersion] 1727104853
 #time=1db0dcc2e3c6498
 @="12.0.7601.18840"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\SharedDLLs] 1729605776
+#time=1db248b187d76bc
+"C:\\Program Files\\Common Files\\Microsoft Shared\\VC\\msdia100.dll"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Shell Extensions\\Approved] 1727104853
 #time=1db0dcc2e3c746a
@@ -75974,6 +77209,33 @@ WINE REGISTRY Version 2
   00,69,00,6f,00,6e,00,5c,00,54,00,69,00,6d,00,65,00,20,00,5a,00,6f,00,6e,00,\
   65,00,73,00
 
+[Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}] 1729605777
+#time=1db248b18b80e8a
+"AuthorizedCDFPrefix"=""
+"Comments"="Caution. Removing this product might prevent some applications from running."
+"Contact"=""
+"DisplayName"="Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219"
+"DisplayVersion"="10.0.40219"
+"EstimatedSize"=dword:00000000
+"HelpLink"="http://go.microsoft.com/fwlink/?LinkId=146008"
+"HelpTelephone"=""
+"InstallDate"="20241022"
+"InstallLocation"=""
+"InstallSource"="e:\\842515e6b69a6e8b26c72049b0\\"
+"Language"=dword:00000000
+"ModifyPath"=str(2):"MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}"
+"NoModify"=dword:00000001
+"Publisher"="Microsoft Corporation"
+"ReadMe"=""
+"Size"=""
+"UninstallString"=str(2):"MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}"
+"URLInfoAbout"=""
+"URLUpdateInfo"=""
+"Version"=dword:0a009d1b
+"VersionMajor"=dword:0000000a
+"VersionMinor"=dword:00000000
+"WindowsInstaller"=dword:00000001
+
 [Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{AD6C2658-B89B-5B49-B5E0-98A9D958F928}] 1727104853
 #time=1db0dcc2de3d2c4
 "AuthorizedCDFPrefix"=""
@@ -76032,8 +77294,8 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e418a9a
 "MAPI"="1"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion] 1727104857
-#time=1db0dcc309c4294
+[Software\\Microsoft\\Windows NT\\CurrentVersion] 1729605813
+#time=1db248b2e9524c2
 "CurrentBuild"="19043"
 "CurrentBuildNumber"="19043"
 "CurrentMajorVersionNumber"=dword:0000000a
@@ -82105,9 +83367,49 @@ WINE REGISTRY Version 2
 "Display Height"=dword:000001e0
 "Display Width"=dword:00000280
 
-[Software\\Wow6432Node\\Microsoft\\.NETFramework] 1727104852
-#time=1db0dcc2db8af2c
+[Software\\Wow6432Node\\Microsoft\\.NETFramework] 1729605785
+#time=1db248b1d7b1d5e
 "InstallRoot"="C:\\windows\\Microsoft.NET\\Framework\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2902.0] 1729605785
+#time=1db248b1d7b1fac
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2902.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2903.0] 1729605785
+#time=1db248b1d85567a
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2903.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2904.0] 1729605785
+#time=1db248b1d8a45e0
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2904.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2905.0] 1729605785
+#time=1db248b1d8f9a40
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2905.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2906.0] 1729605785
+#time=1db248b1d950d72
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2906.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2907.0] 1729605785
+#time=1db248b1d9a68d0
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2907.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2908.0] 1729605785
+#time=1db248b1da0277a
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2908.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2909.0] 1729605785
+#time=1db248b1da69cd6
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2909.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2910.0] 1729605785
+#time=1db248b1daca676
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2910.0\\"
+
+[Software\\Wow6432Node\\Microsoft\\.NETFramework\\AssemblyFolders\\DX_1.0.2911.0] 1729605785
+#time=1db248b1dc35a74
+@="C:\\windows\\Microsoft.NET\\DirectX for Managed Code\\1.0.2911.0\\"
 
 [Software\\Wow6432Node\\Microsoft\\.NETFramework\\policy\\v1.0] 1727104852
 #time=1db0dcc2db8cd18
@@ -83208,6 +84510,51 @@ WINE REGISTRY Version 2
   74,00,77,00,61,00,72,00,65,00,5c,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,\
   00,66,00,74,00,5c,00,43,00,54,00,46,00,5c,00,54,00,49,00,50,00
 
+[Software\\Wow6432Node\\Microsoft\\DevDiv\\vc\\Servicing\\10.0] 1729605773
+#time=1db248b1687d10e
+"SP"=dword:00000001
+"SPIndex"=dword:00000000
+
+[Software\\Wow6432Node\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red] 1729605777
+#time=1db248b18b2cb96
+"Install"=dword:00000001
+"InstallerType"="MSI"
+"SP"=dword:00000001
+"SPIndex"=dword:00000000
+"SPName"="SP1"
+"Version"="40219.325"
+
+[Software\\Wow6432Node\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\1033] 1729605773
+#time=1db248b1688a44e
+"Install"=dword:00000001
+"InstallerType"="MSI"
+"SP"=dword:00000001
+"SPIndex"=dword:00000000
+"SPName"="SP1"
+"Version"="40219.325"
+
+[Software\\Wow6432Node\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\amd64\\1033] 1729605777
+#time=1db248b18b3e6fc
+"Bld"=dword:00009d1b
+"Install"=dword:00000001
+"InstallerType"="MSI"
+"Rbld"=dword:00000145
+"SP"=dword:00000001
+"SPIndex"=dword:00000000
+"SPName"="SP1"
+"Version"="40219.325"
+
+[Software\\Wow6432Node\\Microsoft\\DevDiv\\vc\\Servicing\\10.0\\red\\x86\\1033] 1729605773
+#time=1db248b1687c6d2
+"Bld"=dword:00009d1b
+"Install"=dword:00000001
+"InstallerType"="MSI"
+"Rbld"=dword:00000145
+"SP"=dword:00000001
+"SPIndex"=dword:00000000
+"SPName"="SP1"
+"Version"="40219.325"
+
 [Software\\Wow6432Node\\Microsoft\\DFS] 1727104848
 #time=1db0dcc2af65456
 #link
@@ -83270,8 +84617,8 @@ WINE REGISTRY Version 2
 "Friendly Name"="Internet TCP/IP Connection For DirectPlay"
 "GUID"="{EBFE7BA0-628D-11D2-AE0F-006097B01411}"
 
-[Software\\Wow6432Node\\Microsoft\\DirectX] 1727104857
-#time=1db0dcc303ede06
+[Software\\Wow6432Node\\Microsoft\\DirectX] 1729605807
+#time=1db248b2af6212c
 "InstalledVersion"=hex:00,00,00,09,00,00,00,00
 "Version"="4.09.00.0904"
 
@@ -83576,12 +84923,142 @@ WINE REGISTRY Version 2
   00,66,00,74,00,5c,00,54,00,72,00,61,00,6e,00,73,00,61,00,63,00,74,00,69,00,\
   6f,00,6e,00,20,00,53,00,65,00,72,00,76,00,65,00,72,00
 
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB2151757] 1729605777
+#time=1db248b18b5a668
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x64 Redistributable (KB2151757)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB2467173] 1729605777
+#time=1db248b18b4ef20
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x64 Redistributable (KB2467173)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\KB982573] 1729605777
+#time=1db248b18b6293a
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x64 Redistributable (KB982573)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219\\SP1\\KB2565063] 1729605777
+#time=1db248b18b772f4
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x64 Redistributable (KB2565063)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB2151757] 1729605773
+#time=1db248b1689bde8
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x86 Redistributable (KB2151757)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB2467173] 1729605773
+#time=1db248b1689336e
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x86 Redistributable (KB2467173)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\KB982573] 1729605773
+#time=1db248b168a48bc
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x86 Redistributable (KB982573)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\Updates\\Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219\\SP1\\KB2565063] 1729605773
+#time=1db248b168bf248
+"InstalledBy"="steamuser"
+"InstalledDate"="10/22/2024"
+"InstallerName"="Windows Installer"
+"InstallerVersion"="4.5"
+"PackageName"="Hotfix for Microsoft Visual C++ 2010  x86 Redistributable (KB2565063)"
+"PackageVersion"="1"
+"Publisher"="Microsoft Corporation"
+"PublishingGroup"="Developer Division"
+"ReleaseType"="Hotfix"
+"ThisVersionInstalled"="Y"
+
+[Software\\Wow6432Node\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x64] 1729605777
+#time=1db248b18b6307e
+"Bld"=dword:00009d1b
+"Installed"=dword:00000001
+"MajorVersion"=dword:0000000a
+"MinorVersion"=dword:00000000
+"Rbld"=dword:00000145
+"Version"="v10.0.40219.325"
+
+[Software\\Wow6432Node\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x64\\KB2565063] 1729605777
+#time=1db248b18b63498
+"Present"=dword:00000001
+
+[Software\\Wow6432Node\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x86] 1729605773
+#time=1db248b168a50c8
+"Bld"=dword:00009d1b
+"Installed"=dword:00000001
+"MajorVersion"=dword:0000000a
+"MinorVersion"=dword:00000000
+"Rbld"=dword:00000145
+"Version"="v10.0.40219.325"
+
+[Software\\Wow6432Node\\Microsoft\\VisualStudio\\10.0\\VC\\VCRedist\\x86\\KB2565063] 1729605773
+#time=1db248b168a5564
+"Present"=dword:00000001
+
 [Software\\Wow6432Node\\Microsoft\\WBEM] 1727104857
 #time=1db0dcc304095b6
 "Installation Directory"="C:\\windows\\system32\\wbem"
 
-[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion] 1729581667
-#time=1db2452f65d32d0
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion] 1729605773
+#time=1db248b16572a04
 "CommonFilesDir"="C:\\Program Files (x86)\\Common Files"
 "CommonFilesDir (x86)"="C:\\Program Files (x86)\\Common Files"
 "FirstInstallDateTime"=hex:21,81,7c,23
@@ -84718,6 +86195,10 @@ WINE REGISTRY Version 2
   00,66,00,74,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,43,00,\
   75,00,72,00,72,00,65,00,6e,00,74,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,\
   00,5c,00,53,00,65,00,74,00,75,00,70,00
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\SharedDLLs] 1729605773
+#time=1db248b16572cd4
+"C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\VC\\msdia100.dll"=dword:00000001
 
 [Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Shell Extensions\\Approved] 1727104857
 #time=1db0dcc303e009e
@@ -86673,8 +88154,88 @@ WINE REGISTRY Version 2
   00,69,00,6f,00,6e,00,5c,00,54,00,69,00,6d,00,65,00,20,00,5a,00,6f,00,6e,00,\
   65,00,73,00
 
-[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall] 1727104857
-#time=1db0dcc303e0a62
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2151757] 1729605777
+#time=1db248b18b33446
+@="KB2151757"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2467173] 1729605777
+#time=1db248b18b3188a
+@="KB2467173"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2524860] 1729605777
+#time=1db248b18b64352
+@="KB2524860"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2544655] 1729605777
+#time=1db248b18b6537e
+@="KB2544655"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2549743] 1729605777
+#time=1db248b18b662d8
+@="KB2549743"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2565063] 1729605777
+#time=1db248b18b6721e
+@="KB2565063"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB982573] 1729605777
+#time=1db248b18b350ac
+@="KB982573"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}] 1729605773
+#time=1db248b168c617e
+"AuthorizedCDFPrefix"=""
+"Comments"="Caution. Removing this product might prevent some applications from running."
+"Contact"=""
+"DisplayName"="Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+"DisplayVersion"="10.0.40219"
+"EstimatedSize"=dword:00000000
+"HelpLink"="http://go.microsoft.com/fwlink/?LinkId=146008"
+"HelpTelephone"=""
+"InstallDate"="20241022"
+"InstallLocation"=""
+"InstallSource"="e:\\3c95252c9a17b2f07b539bd135\\"
+"Language"=dword:00000000
+"ModifyPath"=str(2):"MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+"NoModify"=dword:00000001
+"Publisher"="Microsoft Corporation"
+"ReadMe"=""
+"Size"=""
+"UninstallString"=str(2):"MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+"URLInfoAbout"=""
+"URLUpdateInfo"=""
+"Version"=dword:0a009d1b
+"VersionMajor"=dword:0000000a
+"VersionMinor"=dword:00000000
+"WindowsInstaller"=dword:00000001
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2151757] 1729605773
+#time=1db248b168704ae
+@="KB2151757"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2467173] 1729605773
+#time=1db248b1686e406
+@="KB2467173"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2524860] 1729605773
+#time=1db248b168a6c3e
+@="KB2524860"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2544655] 1729605773
+#time=1db248b168a907e
+@="KB2544655"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2549743] 1729605773
+#time=1db248b168abe96
+@="KB2549743"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB2565063] 1729605773
+#time=1db248b168ad76e
+@="KB2565063"
+
+[Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}.KB982573] 1729605773
+#time=1db248b168721dc
+@="KB982573"
 
 [Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\URL\\DefaultPrefix] 1727104855
 #time=1db0dcc2f013d68
@@ -87192,8 +88753,24 @@ WINE REGISTRY Version 2
 #time=1db2452f7d22742
 "InstallPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Wow6432Node\\Valve\\Steam\\Apps\\228980] 1729581670
-#time=1db2452f7d22a94
+[Software\\Wow6432Node\\Valve\\Steam\\Apps\\0] 1729605769
+#time=1db248b140ccd30
+
+[Software\\Wow6432Node\\Valve\\Steam\\Apps\\228980] 1729605807
+#time=1db248b2b0fe6ca
+
+[Software\\Wow6432Node\\Valve\\Steam\\Apps\\CommonRedist\\DirectX\\Jun2010] 1729605807
+#time=1db248b2af66b1e
+"dxsetup"=dword:00000001
+
+[Software\\Wow6432Node\\Valve\\Steam\\Apps\\CommonRedist\\vcredist\\2010] 1729605777
+#time=1db248b18c162a0
+"x64"=dword:00000001
+"x86"=dword:00000001
+
+[Software\\Wow6432Node\\Valve\\SteamService] 1729605768
+#time=1db248b13dafd50
+"installpath_default"="C:\\Program Files (x86)\\Steam"
 
 [Software\\Wow6432Node\\Wine\\LicenseInformation] 1727104857
 #time=1db0dcc30526e26
@@ -87222,14 +88799,14 @@ WINE REGISTRY Version 2
 @="Disk drives"
 "Class"="DiskDrive"
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}] 1729581669
-#time=1db2452f743373a
+[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}] 1729605814
+#time=1db248b2ef6d74e
 "Class"="Display"
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000] 1729581669
-#time=1db2452f7435512
+[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000] 1729605814
+#time=1db248b2ef6f31e
 "DriverDate"="10-22-2024"
-"DriverDateData"=hex:99,37,43,f7,52,24,db,01
+"DriverDateData"=hex:b1,d7,f6,2e,8b,24,db,01
 "DriverDesc"="AMD Custom GPU 0405 (RADV VANGOGH)"
 "DriverVersion"="31.0.21902.5"
 "HardwareInformation.AdapterString"=hex:41,00,4d,00,44,00,20,00,43,00,75,00,73,\
@@ -87258,12 +88835,12 @@ WINE REGISTRY Version 2
   00,30,00,30,00,32,00,42,00,45,00,31,00,30,00,33,00,31,00,38,00,7d,00,5c,00,\
   30,00,30,00,30,00,30,00
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}] 1729581669
-#time=1db2452f743790c
+[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}] 1729605814
+#time=1db248b2ef72000
 "Class"="Monitor"
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000] 1729581669
-#time=1db2452f743790c
+[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000] 1729605814
+#time=1db248b2ef72000
 
 [System\\CurrentControlSet\\Control\\Class\\{4d36e978-e325-11ce-bfc1-08002be10318}] 1727104853
 #time=1db0dcc2e3b64a8
@@ -87290,8 +88867,8 @@ WINE REGISTRY Version 2
 @="Imaging devices"
 "Class"="Image"
 
-[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}] 1729581668
-#time=1db2452f70b8600
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}] 1729605813
+#time=1db248b2e933f18
 @="Human Interface Devices"
 "Class"="HIDClass"
 
@@ -87365,6 +88942,131 @@ WINE REGISTRY Version 2
 "InfPath"="input.inf"
 "InfSection"="device_section"
 
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0014] 1729605767
+#time=1db248b131c6d22
+"InfPath"="winexinput.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0015] 1729605767
+#time=1db248b132044f6
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0016] 1729605767
+#time=1db248b1322b4b6
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0017] 1729605767
+#time=1db248b132607d8
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0018] 1729605767
+#time=1db248b1328e58e
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0019] 1729605767
+#time=1db248b132d35a8
+"InfPath"="winexinput.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0020] 1729605767
+#time=1db248b13309c70
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0021] 1729605767
+#time=1db248b133333c2
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0022] 1729605767
+#time=1db248b133684d2
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0023] 1729605767
+#time=1db248b133971c4
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0024] 1729605767
+#time=1db248b133d04f6
+"InfPath"="winexinput.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0025] 1729605767
+#time=1db248b13408036
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0026] 1729605767
+#time=1db248b1343b3e6
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0027] 1729605768
+#time=1db248b1346fc72
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0028] 1729605768
+#time=1db248b13499f86
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0029] 1729605813
+#time=1db248b2e797768
+"InfPath"="winexinput.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0030] 1729605813
+#time=1db248b2e7d0752
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0031] 1729605813
+#time=1db248b2e7f7b0e
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0032] 1729605813
+#time=1db248b2e82a554
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0033] 1729605813
+#time=1db248b2e851b9a
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0034] 1729605813
+#time=1db248b2e887560
+"InfPath"="winexinput.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0035] 1729605813
+#time=1db248b2e8b9eca
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0036] 1729605813
+#time=1db248b2e8e19b6
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0037] 1729605813
+#time=1db248b2e91a9e6
+"InfPath"="winehid.inf"
+"InfSection"="device_section"
+
+[System\\CurrentControlSet\\Control\\Class\\{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\\0038] 1729605813
+#time=1db248b2e9439e0
+"InfPath"="input.inf"
+"InfSection"="device_section"
+
 [System\\CurrentControlSet\\Control\\ComputerName\\ComputerName] 1729581667
 #time=1db2452f65cd2f4
 "ComputerName"="STEAMDECK"
@@ -87379,17 +89081,25 @@ WINE REGISTRY Version 2
 #time=1db0dcc2adb799c
 "DeviceInstance"="PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}\\##?#PCI#VEN_1002&DEV_163F&SUBSYS_00000000&REV_00#00000000#{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}] 1729581669
-#time=1db2452f73ff20a
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}\\##?#PCI#VEN_1002&DEV_163F&SUBSYS_00000000&REV_00#00000000#{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}] 1729605814
+#time=1db248b2edd2b50
 "DeviceInstance"="PCI\\VEN_1002&DEV_163F&SUBSYS_00000000&REV_00\\00000000"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}] 1727104857
 #time=1db0dcc306a2d40
 "DeviceInstance"="HID\\VID_845E&PID_0001\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1729581668
-#time=1db2452f6b805de
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1729605812
+#time=1db248b2e14fac2
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729605813
+#time=1db248b2e85b118
+"DeviceInstance"="HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.0&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605813
+#time=1db248b2e85b56e
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729581668
 #time=1db2452f70caed6
@@ -87399,37 +89109,77 @@ WINE REGISTRY Version 2
 #time=1db2452f70cb1f6
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.2&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729605767
+#time=1db248b1339d524
+"DeviceInstance"="HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.2&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.2&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605767
+#time=1db248b1339d8bc
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_01#1&030079f6de280000ff11000001000000.2&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_02#1&0300b836de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729605813
+#time=1db248b2e950276
+"DeviceInstance"="HID\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.1&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_02#1&0300b836de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605813
+#time=1db248b2e9505b4
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_02#1&0300b836de280000ff11000001000000.1&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_02#1&0300b836de280000ff11000001000000.3&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729605768
+#time=1db248b134a1e3e
+"DeviceInstance"="HID\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.3&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_028e&ig_02#1&0300b836de280000ff11000001000000.3&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605768
+#time=1db248b134a2172
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&ig_02#1&0300b836de280000ff11000001000000.3&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_0b22&ig_00#0&3c:fa:06:26:bd:cd&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729605767
+#time=1db248b132940ec
+"DeviceInstance"="HID\\VID_045E&PID_0B22&IG_00\\0&3C:FA:06:26:BD:CD&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_0b22&ig_00#0&3c:fa:06:26:bd:cd&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605767
+#time=1db248b132943e4
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_0b22&ig_00#0&3c:fa:06:26:bd:cd&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&ig_00#768&0300f617de2800000512000000036800.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1729581668
 #time=1db2452f6fd97fc
 "DeviceInstance"="HID\\VID_28DE&PID_1205&IG_00\\768&0300F617DE2800000512000000036800.0&0&0&1"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&ig_00#768&0300f617de2800000512000000036800.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729581668
-#time=1db2452f6fd9b8a
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_28de&pid_1205&ig_00#768&0300f617de2800000512000000036800.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605767
+#time=1db248b131726dc
 "SymbolicLink"="\\\\?\\hid#vid_28de&pid_1205&ig_00#768&0300f617de2800000512000000036800.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1727104857
 #time=1db0dcc306a0ff4
 "DeviceInstance"="HID\\VID_845E&PID_0001\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729581668
-#time=1db2452f6b7f94a
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605812
+#time=1db248b2e14ef0a
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1727104857
 #time=1db0dcc306f6d64
 "DeviceInstance"="HID\\VID_845E&PID_0002\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729581668
-#time=1db2452f6b914a6
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1729605812
+#time=1db248b2e1671b8
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#PCI#VEN_0000&DEV_0000&SUBSYS_00000000&REV_00#00000000#{5B45201D-F2F2-4F3B-85BB-30FF1F953599}] 1727104848
 #time=1db0dcc2adb6696
 "DeviceInstance"="PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#PCI#VEN_1002&DEV_163F&SUBSYS_00000000&REV_00#00000000#{5B45201D-F2F2-4F3B-85BB-30FF1F953599}] 1729581669
-#time=1db2452f73fec9c
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#PCI#VEN_1002&DEV_163F&SUBSYS_00000000&REV_00#00000000#{5B45201D-F2F2-4F3B-85BB-30FF1F953599}] 1729605814
+#time=1db248b2edd2704
 "DeviceInstance"="PCI\\VEN_1002&DEV_163F&SUBSYS_00000000&REV_00\\00000000"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729605813
+#time=1db248b2e7ff0fc
+"DeviceInstance"="HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729605813
+#time=1db248b2e7ff458
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729581668
 #time=1db2452f7068c7c
@@ -87439,21 +89189,57 @@ WINE REGISTRY Version 2
 #time=1db2452f7068f9c
 "SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
 
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.2&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729605767
+#time=1db248b13337a08
+"DeviceInstance"="HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.2&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729605767
+#time=1db248b13337cec
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&xi_01#1&030079f6de280000ff11000001000000.2&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_02#1&0300b836de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729605813
+#time=1db248b2e8e97ec
+"DeviceInstance"="HID\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_02#1&0300b836de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729605813
+#time=1db248b2e8e9abc
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&xi_02#1&0300b836de280000ff11000001000000.1&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_02#1&0300b836de280000ff11000001000000.3&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729605767
+#time=1db248b13440e22
+"DeviceInstance"="HID\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_028e&xi_02#1&0300b836de280000ff11000001000000.3&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729605767
+#time=1db248b1344112e
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_028e&xi_02#1&0300b836de280000ff11000001000000.3&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_0b22&xi_00#0&3c:fa:06:26:bd:cd&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729605767
+#time=1db248b1322e918
+"DeviceInstance"="HID\\VID_045E&PID_0B22&XI_00\\0&3C:FA:06:26:BD:CD&0&0&1"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_0b22&xi_00#0&3c:fa:06:26:bd:cd&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729605767
+#time=1db248b1322ebac
+"SymbolicLink"="\\\\?\\hid#vid_045e&pid_0b22&xi_00#0&3c:fa:06:26:bd:cd&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
+
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_28de&pid_1205&xi_00#768&0300f617de2800000512000000036800.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1729581668
 #time=1db2452f6f92582
 "DeviceInstance"="HID\\VID_28DE&PID_1205&XI_00\\768&0300F617DE2800000512000000036800.0&0&0&1"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_28de&pid_1205&xi_00#768&0300f617de2800000512000000036800.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729581668
-#time=1db2452f6f92820
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_28de&pid_1205&xi_00#768&0300f617de2800000512000000036800.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}\\#] 1729605767
+#time=1db248b13162566
 "SymbolicLink"="\\\\?\\hid#vid_28de&pid_1205&xi_00#768&0300f617de2800000512000000036800.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{884B96C3-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}] 1727104857
 #time=1db0dcc306f8952
 "DeviceInstance"="HID\\VID_845E&PID_0002\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{884B96C3-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}\\#] 1729581668
-#time=1db2452f6b91fbe
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{884B96C3-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}\\#] 1729605812
+#time=1db248b2e167be0
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}"
+
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#DISPLAY#BBY0019#0000&0000#{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}] 1729605814
+#time=1db248b2edd56ca
+"DeviceInstance"="DISPLAY\\BBY0019\\0000&0000"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#DISPLAY#Default_Monitor#0000&0000#{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}] 1727104848
 #time=1db0dcc2adbc3f2
@@ -88114,47 +89900,65 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e55f476
 "CSDVersion"=dword:00000000
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000] 1729581669
-#time=1db2452f7436c82
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000] 1729605814
+#time=1db248b2ef712cc
 "Class"="Monitor"
 "ClassGUID"="{4D36E96E-E325-11CE-BFC1-08002BE10318}"
 "DeviceDesc"="Generic Non-PnP Monitor"
 "Driver"="{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000"
-"HardwareID"=str(7):"MONITOR\\VLV3001\0"
+"HardwareID"=str(7):"MONITOR\\BBY0019\0"
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Device Parameters] 1729581669
-#time=1db2452f7436b2e
-"EDID"=hex:00,ff,ff,ff,ff,ff,ff,00,59,96,01,30,01,00,00,00,1e,1c,01,04,a5,0f,\
-  0a,78,16,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,01,00,01,00,01,00,01,\
-  00,01,00,01,00,01,00,0f,1b,00,48,50,20,2c,30,20,14,02,04,3c,3c,00,00,00,1e,\
-  00,00,00,fc,00,41,4e,58,37,35,33,30,20,55,0a,20,20,20,00,00,00,10,00,00,00,\
-  00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,00,00,00,00,00,\
-  00,00,00,00,00,93
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Device Parameters] 1729605814
+#time=1db248b2ef7115a
+"EDID"=hex:00,ff,ff,ff,ff,ff,ff,00,08,59,19,00,01,00,00,00,01,1a,01,03,80,29,\
+  17,78,0a,fc,95,a2,57,53,a1,27,0c,50,54,a3,08,00,81,c0,81,00,81,0f,81,40,81,\
+  80,95,00,b3,00,01,01,66,21,50,b0,51,00,1b,30,40,70,36,00,c4,8e,21,00,00,1e,\
+  46,20,00,a4,51,00,2a,30,50,80,37,00,80,80,21,00,00,1c,00,00,00,fc,00,4c,43,\
+  44,54,56,0a,20,20,20,20,20,20,20,00,00,00,fd,00,37,4c,1e,50,11,00,0a,20,20,\
+  20,20,20,20,01,0c,02,03,1f,73,49,01,02,03,84,05,06,07,10,20,26,09,07,07,15,\
+  07,50,83,01,00,00,65,03,0c,00,20,00,01,1d,00,72,51,d0,1e,20,6e,28,55,00,c4,\
+  8e,21,00,00,1e,8c,0a,d0,8a,20,e0,2d,10,10,3e,96,00,13,8e,21,00,00,19,01,1d,\
+  80,18,71,1c,16,20,58,2c,25,00,c4,8e,21,00,00,9e,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,09
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0002] 1729581669
-#time=1db2452f7436ebc
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0002] 1729605814
+#time=1db248b2ef71524
 @=hex(ffff0007):03,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0003] 1729581669
-#time=1db2452f743701a
-@=hex(ffff1003):00,00,00,00,00,00,00,00,00,05,00,00,20,03,00,00
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0003] 1729605814
+#time=1db248b2ef716a0
+@=hex(ffff1003):00,00,00,00,00,00,00,00,00,05,00,00,d0,02,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0004] 1729581669
-#time=1db2452f743716e
-@=hex(ffff1003):00,00,00,00,00,00,00,00,00,05,00,00,20,03,00,00
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0004] 1729605814
+#time=1db248b2ef71808
+@=hex(ffff1003):00,00,00,00,00,00,00,00,00,05,00,00,d0,02,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0005] 1729581669
-#time=1db2452f74372cc
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0005] 1729605814
+#time=1db248b2ef7197a
 @=hex(ffff0012):5c,00,5c,00,2e,00,5c,00,44,00,49,00,53,00,50,00,4c,00,41,00,59,\
   00,31,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0001] 1729581669
-#time=1db2452f7437664
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0001] 1729605814
+#time=1db248b2ef71d30
 @=hex(ffff0008):f2,03,00,00,00,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\VLV3001\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0002] 1729581669
-#time=1db2452f74377b8
+[System\\CurrentControlSet\\Enum\\DISPLAY\\BBY0019\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0002] 1729605814
+#time=1db248b2ef71ea2
 @=hex(ffff0007):00,00,00,00
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.0&0&0&1] 1729605813
+#time=1db248b2e8472bc
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&IG_01\\1&030079f6de280000ff11000001000000.0&0&0&1\0HID\\VID_045E&PID_028E&IG_01\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0033"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&IG_01\\1&030079f6de280000ff11000001000000.0&0&0&1\0HID\\VID_045E&PID_028E&IG_01\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.0&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e8472bc
 
 [System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.1&0&0&1] 1729581668
 #time=1db2452f70bd538
@@ -88169,6 +89973,58 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729581668
 #time=1db2452f70bd538
 
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.2&0&0&1] 1729605767
+#time=1db248b13387e04
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&IG_01\\1&030079f6de280000ff11000001000000.2&0&0&1\0HID\\VID_045E&PID_028E&IG_01\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0023"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&IG_01\\1&030079f6de280000ff11000001000000.2&0&0&1\0HID\\VID_045E&PID_028E&IG_01\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.2&0&0&1\\Device Parameters] 1729605767
+#time=1db248b13387e04
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.1&0&0&1] 1729605813
+#time=1db248b2e9398c8
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&IG_02\\1&0300b836de280000ff11000001000000.1&0&0&1\0HID\\VID_045E&PID_028E&IG_02\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0038"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&IG_02\\1&0300b836de280000ff11000001000000.1&0&0&1\0HID\\VID_045E&PID_028E&IG_02\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e9398c8
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.3&0&0&1] 1729605768
+#time=1db248b1348fdce
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&IG_02\\1&0300b836de280000ff11000001000000.3&0&0&1\0HID\\VID_045E&PID_028E&IG_02\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0028"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&IG_02\\1&0300b836de280000ff11000001000000.3&0&0&1\0HID\\VID_045E&PID_028E&IG_02\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.3&0&0&1\\Device Parameters] 1729605768
+#time=1db248b1348fdce
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1] 1729605813
+#time=1db248b2e7ecfb0
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&XI_01\\1&030079f6de280000ff11000001000000.0&0&0&1\0HID\\VID_045E&PID_028E&XI_01\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0031"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&XI_01\\1&030079f6de280000ff11000001000000.0&0&0&1\0HID\\VID_045E&PID_028E&XI_01\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e7ecfb0
+
 [System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1] 1729581668
 #time=1db2452f7059696
 "Class"="HIDClass"
@@ -88181,6 +90037,71 @@ WINE REGISTRY Version 2
 
 [System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729581668
 #time=1db2452f7059696
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1] 1729605767
+#time=1db248b13329ea8
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&XI_01\\1&030079f6de280000ff11000001000000.2&0&0&1\0HID\\VID_045E&PID_028E&XI_01\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0021"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&XI_01\\1&030079f6de280000ff11000001000000.2&0&0&1\0HID\\VID_045E&PID_028E&XI_01\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1\\Device Parameters] 1729605767
+#time=1db248b13329ea8
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1] 1729605813
+#time=1db248b2e8d7baa
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&XI_02\\1&0300b836de280000ff11000001000000.1&0&0&1\0HID\\VID_045E&PID_028E&XI_02\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0036"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&XI_02\\1&0300b836de280000ff11000001000000.1&0&0&1\0HID\\VID_045E&PID_028E&XI_02\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e8d7baa
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1] 1729605767
+#time=1db248b1342bca2
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_028E&XI_02\\1&0300b836de280000ff11000001000000.3&0&0&1\0HID\\VID_045E&PID_028E&XI_02\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0026"
+"HardwareID"=str(7):"HID\\VID_045E&PID_028E&XI_02\\1&0300b836de280000ff11000001000000.3&0&0&1\0HID\\VID_045E&PID_028E&XI_02\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1\\Device Parameters] 1729605767
+#time=1db248b1342bca2
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_0B22&IG_00\\0&3C:FA:06:26:BD:CD&0&0&1] 1729605767
+#time=1db248b132852ae
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_0B22&IG_00\\0&3c:fa:06:26:bd:cd&0&0&1\0HID\\VID_045E&PID_0B22&IG_00\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0018"
+"HardwareID"=str(7):"HID\\VID_045E&PID_0B22&IG_00\\0&3c:fa:06:26:bd:cd&0&0&1\0HID\\VID_045E&PID_0B22&IG_00\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_0B22&IG_00\\0&3C:FA:06:26:BD:CD&0&0&1\\Device Parameters] 1729605767
+#time=1db248b132852ae
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_0B22&XI_00\\0&3C:FA:06:26:BD:CD&0&0&1] 1729605767
+#time=1db248b1321bea8
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"HID\\VID_045E&PID_0B22&XI_00\\0&3c:fa:06:26:bd:cd&0&0&1\0HID\\VID_045E&PID_0B22&XI_00\0HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0016"
+"HardwareID"=str(7):"HID\\VID_045E&PID_0B22&XI_00\\0&3c:fa:06:26:bd:cd&0&0&1\0HID\\VID_045E&PID_0B22&XI_00\0HID\0"
+
+[System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_0B22&XI_00\\0&3C:FA:06:26:BD:CD&0&0&1\\Device Parameters] 1729605767
+#time=1db248b1321bea8
 
 [System\\CurrentControlSet\\Enum\\HID\\VID_28DE&PID_1205&IG_00\\768&0300F617DE2800000512000000036800.0&0&0&1] 1729581668
 #time=1db2452f6fcbd5a
@@ -88253,8 +90174,8 @@ WINE REGISTRY Version 2
 #time=1db2452f73fd55e
 @=hex(ffff000d):00,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00
 
-[System\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_163F&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1729581669
-#time=1db2452f743344c
+[System\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_163F&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1729605814
+#time=1db248b2ef6d47e
 @=hex(ffff0011):01,00,00,00
 
 [System\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_163F&SUBSYS_00000000&REV_00\\00000000\\Properties\\{60B193CB-5276-4D0F-96FC-F173ABAD3EC6}\\0002] 1729581669
@@ -88306,6 +90227,20 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Enum\\ROOT\\WINE\\WINEUSB\\Device Parameters] 1727104857
 #time=1db0dcc3078bc8e
 
+[System\\CurrentControlSet\\Enum\\USB\\VID_0639&PID_7217\\513&38413&1&1] 1729605766
+#time=1db248b12a2dc3c
+"ClassGUID"="{00000000-0000-0000-0000-000000000000}"
+"CompatibleIds"=str(7):"USB\\Class_11&SubClass_00&Prot_00\0USB\\Class_11&SubClass_00\0USB\\Class_11\0"
+"ConfigFlags"=dword:00000000
+"HardwareID"=str(7):"USB\\VID_0639&PID_7217&REV_960D\0USB\\VID_0639&PID_7217\0"
+
+[System\\CurrentControlSet\\Enum\\USB\\VID_0BDA&PID_8152\\528&8192&1&4] 1729605766
+#time=1db248b12a24f24
+"ClassGUID"="{00000000-0000-0000-0000-000000000000}"
+"CompatibleIds"=str(7):"USB\\Class_ff&SubClass_ff&Prot_00\0USB\\Class_ff&SubClass_ff\0USB\\Class_ff\0"
+"ConfigFlags"=dword:00000000
+"HardwareID"=str(7):"USB\\VID_0BDA&PID_8152&REV_2000\0USB\\VID_0BDA&PID_8152\0"
+
 [System\\CurrentControlSet\\Enum\\USB\\VID_13D3&PID_3553\\256&0&3&5] 1729581668
 #time=1db2452f6b85084
 "ClassGUID"="{00000000-0000-0000-0000-000000000000}"
@@ -88355,6 +90290,13 @@ WINE REGISTRY Version 2
 "ConfigFlags"=dword:00000000
 "HardwareID"=str(7):"USB\\VID_1D6B&PID_0003&REV_0601\0USB\\VID_1D6B&PID_0003\0"
 
+[System\\CurrentControlSet\\Enum\\USB\\VID_214B&PID_7250\\512&256&1&1] 1729605766
+#time=1db248b12a3be40
+"ClassGUID"="{00000000-0000-0000-0000-000000000000}"
+"CompatibleIds"=str(7):"USB\\Class_09&SubClass_00&Prot_00\0USB\\Class_09&SubClass_00\0USB\\Class_09\0"
+"ConfigFlags"=dword:00000000
+"HardwareID"=str(7):"USB\\VID_214B&PID_7250&REV_0100\0USB\\VID_214B&PID_7250\0"
+
 [System\\CurrentControlSet\\Enum\\USB\\VID_28DE&PID_1205\\512&768&3&3] 1729581668
 #time=1db2452f6b9f0e2
 "ClassGUID"="{00000000-0000-0000-0000-000000000000}"
@@ -88397,6 +90339,20 @@ WINE REGISTRY Version 2
 "ConfigFlags"=dword:00000000
 "HardwareID"=str(7):"USB\\VID_28DE&PID_1205&REV_0300&MI_04\0USB\\VID_28DE&PID_1205&MI_04\0"
 
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1] 1729605813
+#time=1db248b2e792a88
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_XINPUT\0WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine XInput compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0029"
+"HardwareID"=str(7):"WINEBUS\\VID_045E&PID_028E&MI_01\0"
+"Service"="xinput"
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e781b8e
+
 [System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1] 1729581668
 #time=1db2452f7005b22
 "Class"="HIDClass"
@@ -88410,6 +90366,62 @@ WINE REGISTRY Version 2
 
 [System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729581668
 #time=1db2452f6ff5416
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1] 1729605767
+#time=1db248b132cefee
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_XINPUT\0WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine XInput compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0019"
+"HardwareID"=str(7):"WINEBUS\\VID_045E&PID_028E&MI_01\0"
+"Service"="xinput"
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1\\Device Parameters] 1729605767
+#time=1db248b132b9eaa
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1] 1729605813
+#time=1db248b2e882a9c
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_XINPUT\0WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine XInput compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0034"
+"HardwareID"=str(7):"WINEBUS\\VID_045E&PID_028E&MI_02\0"
+"Service"="xinput"
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e873ba0
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1] 1729605767
+#time=1db248b133cbe56
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_XINPUT\0WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine XInput compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0024"
+"HardwareID"=str(7):"WINEBUS\\VID_045E&PID_028E&MI_02\0"
+"Service"="xinput"
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_028E&MI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1\\Device Parameters] 1729605767
+#time=1db248b133b6718
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_0B22\\0&3C:FA:06:26:BD:CD&0&0&1] 1729605767
+#time=1db248b131c2ea2
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_XINPUT\0WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine XInput compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0014"
+"HardwareID"=str(7):"WINEBUS\\VID_045E&PID_0B22\0"
+"Service"="xinput"
+
+[System\\CurrentControlSet\\Enum\\WINEBUS\\VID_045E&PID_0B22\\0&3C:FA:06:26:BD:CD&0&0&1\\Device Parameters] 1729605767
+#time=1db248b131b523e
 
 [System\\CurrentControlSet\\Enum\\WINEBUS\\VID_28DE&PID_1205\\768&0300F617DE2800000512000000036800.0&0&0&1] 1729581668
 #time=1db2452f6f3c8bc
@@ -88453,6 +90465,20 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Enum\\WINEBUS\\VID_845E&PID_0002\\0&0000&0&0&0\\Device Parameters] 1727104857
 #time=1db0dcc306c27c6
 
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.0&0&0&1] 1729605813
+#time=1db248b2e8251bc
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0032"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&IG_01\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.0&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e8165e0
+
 [System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.1&0&0&1] 1729581668
 #time=1db2452f709fede
 "Class"="HIDClass"
@@ -88467,6 +90493,62 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729581668
 #time=1db2452f708be84
 
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.2&0&0&1] 1729605767
+#time=1db248b13362e2e
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0022"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&IG_01\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_01\\1&030079F6DE280000FF11000001000000.2&0&0&1\\Device Parameters] 1729605767
+#time=1db248b133559a4
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.1&0&0&1] 1729605813
+#time=1db248b2e9176e2
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0037"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&IG_02\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e909358
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.3&0&0&1] 1729605768
+#time=1db248b1346c888
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0027"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&IG_02\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&IG_02\\1&0300B836DE280000FF11000001000000.3&0&0&1\\Device Parameters] 1729605767
+#time=1db248b134587c0
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1] 1729605813
+#time=1db248b2e7cca6c
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0030"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&XI_01\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.0&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e7bcfc2
+
 [System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1] 1729581668
 #time=1db2452f7037e42
 "Class"="HIDClass"
@@ -88480,6 +90562,76 @@ WINE REGISTRY Version 2
 
 [System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729581668
 #time=1db2452f70291f8
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1] 1729605767
+#time=1db248b13306cdc
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0020"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&XI_01\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_01\\1&030079F6DE280000FF11000001000000.2&0&0&1\\Device Parameters] 1729605767
+#time=1db248b132f7ea8
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1] 1729605813
+#time=1db248b2e8b5f1e
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0035"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&XI_02\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.1&0&0&1\\Device Parameters] 1729605813
+#time=1db248b2e8a67f8
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1] 1729605767
+#time=1db248b134048e6
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0025"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_028E&XI_02\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_028E&XI_02\\1&0300B836DE280000FF11000001000000.3&0&0&1\\Device Parameters] 1729605767
+#time=1db248b133f5530
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_0B22&IG_00\\0&3C:FA:06:26:BD:CD&0&0&1] 1729605767
+#time=1db248b1325ceb2
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0017"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_0B22&IG_00\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_0B22&IG_00\\0&3C:FA:06:26:BD:CD&0&0&1\\Device Parameters] 1729605767
+#time=1db248b132467de
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_0B22&XI_00\\0&3C:FA:06:26:BD:CD&0&0&1] 1729605767
+#time=1db248b13200d2e
+"Class"="HIDClass"
+"ClassGUID"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}"
+"CompatibleIds"=str(7):"WINEBUS\\WINE_COMP_HID\0"
+"ConfigFlags"=dword:00000000
+"DeviceDesc"="Wine HID compatible device"
+"Driver"="{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}\\0015"
+"HardwareID"=str(7):"WINEXINPUT\\VID_045E&PID_0B22&XI_00\0"
+"Service"="winehid"
+
+[System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_045E&PID_0B22&XI_00\\0&3C:FA:06:26:BD:CD&0&0&1\\Device Parameters] 1729605767
+#time=1db248b131ec90a
 
 [System\\CurrentControlSet\\Enum\\WINEXINPUT\\VID_28DE&PID_1205&IG_00\\768&0300F617DE2800000512000000036800.0&0&0&1] 1729581668
 #time=1db2452f6fb2850
@@ -88542,8 +90694,10 @@ WINE REGISTRY Version 2
 "Start"=dword:00000002
 "Type"=dword:00000020
 
-[System\\CurrentControlSet\\Services\\Eventlog\\Application] 1727104853
-#time=1db0dcc2e42dd78
+[System\\CurrentControlSet\\Services\\Eventlog\\Application\\VSSetup] 1729605771
+#time=1db248b15898b30
+"EventMessageFile"=str(2):"e:\\3c95252c9a17b2f07b539bd135\\DW\\DW20.exe\0oft Shared\\DW\\DW20.exe\0q\0\0\b\0\xee70\x7a54\2\0\x4848\xbd\xfabcq\xb5d4\x7a51\x4858\xbd\xee88\x7a54\2\0\xee88\x7a54\xfae4q\x9015\x7a51\x4858\xbd\2\0\xee88\x7a54\x9026\x7a51\16\0\xa954\xfffa\xfaf4q\xb5d4\x7a51\x4858\xbd\x4130\x7a4a\16\0\xfbdcq\xfb18q\x8f6e\x7a51\x4858\xbd\16\0\x4130\x7a4a\x8f7a\x7a51\xfbdcq\xfbdcq\6\0\x7ffc\x3cc6\xfb34q\xb5d4\x7a51\x4858\xbd\x4850\x7a4a\6\0\xfbdcq\xfb58q\x8f6e\x7a51\x4858\xbd\16\0\x4850\x7a4a\0\25\x1000\26\2\0@\26\0\25\0\0\0\0\xfba8q\x160f\x7bf6\xf38\x1e0\1\0\1\0\xfbe4q\xf085\x7a52\0\0\x590f\x7a4c\x57ef\x7a4c\xfbdcq\xfb98q\x4840\xbd\2\0\1\0\xf38\x1e0\xf38\x1e0\xfbbcq\x58ab\x7a52\xf38\x1e0\xf38\x1e0\1\0\xfbf0q\x802f\x7a4c\x191c\x1e0\x7e83\x7a4c\xf2c\x3bad\xf38\x1e0\x1b30\x1e0\xee70\x7a54\x4858\xbd\x298\xbd\xfc08q\x2b61\x7a53\xffff\xffff\x7e83\x7a4c\x7d28\x7a4c\x8c8\x3bad\0\0\xfe7cq\0\0\xfc50q\x6b7a\x7a53\0"
+"TypesSupported"=dword:00000007
 
 [System\\CurrentControlSet\\Services\\Eventlog\\Parameters] 1727104853
 #time=1db0dcc2e58e3de
