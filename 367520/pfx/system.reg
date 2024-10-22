@@ -88756,10 +88756,10 @@ WINE REGISTRY Version 2
 "ConfigFlags"=dword:00000000
 "HardwareID"=str(7):"USB\\VID_0BDA&PID_8152&REV_2000\0USB\\VID_0BDA&PID_8152\0"
 
-[System\\CurrentControlSet\\Enum\\USB\\VID_0BDA&PID_8152\\528&8192&1&4] 1729519841
-#time=1db23c3033a758e
+[System\\CurrentControlSet\\Enum\\USB\\VID_0BDA&PID_8152\\528&8192&1&4] 1729566133
+#time=1db242ecb3b1906
 "ClassGUID"="{00000000-0000-0000-0000-000000000000}"
-"CompatibleIds"=str(7):"USB\\DevClass_00&SubClass_00&Prot_00\0USB\\DevClass_00&SubClass_00\0USB\\DevClass_00\0"
+"CompatibleIds"=str(7):"USB\\Class_ff&SubClass_ff&Prot_00\0USB\\Class_ff&SubClass_ff\0USB\\Class_ff\0"
 "ConfigFlags"=dword:00000000
 "HardwareID"=str(7):"USB\\VID_0BDA&PID_8152&REV_2000\0USB\\VID_0BDA&PID_8152\0"
 
