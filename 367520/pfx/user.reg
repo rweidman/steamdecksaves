@@ -640,13 +640,15 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729568140
-#time=1db243377959a24
+[Software\\Team Cherry\\Hollow Knight] 1729569449
+#time=1db243684056c82
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "26HJaEr7eNwbh1krry8xbQ==_h3892986116"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"2XqmLjqJZAHt10HGMnpSwQ==_h1875620449"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "4gJRaj7JaQ2Mr4GI6tgQKooxgUpCnuhVzsOQU2AI/gw=_h3151253638"=hex:65,7a,34,4f,55,\
   4b,75,70,56,6e,42,4f,71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
@@ -702,6 +704,8 @@ WINE REGISTRY Version 2
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "NiQj3HddPdv5tNPBu40vQg==_h1242174828"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"nXOWPnfagdVLPGPmVVJzdQ==_h2599925316"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "qnynolN4dBc5Ef5Fx2Ougw==_h4013056532"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "Qu833dTkn6imLw8ltvmSRg==_h1730005784"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -723,6 +727,7 @@ WINE REGISTRY Version 2
 "unity.player_sessionid_h1351336811"=hex:34,33,33,32,38,36,38,32,39,34,37,36,\
   35,37,32,38,30,34,00
 "UnitySelectMonitor_h17969598"=dword:00000000
+"unlockedMenuStyle_h4217830736"=hex:69,6e,66,65,63,74,65,64,4d,65,6e,75,00
 "vE5KkxS7T22NbDJZ4Kd3tw==_h3912798328"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "VidBrightSet_h723137598"=dword:00000001
