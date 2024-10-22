@@ -640,8 +640,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Team Cherry\\Hollow Knight] 1729569449
-#time=1db243684056c82
+[Software\\Team Cherry\\Hollow Knight] 1729569902
+#time=1db2437919a75da
 "+cZ+0aqvbQN9f+F6KbUN1Q==_h1495024705"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "/ZIU6Q3dlcCMEDgp9RrHJw==_h3095376679"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
@@ -743,6 +743,8 @@ WINE REGISTRY Version 2
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 "yiLu4Z53h4nsFJEtVKrQ/A==_h237799944"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
   71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"ZXi0r2fxAmv7+DQMCko4P865Z28I2w0sX9J7e4kY+A8=_h2846773161"=hex:65,7a,34,4f,55,\
+  4b,75,70,56,6e,42,4f,71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
 
 [Software\\Valve\\Steam] 1728442125
 #time=1db19f5c2616274

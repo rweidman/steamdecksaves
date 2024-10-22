@@ -20275,3 +20275,31 @@ Converting Vertex Colors from Color32 to Color.
 
 Steam achievement ENDING_A (0/0) upload complete
 
+Setting skip mode: SKIP_INSTANT
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.444000 ms
+Performing automatic level start.
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 60097.
+Total: 329.753800 ms (FindLiveObjects: 5.328600 ms CreateObjectMapping: 2.719600 ms MarkObjects: 321.308600 ms  DeleteObjects: 0.395600 ms)
+
+Setting skip mode: NOT_SKIPPABLE
+
+PlayOneShot was called with a null AudioClip.
+
+Setting skip mode: SKIP_INSTANT
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.333200 ms
+Performing automatic level start.
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 60102.
+Total: 333.924600 ms (FindLiveObjects: 5.343300 ms CreateObjectMapping: 2.674500 ms MarkObjects: 325.719600 ms  DeleteObjects: 0.185700 ms)
+
+Setting skip mode: NOT_SKIPPABLE
+
+Setting skip mode: SKIP_INSTANT
+
