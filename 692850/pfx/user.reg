@@ -741,13 +741,13 @@ WINE REGISTRY Version 2
 [Software\\Wine\\Drivers\\winepulse.drv] 1726953242
 #time=1db0c6b2eb83a94
 
-[Software\\Wine\\Fonts] 1728009271
-#time=1db1605f0f3ccba
+[Software\\Wine\\Fonts] 1729952103
+#time=1db27b1736fc132
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1728009271
-#time=1db1605f0f644a4
+[Software\\Wine\\Fonts\\External Fonts] 1729952103
+#time=1db27b173760830
 "@Noto Fangsong KSS Rotated Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSRotated-Regular.ttf"
 "@Noto Fangsong KSS Vertical Regular (TrueType)"="Z:\\run\\host\\fonts\\noto\\NotoFangsongKSSVertical-Regular.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\noto-cjk\\NotoSansCJK-Regular.ttc"
@@ -1559,7 +1559,6 @@ WINE REGISTRY Version 2
 "Symbol (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\symbol.ttf"
 "Tahoma (TrueType)"="Z:\\builds\\proton\\proton\\build-dir\\dist\\dist\\share\\wine\\fonts\\tahoma.ttf"
 "Tahoma Bold (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\tahomabd.ttf"
-"Twemoji"="Z:\\run\\host\\fonts\\twemoji\\twemoji.ttf"
 "Webdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\webdings.ttf"
 "Wingdings (TrueType)"="E:\\SteamLibrary\\steamapps\\common\\Proton 6.3\\dist\\share\\wine\\fonts\\wingding.ttf"
 
