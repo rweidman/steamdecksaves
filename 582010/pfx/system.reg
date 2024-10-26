@@ -88558,6 +88558,13 @@ WINE REGISTRY Version 2
 [System\\CurrentControlSet\\Enum\\ROOT\\WINE\\WINEUSB\\Device Parameters] 1727104857
 #time=1db0dcc3078bc8e
 
+[System\\CurrentControlSet\\Enum\\USB\\VID_0639&PID_7217\\513&38413&1&1] 1729951510
+#time=1db27b0120620cc
+"ClassGUID"="{00000000-0000-0000-0000-000000000000}"
+"CompatibleIds"=str(7):"USB\\Class_11&SubClass_00&Prot_00\0USB\\Class_11&SubClass_00\0USB\\Class_11\0"
+"ConfigFlags"=dword:00000000
+"HardwareID"=str(7):"USB\\VID_0639&PID_7217&REV_960D\0USB\\VID_0639&PID_7217\0"
+
 [System\\CurrentControlSet\\Enum\\USB\\VID_13D3&PID_3553\\256&0&3&5] 1729823048
 #time=1db2684f8b67d14
 "ClassGUID"="{00000000-0000-0000-0000-000000000000}"
@@ -88606,6 +88613,13 @@ WINE REGISTRY Version 2
 "CompatibleIds"=str(7):"USB\\Class_09&SubClass_00&Prot_00\0USB\\Class_09&SubClass_00\0USB\\Class_09\0"
 "ConfigFlags"=dword:00000000
 "HardwareID"=str(7):"USB\\VID_1D6B&PID_0003&REV_0601\0USB\\VID_1D6B&PID_0003\0"
+
+[System\\CurrentControlSet\\Enum\\USB\\VID_214B&PID_7250\\512&256&1&1] 1729951510
+#time=1db27b011abcaf0
+"ClassGUID"="{00000000-0000-0000-0000-000000000000}"
+"CompatibleIds"=str(7):"USB\\Class_09&SubClass_00&Prot_00\0USB\\Class_09&SubClass_00\0USB\\Class_09\0"
+"ConfigFlags"=dword:00000000
+"HardwareID"=str(7):"USB\\VID_214B&PID_7250&REV_0100\0USB\\VID_214B&PID_7250\0"
 
 [System\\CurrentControlSet\\Enum\\USB\\VID_28DE&PID_1205\\512&768&3&3] 1729823048
 #time=1db2684f8b7af40
